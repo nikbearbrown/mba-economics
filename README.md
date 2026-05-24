@@ -1,6 +1,6 @@
 # Principles of Economics — with LLMs
 
-**Author:** Nik Bear Brown
+**Author:** Humanitarians AI
 
 **Folder:** `books/principles-economics-bundle/`
 
