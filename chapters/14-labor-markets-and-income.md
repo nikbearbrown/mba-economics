@@ -1,105 +1,126 @@
 # Chapter 14 — Labor Markets and Income
 
-
-## TL;DR
-
-- Why your wage is what it is — and the structural forces that may be holding it down or up.
-- The chapter moves through How a firm decides what to pay, Monopsony — when employers have wage-setting power, Unions — pushing back on the demand side, Bilateral monopoly — when both sides have power, and related ideas.
-- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
-
 *Why your wage is what it is — and the structural forces that may be holding it down or up.*
 
-In 1979, the typical full-time American worker with a four-year college degree earned about 35 percent more than the typical worker with only a high school diploma. By the early 2020s, that premium had widened to roughly 70 percent. Over the same period, the wages of high-school-only workers, adjusted for inflation, were roughly *flat* — sometimes a little higher, sometimes a little lower, but with no sustained upward trend.
+In 1979, the typical full-time American worker with a four-year college degree earned about 35 percent more than the typical worker with only a high school diploma. By the early 2020s, that premium had widened to roughly 70 percent. Over the same period, the wages of workers without a college degree, adjusted for inflation, were roughly *flat* — sometimes a little higher, sometimes a little lower, but with no sustained upward trend.
 
-This is a remarkable statistic. The U.S. economy more than doubled in real GDP per capita between 1979 and 2024. Productivity in many sectors grew substantially. New technologies created entire new categories of work. And yet, the wages of about half the workforce — those without a four-year degree — went essentially nowhere in real terms. The gains, almost entirely, accrued to workers with more education.
+This is remarkable. The U.S. economy more than doubled in real GDP per capita between 1979 and 2024. Productivity grew in many sectors. New technologies created entire new categories of work. And yet the wages of roughly half the workforce went essentially nowhere in real terms. The gains went almost entirely to workers with more education.
 
 What's going on?
 
-The answer requires the labor-market machinery from Chapters 3 and 4, with two important refinements this chapter introduces. First, **marginal revenue product** — the precise way a firm decides how much labor to hire. Second, the structural features of real labor markets that depart from the simple competitive model — monopsony, unions, discrimination, immigration. By the end of the chapter you should be able to explain why some labor markets clear at competitive wages and others don't, why the same job pays more in some places than others, and why the college premium has grown the way it has.
+Answering that question requires the labor-market machinery from Chapter 4, with two important refinements. First, **marginal revenue product** — the precise rule a firm uses to decide how much to pay. Second, the structural features of real labor markets that depart from the simple competitive model: monopsony, unions, discrimination, immigration. By the end you should be able to explain not just why wages differ across occupations but why the same forces that built the American middle class in the 1950s and 1960s stopped working for half the workforce in the 1980s and after.
 
-**Learning objectives.** By the end you should be able to: (1) define marginal revenue product and use it to derive a firm's demand for labor; (2) explain monopsony and predict how it affects wages and employment; (3) analyze the impact of unions on wages, employment, and the wage distribution; (4) explain how discrimination affects wages and employment in competitive and non-competitive labor markets; (5) describe the major effects of immigration on the labor market and on the broader economy.
+---
 
-**Prerequisites.** Chapter 4 (labor demand and supply). Chapter 7 (production function, marginal product). Chapter 9 (monopoly).
+## How a Firm Decides What to Pay
 
-## How a firm decides what to pay
+Start with the clean competitive case.
 
-Start with the simple competitive case. A firm has a production function. Each additional worker contributes some additional output — the **marginal product of labor**. Each additional unit of output sells at the market price. The dollar value of one more worker to the firm is therefore *marginal product × output price*, which is called the **marginal revenue product** (MRP) of that worker.
+A firm has a production function. Each additional worker produces some additional output — the **marginal product of labor**. Each unit of that output sells at the market price. The dollar value of hiring one more worker is therefore *marginal product × price* — what economists call the **marginal revenue product** (MRP).
 
-The firm hires up to the point where the marginal revenue product of the next worker just equals the wage. If the wage is $30/hour and the next worker would produce $35/hour worth of output, hire her. If the next worker would produce $25/hour worth of output, don't. The firm's demand for labor is the firm's MRP curve.
+The firm hires up to the point where MRP equals the wage. If the wage is $30 per hour and the next worker produces $35 per hour in output, hire her. If the next worker produces $25, don't. The firm's demand for labor is its MRP curve — downward-sloping, because of diminishing marginal returns, and because the marginal product of each additional worker tends to fall as more workers are added to a fixed stock of capital and other inputs.
 
-This rule explains why wages differ across occupations. A surgeon's MRP is high because a surgeon's marginal hour produces something the market values very highly. A janitor's MRP is lower because a janitor's marginal hour produces something the market values less highly per hour. The difference isn't a moral statement about the social value of the work; it's a statement about willingness-to-pay in the markets the work serves.
+<!-- → [CHART: Firm's demand for labor from MRP — downward-sloping MRP curve (= demand for labor) with wage W on the vertical axis and quantity of labor L on the horizontal axis. Horizontal line at wage W*. Firm hires L* where MRP = W*. If wage rises to W2, new quantity L2 < L*. Caption: "The firm's demand for labor is its MRP curve. Each worker is hired up to the point where the value of their output equals the wage. The demand curve slopes down because of diminishing marginal returns to labor."] -->
 
-It also explains why wages within an occupation differ across firms. A software engineer at a high-margin SaaS company has a higher MRP than the same engineer at a low-margin staffing firm because each line of code at the SaaS company generates more revenue. Same skills, different value to the employer, different wage.
+This rule explains why wages differ across occupations. A surgeon's MRP is high because a surgeon's marginal hour produces something the market values highly. A janitor's MRP is lower because a janitor's marginal hour produces something the market values less per hour. This is not a moral statement about the social value of the work; it is a statement about prices in the markets the work serves. The two could diverge enormously — and often do.
 
-Now the wrinkles.
+It also explains why wages within an occupation differ across firms. A software engineer at a high-margin SaaS company has a higher MRP than the same engineer at a low-margin staffing firm because each line of code at the SaaS company generates more revenue. Same skills, different economic context, different wage.
 
-## Monopsony — when employers have wage-setting power
+---
 
-The competitive labor market assumes many employers competing for workers. In many real labor markets, that assumption fails. A small town with one large hospital, one large meatpacking plant, or one large university has a labor market for nurses, line workers, or assistant professors that is dominated by a single employer. This is **monopsony** — a market with one (or few) buyers. The labor-market mirror of the monopoly we examined in Chapter 9.
+## Monopsony: When the Employer Sets the Price
 
-A monopsonist faces an upward-sloping labor supply curve — to hire more workers, it has to offer a higher wage to attract them. But here's the twist: when it raises the wage to attract one more worker, it has to raise the wage *for all the workers it's already employing too*. So the marginal cost of hiring one more worker is the new wage *plus* the wage increase to all existing workers. The marginal cost of labor is *higher* than the wage itself.
+The competitive model assumes many employers competing for workers. In much of the real world, that assumption fails.
 
-The monopsonist hires up to the point where MRP equals marginal cost of labor — not where MRP equals the wage. Because marginal cost > wage, the monopsonist hires *fewer* workers than a competitive industry would, and pays *lower wages*.
+A small town with one large hospital has a labor market for nurses dominated by a single buyer. So does a rural county with one large meatpacking plant, or a college town with one large university. The labor-market analog of monopoly is **monopsony** — a market with one dominant buyer.
 
-The empirical existence of monopsony power was once contested. Recent research has found it to be widespread — much more than the textbooks of the 1990s assumed. Single-employer towns, healthcare consolidation, big-box retailers in rural areas, and digital labor platforms (Uber, food delivery apps, online freelancing) all show monopsony features. Estimates of the wage suppression range from a few percent to substantially more, depending on the market.
+A monopsonist doesn't take the wage as given. It faces an upward-sloping labor supply curve: to hire more workers, it has to offer a higher wage. And here's the twist: when it raises the wage to attract one more worker, it must raise the wage for *all* the workers it's already employing. The marginal cost of hiring one more worker is therefore the new wage *plus* the wage increase owed to everyone already on the payroll. Marginal cost of labor exceeds the wage itself.
 
-The monopsony framework also resolves the minimum-wage paradox we noted in Chapter 4. In a competitive labor market, a minimum wage above equilibrium reduces employment. In a monopsonistic labor market, a minimum wage between the monopsony wage and the competitive wage *increases* both employment and the wage. The empirical evidence on minimum-wage effects, which often shows little or no employment loss from modest increases, is consistent with substantial monopsony power in many local labor markets.
+The monopsonist hires up to where MRP equals marginal cost of labor — not where MRP equals the wage. Because marginal cost exceeds the wage, the monopsonist employs *fewer* workers at *lower wages* than a competitive industry would.
 
-## Unions — pushing back on the demand side
+<!-- → [CHART: Monopsony equilibrium — diagram with wage on vertical axis, quantity of labor on horizontal axis. Upward-sloping labor supply curve S_L. Marginal cost of labor curve MCL above S_L (steeper). Downward-sloping MRP/demand curve. Competitive equilibrium where S_L = MRP: wage W_c, employment L_c. Monopsony equilibrium where MCL = MRP: employment L_m < L_c. Wage read off S_L at L_m: W_m < W_c. Caption: "The monopsonist hires less and pays less than a competitive market. The gap between W_c and W_m is the wage suppression from employer market power. The gap between L_c and L_m is the employment suppression."] -->
 
-Where monopsony gives employers power, **unions** are an institutional response that gives workers collective power. A union is an organization of workers that negotiates wages and working conditions on behalf of its members.
+The empirical existence of monopsony power was once contested. Recent research has found it to be widespread — much more than the economics textbooks of the 1990s assumed. Single-employer towns, hospital system consolidation, big-box retailers in rural markets, and digital labor platforms (Uber, food delivery apps, online freelancing marketplaces) all show measurable monopsony features. Estimates of wage suppression range from a few percent to substantially more, depending on the market.
 
-The economic effect of a union, in the simplest model, is to act as a labor monopolist. Like any monopoly, the union restricts supply (limits who can work in unionized positions) to push the price up. The result: union members earn higher wages than otherwise-comparable non-union workers. The "union wage premium" in U.S. data is typically estimated at 10–20 percent, varying by industry.
+One payoff of the monopsony model: it resolves the minimum-wage puzzle we flagged in Chapter 4. In a competitive labor market, a minimum wage above equilibrium reduces employment. In a monopsonistic market, a minimum wage between the monopsony wage and the competitive wage can *increase* both employment and wages. The minimum forces the employer to pay more and expand hiring toward the competitive level. The empirical evidence on minimum-wage effects — which often shows little or no employment loss from modest increases — is consistent with substantial monopsony power in many local labor markets.
 
-The result is also that fewer workers are employed in the unionized sector at the higher wage than would be employed at the competitive wage. Some workers who would have wanted union jobs are excluded; they end up in the non-union sector or unemployed. This is the standard textbook critique of unions — they raise the wages of insiders at the cost of outsiders.
+---
 
-The textbook critique is true at the model level and incomplete at the empirical level. Unions also provide other functions — collective bargaining over working conditions, grievance mechanisms, training programs, advocacy for legislation that benefits all workers. The wage effect is one piece of a larger institutional role. Whether unions on net help or hurt depends on how those other functions are weighted.
+## Unions: Countervailing Power
 
-U.S. union density (the fraction of workers who are union members) has fallen from about 35 percent in the mid-1950s to about 10 percent today, and most of that 10 percent is in the public sector. Private-sector unionization is around 6 percent, the lowest level in modern history. The decline reflects structural changes (manufacturing employment shrinking, service and tech expanding), legal changes (right-to-work laws in many states), and competitive pressure from non-union firms and from imports. Some commentators tie part of the wage stagnation we opened the chapter with to declining union density — workers without collective bargaining power capture less of the productivity gains they help produce.
+Where monopsony gives employers wage-setting power, **unions** are an institutional response that gives workers collective power on the supply side.
 
-## Bilateral monopoly — when both sides have power
+In the simplest economic model, a union acts like a labor monopolist. It restricts supply — limits who can work in unionized positions — to push the price up. The result: union members earn higher wages than otherwise-comparable non-union workers. The union wage premium in U.S. data is typically estimated at 10 to 20 percent, varying by industry and time period.
 
-When a monopsonistic employer faces a unionized workforce, neither side is taking the other as given. This is **bilateral monopoly**, and the outcome can't be cleanly predicted from the simple supply-and-demand framework. The wage that emerges from bargaining depends on the relative strength of the two sides — their patience, their outside options, their willingness to accept the costs of a strike or lockout.
+The cost, in the model, is that fewer workers are employed in the unionized sector at the higher wage than would be employed at the competitive wage. Workers excluded from union jobs end up in the non-union sector or unemployed. This is the standard textbook critique: unions raise the wages of insiders at the cost of outsiders.
 
-The classic example: U.S. auto manufacturing in the mid-20th century. The Big Three (GM, Ford, Chrysler) were monopsonists in their local labor markets — Detroit, Dearborn, Flint. The United Auto Workers organized those workers and pushed wages well above what the competitive market would have produced. Through the 1950s and 1960s, an auto-assembly worker without a college degree could buy a house, support a family, and retire with a pension — outcomes that depended on the bilateral-monopoly bargain. When global competition broke that structure in the 1980s and 1990s, both sides lost some of their power. Wages came down in real terms; employment shrank.
+The critique is true at the model level and incomplete at the empirical level. Unions also provide collective bargaining over working conditions, grievance mechanisms, training programs, and political advocacy. When the industry being unionized is itself non-competitive — when the employer has monopsony power — the union is not a monopolist extracting rents from a competitive market. It is a countervailing force pushing wages back toward the competitive level. In that setting, unions raise wages *and* employment.
+
+U.S. union density — the fraction of workers who are union members — has fallen from about 35 percent in the mid-1950s to about 10 percent today, with most of that 10 percent in the public sector. Private-sector unionization is around 6 percent, the lowest in modern history. The decline reflects structural shifts (manufacturing shrinking, services and technology expanding), legal changes (right-to-work laws in many states), and competitive pressure from non-union firms and imports. Some portion of the wage stagnation we opened the chapter with is tied to this collapse in union density — workers without collective bargaining power capture less of the productivity gains they help produce.
+
+<!-- → [CHART: Union wage premium and union density over time — dual-axis line chart. Left axis (bar chart): union density as % of U.S. workforce, 1950–2024, showing decline from ~35% to ~10%. Right axis (line): real median wage of non-college workers, same period, showing flat trend. Annotate: "Union density decline tracks closely with wage stagnation for non-college workers." Caption: "The correlation is not proof of causation, but the timing is suggestive: the decades when union density fell most sharply are the decades when non-college wages stagnated most clearly."] -->
+
+---
+
+## Bilateral Monopoly: When Both Sides Have Power
+
+When a monopsonistic employer faces a unionized workforce, neither side is taking the wage as given. This is **bilateral monopoly**, and the outcome can't be derived cleanly from supply and demand. The wage that emerges depends on the relative strength of the two sides — their patience, their outside options, their willingness to absorb the costs of a strike or lockout.
+
+The classic case: U.S. auto manufacturing in the mid-20th century. The Big Three — GM, Ford, Chrysler — were monopsonists in the Detroit-area labor market. The United Auto Workers organized those workers and pushed wages well above what the competitive market would have produced. Through the 1950s and 1960s, an assembly-line worker without a college degree could buy a house, support a family, and retire with a pension. That outcome depended on the bilateral-monopoly bargain.
+
+When global competition weakened the automakers' product-market power in the 1980s and 1990s, both sides of the bargain lost leverage. Wages came down in real terms. Employment shrank. The bilateral-monopoly equilibrium that had underpinned middle-class manufacturing wages dissolved.
+
+<!-- → [CHART: Bilateral monopoly timeline — Detroit auto industry. Line chart with two y-axes: left axis shows real average hourly wage for U.S. auto assembly workers (index, 1950=100), right axis shows Big Three U.S. market share (%). X-axis: 1950–2010. Period 1 (1950–1970): both wages and market share rise together — bilateral monopoly functioning. Period 2 (1970–1990): market share begins falling with Japanese competition; wages hold. Period 3 (1990–2010): both wages and market share decline. Caption: "The bilateral monopoly bargain held as long as both sides retained leverage. When the Big Three's product-market power weakened, the UAW's countervailing power weakened with it. The two curves tell the same story."] -->
+
+---
 
 ## Discrimination
 
-Markets do not, by themselves, eliminate discrimination — even though some early economic theory predicted they would.
+Markets do not, by themselves, eliminate wage discrimination — even though an early strand of economic theory predicted they would.
 
-The argument for self-correction was straightforward. If employers discriminate against a group (refuse to hire them, pay them less than their MRP), competing employers could hire the discriminated workers at lower wages and earn higher profits. Over time, the non-discriminating firms would expand, the discriminating firms would shrink, and the discrimination would be competed away.
+The self-correction argument was straightforward. If employers discriminate against a group by refusing to hire them or paying them below their MRP, non-discriminating employers can hire those workers at lower wages and earn higher profits. Over time, non-discriminating firms expand, discriminating firms shrink, and discrimination is competed away.
 
-The argument is correct in principle. The empirical record shows it works partially and slowly. Three reasons it doesn't fully eliminate discrimination:
+This argument is correct in principle and slow in practice. Three mechanisms allow discrimination to persist.
 
-**Market power.** Employers with monopsony power don't face the competitive pressure that drives non-discriminating firms to expand. They can sustain discrimination because their profits don't depend on cost-minimization.
+**Market power.** Employers with monopsony power don't face the competitive pressure that forces non-discriminating firms to expand. They can sustain discrimination because their profitability doesn't hinge on cost-minimization.
 
-**Customer or coworker discrimination.** If customers prefer to be served by certain workers, or if workers refuse to work alongside members of certain groups, employers face costs from non-discrimination that exceed the savings. The market then sustains the discrimination.
+**Customer or coworker discrimination.** If customers prefer to be served by certain workers, or if existing employees refuse to work alongside members of certain groups, employers face costs from non-discrimination that exceed the savings from lower wages. The market then rewards discriminating firms.
 
-**Information barriers.** Productive ability is often hard to observe before hiring. Employers may use group membership as a (statistically) crude proxy. Even if the proxy is wrong, individual employers may not have the resources to test it.
+**Statistical discrimination and information barriers.** Productive ability is often hard to observe before hiring. Employers may use group membership as a crude proxy — wrong about individuals, but statistically calibrated. As long as the proxy reduces hiring costs more than it distorts them, employers who use it survive.
 
-U.S. policy responses include the Civil Rights Act of 1964 (prohibiting employment discrimination by race, sex, religion, and national origin), the Equal Pay Act of 1963, the Americans with Disabilities Act of 1990, and various enforcement mechanisms through the Equal Employment Opportunity Commission. These have measurably reduced gross wage gaps, especially in the formal sector. They have not eliminated all gaps. Persistent wage differences across race and gender groups, after controlling for occupation, education, and experience, range from a few percent to over twenty percent depending on the comparison and the year.
+U.S. policy responses — the Civil Rights Act of 1964, the Equal Pay Act of 1963, the Americans with Disabilities Act, enforcement through the EEOC — have measurably reduced gross wage gaps in the formal sector. They have not eliminated them. Persistent wage differences across race and gender groups, after controlling for occupation, education, and experience, range from a few percent to over twenty percent depending on the comparison. The competition argument predicts those gaps will close over time; the evidence suggests they close slowly and incompletely.
+
+<!-- → [TABLE: Why discrimination persists despite competitive pressure — three-row summary. Rows: Market power (monopsony) / Customer or coworker discrimination / Statistical discrimination. Columns: Mechanism / Why competition doesn't eliminate it / Policy implication. Values: Market power — monopsonist can sustain discrimination because profit doesn't require cost-minimization; no competitive pressure to expand; antitrust and minimum wage can help. Customer/coworker discrimination — costs of non-discrimination are real; market may reward discrimination; anti-discrimination law is necessary but insufficient. Statistical discrimination — crude group-level proxy survives as long as it lowers screening costs; can be rational for firms even when wrong about individuals; outcome data and bias audits can help. Caption: "The market will eventually compete away discrimination only when competition is strong and margins are thin. Where competition is weak, market forces alone are insufficient — which is most of the interesting cases."] -->
+
+---
 
 ## Immigration
 
-Immigration changes both the supply of labor (more workers) and the demand for labor (more consumers, more entrepreneurs, more capital flows). The simple labor-supply story — more immigrants means lower wages for similar workers — is correct as a partial-equilibrium prediction. The general-equilibrium picture is more complex: immigrants spend money, start businesses, fill labor-market gaps, and contribute to economic growth that affects all workers' demand.
+Immigration shifts the labor supply curve right — more workers. It also shifts the labor demand curve right — more consumers, more entrepreneurs, more capital deployment. The partial-equilibrium prediction (more supply, lower wages) is correct as far as it goes. The general-equilibrium picture is more complex.
 
-Empirical evidence suggests:
+Empirical evidence on immigration's effects:
 
-- Immigration's effect on the wages of native-born workers in the U.S. is modest in aggregate — typically estimated at small negative effects (under 1–2 percent over decades) for native-born workers, with larger negative effects sometimes appearing for the most directly competing groups (in particular, native-born workers without high school degrees who compete with low-skill immigrants).
-- Immigration's effect on overall U.S. economic output is positive, both through labor-supply and through entrepreneurship.
-- Immigration's effect on government finances depends on the time horizon and which level of government is considered. Immigrants and their children, over a lifetime, are usually net contributors to federal finances. State and local governments may bear short-run costs of education and services.
+The effect on native-born workers' wages is modest in aggregate — typically estimated at under 1 to 2 percent over decades, with larger effects sometimes appearing for the most directly competing groups, particularly native-born workers without a high school degree. The effect on overall U.S. economic output is positive, both through labor supply and through entrepreneurship and innovation. Immigration's effect on government finances depends on the time horizon — immigrants and their children are typically net contributors to federal finances over a lifetime, while state and local governments may bear short-run costs of education and services.
 
-The political debate over immigration draws on broader questions — culture, security, identity — that economics does not directly address. The narrow economic claim is that immigration produces aggregate gains for the receiving country, with concentrated effects on directly competing groups of workers. Both observations are consistent with the empirical evidence.
+<!-- → [TABLE: Immigration's labor-market effects — summary of empirical evidence. Rows: Effect on average native wages / Effect on wages of workers who directly compete / Effect on overall GDP / Effect on federal government finances (lifetime) / Effect on state/local finances (short-run). Columns: Direction / Magnitude / Confidence level. Values: Average wages — small negative, under 2%, high confidence; directly competing workers — negative, larger but still modest, moderate confidence; GDP — positive, substantial, high confidence; federal finances (lifetime) — positive, net contributor, moderate confidence; state/local (short-run) — negative, depends on services used, high confidence. Caption: "The economic literature is relatively settled on aggregate effects (positive for GDP, small negative for average wages). Distributional effects are larger and more contested."] -->
 
-## Synthesis
+The political debate over immigration draws on broader questions — culture, national identity, security — that economics doesn't address. The narrow economic claim is that immigration produces aggregate gains for the receiving country, with concentrated costs on the most directly competing groups of workers. Both observations are consistent with the evidence.
 
-Pull back. The labor market is not one market. It's many markets, each with its own demand, supply, and structural features. The competitive baseline gives a clean prediction: wages equal marginal revenue product. Real labor markets often depart from the baseline in ways that suppress wages (monopsony) or push them above competitive levels (unions), with discrimination and immigration further shaping which workers earn what.
+---
 
-Returning to where the chapter opened. The college premium grew from 35 percent to 70 percent over four decades because two things happened at once. On the demand side, technological change increased the value of cognitive and analytical work — software, finance, professional services, complex management — relative to the value of routine work. The MRP curve for college-educated labor shifted right, the curve for non-college labor shifted less or even left. On the supply side, the supply of college-educated workers grew, but more slowly than the demand. Result: wages for college-educated workers rose; wages for non-college workers stagnated.
+## Back to the College Premium
 
-Several other forces fed in. Declining unionization removed a source of bargaining power that had previously raised the wages of non-college workers in manufacturing. Trade and offshoring put downward pressure on wages in manufacturing and routine services. Monopsony power in many local labor markets, especially for less-mobile workers, suppressed wages further. Each of these forces is well-documented; quantifying their relative contributions is an active research area where reasonable economists disagree.
+Now we can close the question the chapter opened with.
 
-The story is uncomfortable for both political camps. The market-friendly view that wages would rise with productivity has, for half the workforce, not held. The interventionist view that strong labor institutions would protect those wages depended on institutions (unions, regulated industries, oligopolistic firms with shared rents) that have weakened. Whatever the right policy response is, the underlying economic shifts won't reverse just because we want them to. The next chapters look at how the resulting income distribution evolved and what we might do about it.
+The college premium grew from 35 percent to 70 percent over four decades because two forces moved simultaneously. On the demand side, technological change raised the value of cognitive and analytical work — software, finance, professional services, complex management — relative to routine work. The MRP curve for college-educated labor shifted right; the curve for non-college labor shifted less, or in some sectors shifted left. On the supply side, the supply of college-educated workers grew, but more slowly than demand. Result: wages for college-educated workers rose; wages for non-college workers stagnated.
+
+Several other forces compounded this. Declining union density removed a bargaining-power source that had previously raised non-college wages in manufacturing. Trade and offshoring put downward pressure on wages in sectors where non-college workers were concentrated. Monopsony power in local labor markets — particularly for less-mobile workers — suppressed wages further. Each force is documented; their relative contributions are contested.
+
+The story is uncomfortable in different ways for different political orientations. The market-friendly prediction that productivity gains would raise all wages has, for half the workforce, not held. The interventionist prediction that strong labor institutions would protect those wages depended on institutions — unions, regulated industries, oligopolistic firms with shared rents — that have weakened. The underlying shifts in MRP, in market structure, and in bargaining power won't reverse because we want them to. What we can do about the resulting distribution is the subject of the next chapter.
+
+<!-- → [INFOGRAPHIC: Forces behind the college premium doubling (1979–2024) — horizontal stacked bar showing approximate contributions to the growth in the wage gap. Forces: (1) Skill-biased technological change — raises MRP of college workers, leaves non-college MRP flat or falling; (2) Declining union density — removes wage floor for non-college manufacturing workers; (3) Trade and offshoring — concentrated downward pressure on non-college manufacturing wages; (4) Monopsony expansion — wage suppression in local labor markets with less-mobile workers; (5) College supply growth (partial offset — limits how much the premium rises). Caption: "No single force explains the doubling. The college premium grew because multiple forces pushed in the same direction at the same time — and because the institutions (unions, regulated industries) that had partially neutralized those forces were weakened over the same period."] -->
+
+---
 
 ## LLM Exercises
 
@@ -113,15 +134,6 @@ The story is uncomfortable for both political camps. The market-friendly view th
 
 **Exercise 5 — Predict an immigration policy effect.** Tell an LLM a hypothetical: a country admits one million additional working-age immigrants over a year, half with college degrees and half without. Ask it to predict the effect on (a) native-born wages by skill level, (b) overall GDP, (c) government finances over 5 years and over 30 years. Push the LLM to be specific about which effects are large and which are small, and which empirical literature it's drawing on.
 
-## What comes next
-
-Chapter 15 — Poverty and Economic Inequality picks up the distributional question this chapter raises. Why have incomes diverged the way they have? What are the standard measures of inequality? What policies actually reduce poverty, and which produce unintended consequences? Chapter 16 — Information, Risk, and Insurance covers a different source of market failure (asymmetric information) that affects labor markets among many others.
-
-**What would change my mind.** The case that monopsony is widespread depends on recent empirical work that may yet be revised as more data accumulate. If subsequent studies show that monopsony power is rarer than current estimates suggest — especially in tradeable-services labor markets — the policy implications shift. Minimum-wage effects, in particular, become more clearly negative on employment if the typical labor market is closer to the competitive baseline than recent research suggests.
-
-**Still puzzling.** I do not have a clean account of why labor's share of national income has fallen in most developed economies over the past forty years. Multiple candidate explanations exist (technology, globalization, market power, financialization), but their relative contributions are contested. The phenomenon is broad enough that no single national policy explanation seems sufficient.
-
-*Byline: Nik Bear Brown.*
 ---
 
 ## LLM Exercise — Chapter 14: Labor Markets and Income (Policy Brief Project)
@@ -192,15 +204,17 @@ effects the policy's advocates haven't.
 
 **Preview of next chapter:** Chapter 15 turns to poverty and inequality. The chapter's hardest claim is the equality-efficiency trade-off — and your policy probably operates somewhere on that trade-off curve, whether its advocates have named it or not.
 
-
 ---
 
-##  AI Wayback Machine
+## AI Wayback Machine
 
 **Run this:**
 
 ```
-Who is Claudia Goldin, and how does their work connect to labor markets we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about their career or ideas.
+Who is Claudia Goldin, and how does their work connect to labor
+markets we covered in this chapter? Keep it to three paragraphs.
+End with the single most surprising thing about their career or
+ideas.
 ```
 
 → Search **"Claudia Goldin"** on Wikipedia.
@@ -211,3 +225,7 @@ Who is Claudia Goldin, and how does their work connect to labor markets we cover
 - Add a constraint: "Answer including criticisms or limits of Claudia Goldin's framework."
 
 What changes? What gets better? What gets worse?
+
+---
+
+*Byline: Nik Bear Brown.*
