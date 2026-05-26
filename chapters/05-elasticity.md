@@ -1,147 +1,199 @@
 # Chapter 5 — Elasticity
 
-
-## TL;DR
-
-- How sharply the world responds when you push the price.
-- The chapter moves through What elasticity measures, Why elasticities differ, Elasticity and revenue, Tax incidence — who actually pays, and related ideas.
-- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
-
 *How sharply the world responds when you push the price.*
 
-In July 2011, Netflix sent an email to its U.S. customers announcing a price change. The combined DVD-and-streaming plan, which had been $9.99 a month, was being split. From now on, customers would pay $7.99 for streaming and $7.99 for DVDs. The combined plan, in effect, jumped 60 percent — from $9.99 to $15.98.
+---
 
-The internet, predictably, was furious. Petitions. Cancellation videos. Snarky tweets. Reed Hastings, the CEO, wrote a public apology that has been studied in business-school case classes ever since.
+In July 2011, Netflix sent an email to its U.S. customers announcing a price change. The combined DVD-and-streaming plan, which had been $9.99 a month, was being split into two separate plans at $7.99 each. The combined service, in effect, jumped sixty percent overnight — from $9.99 to $15.98.
+
+The internet was furious. Petitions. Cancellation videos. Snarky tweets. Reed Hastings, the CEO, wrote a public apology that has been studied in business-school case classes ever since.
 
 Then a strange thing happened. Most of the customers who said they would cancel didn't.
 
-By the end of 2011, Netflix had lost about 800,000 subscribers — significant, but a small fraction of its more-than-25-million subscriber base. By 2013, total subscriptions were higher than before the price hike. The company's stock, which crashed in 2011, recovered and then climbed for a decade.
+By the end of 2011, Netflix had lost about 800,000 subscribers — significant, but a small fraction of its more-than-25-million subscriber base. By 2013, subscriptions were higher than before the hike. The company's stock, which cratered in 2011, recovered and climbed for a decade.
 
-So the question is: why didn't the customer base collapse the way the model from Chapter 3 might have predicted?
+Here is the puzzle: Chapter 3 told you that when price rises, quantity demanded falls. That happened — 800,000 people left. But the model doesn't tell you how *much* it falls. And whether you lose money on a price increase depends entirely on that how-much. Netflix raised prices sixty percent and came out ahead. That requires an explanation the demand-and-supply diagram alone cannot supply.
 
-The answer is that the demand-and-supply model of Chapter 3 tells you the *direction* an outcome moves when something changes — quantity goes down when price goes up. It does not tell you *how much* quantity changes. To get from "less" to "how much less" you need a refinement, and that refinement is the topic of this chapter.
+The explanation is **elasticity** — a single number that measures how responsive quantity is to a change in price. It is the refinement that turns "less" into "how much less." Once you have it, you can predict before opening the news whether a price hike will raise or sink a company's revenue. You can determine who actually pays a tax — not who is legally obligated to pay it, but who ends up poorer. You can read the Netflix story and know, without knowing the outcome, what the outcome had to be.
 
-The refinement is called **elasticity**. It's a single number that summarizes how *responsive* one variable is to a change in another. Most often we'll talk about price elasticity — how responsive quantity demanded or supplied is to a change in price. But the concept is general, and we'll see it applied to income, to substitutes, to labor, to savings.
-
-By the end of this chapter you'll be able to read that 60-percent Netflix hike and predict, before opening the news, what was going to happen to revenue. (Spoiler: it went up. Anger and lost customers don't always mean lost money.)
-
-**Learning objectives.** By the end you should be able to: (1) calculate the price elasticity of demand using the midpoint formula, and interpret the number; (2) classify a demand curve as elastic, inelastic, or unitary; (3) explain why elasticity differs across goods and across time horizons; (4) predict whether a price increase will raise or lower a seller's total revenue, given the elasticity of demand; (5) determine who actually pays a tax on a good — buyers or sellers — using the relative elasticities of demand and supply; (6) define income elasticity and cross-price elasticity.
-
-**Prerequisites.** Chapter 3 (demand, supply, equilibrium, shifts). Comfort with percentages.
+---
 
 ## What elasticity measures
 
-Elasticity is a ratio. Specifically, the **price elasticity of demand** is:
+Start with the definition.
 
-> Percent change in quantity demanded ÷ Percent change in price
+The **price elasticity of demand** is the ratio of two percentages:
 
-Suppose the price of gasoline rises 10 percent and the quantity demanded falls 4 percent. The elasticity is 4 ÷ 10 = 0.4. Suppose the price of restaurant meals rises 10 percent and the quantity demanded falls 15 percent. The elasticity is 15 ÷ 10 = 1.5.
+$$\text{Price elasticity of demand} = \frac{\% \text{ change in quantity demanded}}{\% \text{ change in price}}$$
 
-(Technical note. Because price and quantity demanded move in opposite directions, the elasticity is mathematically negative. By convention, we report the absolute value. Don't let the sign trip you up.)
+Suppose the price of gasoline rises 10 percent and quantity demanded falls 4 percent. Elasticity: 4 ÷ 10 = 0.4. Suppose the price of restaurant meals rises 10 percent and quantity demanded falls 15 percent. Elasticity: 15 ÷ 10 = 1.5.
 
-The number itself tells you a category:
+The number itself tells you which category you're in.
 
-- **Elastic** — elasticity greater than 1. Quantity changes proportionally *more* than price. Restaurant meals at 1.5 are elastic. A 10 percent price hike loses 15 percent of the customers.
-- **Inelastic** — elasticity less than 1. Quantity changes proportionally *less* than price. Gasoline at 0.4 is inelastic. A 10 percent price hike loses only 4 percent of demand.
-- **Unitary elastic** — elasticity exactly 1. Quantity changes by the same percent as price.
+If elasticity is **greater than 1** — *elastic* demand. Quantity responds proportionally more than price. A 10 percent hike loses more than 10 percent of the customers. Restaurant meals at 1.5 are elastic.
 
-Two extreme cases sit at the boundaries.
+If elasticity is **less than 1** — *inelastic* demand. Quantity responds proportionally less than price. A 10 percent hike loses less than 10 percent of the customers. Gasoline at 0.4 is inelastic.
 
-A **perfectly elastic** demand curve is horizontal — any price increase, even a small one, drops quantity demanded to zero. This happens when buyers have many perfect substitutes; raise the price even one penny and they all go elsewhere. It's a theoretical limit; few real markets achieve it.
+If elasticity is **exactly 1** — *unitary elastic*. The percentage changes are equal. Revenue stays flat when price changes.
 
-A **perfectly inelastic** demand curve is vertical — quantity demanded doesn't change at all in response to price. This happens with absolute necessities and no substitutes — emergency life-saving drugs, in the most extreme cases. Also rare in pure form.
+(Technical note: because price and quantity move in opposite directions, the elasticity is mathematically negative. By convention we report the absolute value. Don't let the sign trip you up.)
 
-The same machinery applies to supply. **Price elasticity of supply** is percent change in quantity supplied divided by percent change in price. Same categories: elastic if greater than 1, inelastic if less than 1, unitary at 1. Pizza supply is highly elastic — when prices rise, pizza shops can crank out more pies quickly. Beachfront real estate supply is highly inelastic — there is only so much beachfront, no matter the price.
+<!-- → [TABLE: Elasticity classification reference — columns: Elasticity value | Category | What it means | Revenue effect of a price increase; rows: >1 / Elastic / Quantity drops proportionally more than price / Revenue falls; =1 / Unitary elastic / Quantity drops by the same percent as price / Revenue unchanged; <1 / Inelastic / Quantity drops proportionally less than price / Revenue rises; special row: 0 / Perfectly inelastic / Quantity doesn't change at all / N/A; special row: ∞ / Perfectly elastic / Any price increase drives quantity to zero / N/A; caption: "Keep this table next to every elasticity problem — the revenue column is the one students most often get backwards"] -->
+
+Two theoretical extremes sit at the boundaries. A **perfectly elastic** demand curve is horizontal — any price increase, even a penny, drives quantity to zero. This happens when buyers have perfect substitutes and will immediately defect if you charge more. A **perfectly inelastic** demand curve is vertical — quantity doesn't move at all regardless of price. This happens with absolute necessities and no alternatives. Neither extreme is common in pure form; they're limiting cases that anchor the intuition.
+
+The same machinery applies to supply. **Price elasticity of supply**: percent change in quantity supplied divided by percent change in price. Pizza supply is highly elastic — when prices rise, a pizza shop can crank out more pies by the hour. Beachfront real estate supply is highly inelastic — there is only so much beachfront regardless of what buyers will pay.
+
+<!-- → [DIAGRAM: Three demand curves on the same axes — steep nearly-vertical curve labeled "Inelastic (e.g. insulin)"; diagonal curve labeled "Unitary elastic"; shallow nearly-horizontal curve labeled "Elastic (e.g. one café's coffee)"; all passing through the same equilibrium point; caption: "Same equilibrium price — three very different responses to a price change. The slope of the curve is the visual signature of elasticity."] -->
+
+---
 
 ## Why elasticities differ
 
-Three big factors drive how responsive demand is.
+Three factors drive how responsive demand is. Each is doing independent work, and they multiply.
 
-*Substitutes.* The more substitutes, the more elastic. Coffee at one café has many substitutes (the café next door); demand is elastic. Insulin has few substitutes; demand is inelastic. Branded products usually have inelastic demand if the brand is strong, elastic if it isn't.
+**Substitutes.** The more substitutes exist, the more elastic. Coffee at one café has many substitutes — the café next door, the one across the street, the office machine down the hall. Demand at any single café is elastic. Insulin has almost no substitutes for a diabetic patient. Demand is inelastic. A strong brand creates artificial inelasticity by convincing buyers that no substitute is acceptable. That inelasticity is the asset the brand is actually selling.
 
-*Share of budget.* The bigger the share of your budget the good takes, the more elastic. A 10 percent rise in salt prices barely registers; a 10 percent rise in mortgage rates reorganizes a household budget.
+**Share of budget.** The larger the fraction of your income a good consumes, the more carefully you watch its price and the harder you work to find alternatives when it rises. A 10 percent rise in the price of table salt is invisible to a household budget. A 10 percent rise in mortgage rates reorganizes it. Budget share and elasticity move together.
 
-*Time horizon.* The more time buyers have to adjust, the more elastic. When gas prices spike, you can't stop driving to work tomorrow. Over six months, you can carpool, switch jobs, buy a smaller car. Over five years, you can move closer to work or replace the car with an electric one. **Demand is more elastic in the long run than in the short run.** This is one of the most important and most often-forgotten facts in applied economics.
+**Time horizon.** This is the most important of the three and the most often forgotten. When gas prices spike, you cannot stop driving to work tomorrow. Over six months, you can carpool. Over two years, you can buy a more efficient car. Over five years, you can move closer to work. **Demand is more elastic in the long run than in the short run.** The same logic applies to supply. A pizza shop can make more pizzas this evening; an oil company cannot drill a new well until next year. **Supply, too, is more elastic in the long run than in the short.**
 
-The same logic applies to supply. Pizza supply is elastic because more flour and ovens can be obtained quickly. Crude oil supply is inelastic in the short run because new wells take years to drill. Housing supply is elastic in places with abundant land and permissive zoning, inelastic in places where building is hard. **Supply, like demand, is more elastic in the long run than in the short run.**
+This asymmetry between short-run and long-run elasticity is one of the most important facts in applied economics, and it explains why so many economic forecasts made at the moment of a price shock look wrong a decade later. We will come back to this.
+
+<!-- → [TABLE: Three determinants of demand elasticity — columns: Factor | More elastic when... | More inelastic when... | Example of each direction; rows: Substitutes available / many substitutes exist / few or no substitutes / coffee at one café (elastic) vs. insulin (inelastic); Share of budget / good takes large share of income / good takes tiny share / mortgage rates (elastic) vs. table salt (inelastic); Time horizon / buyers have had time to adjust / change is immediate/short-run / gas prices long-run (elastic) vs. gas prices next week (inelastic); caption: "Elasticity is not fixed — it shifts when any of these three factors change"] -->
+
+---
 
 ## Elasticity and revenue
 
-Now back to Netflix. The connection between elasticity and revenue is the most useful business application of the chapter.
+Now the Netflix story becomes a calculation.
 
-Total revenue is price times quantity. When you raise price, two things happen at once: each unit sold earns more (revenue ↑), but fewer units are sold (revenue ↓). Whether net revenue rises or falls depends on which effect wins. The deciding factor is elasticity.
+Total revenue is price times quantity: $P \times Q$. When you raise price, two things happen simultaneously: each unit sold earns more (revenue tends up), but fewer units are sold (revenue tends down). Which effect wins depends entirely on elasticity.
 
-If demand is **inelastic** (elasticity < 1), the quantity drop is small relative to the price increase. Revenue rises when you raise the price.
+If demand is **inelastic** (elasticity < 1): the quantity drop is proportionally smaller than the price increase. The "more per unit" effect beats the "fewer units" effect. Revenue rises when you raise price.
 
-If demand is **elastic** (elasticity > 1), the quantity drop is large relative to the price increase. Revenue falls when you raise the price.
+If demand is **elastic** (elasticity > 1): the quantity drop is proportionally larger than the price increase. The "fewer units" effect beats the "more per unit" effect. Revenue falls when you raise price.
 
-If demand is **unitary** (elasticity = 1), the quantity drop exactly cancels the price rise. Revenue is unchanged.
+If demand is **unitary** (elasticity = 1): the two effects exactly cancel. Revenue is unchanged.
 
-This is why Netflix didn't bleed out in 2011. Streaming demand for Netflix in 2011 was inelastic — there were no good substitutes yet. Hulu was small. Disney+ didn't exist. Amazon Prime Video was rudimentary. Most subscribers grumbled and paid. The 60 percent price hike yielded a substantial revenue increase even though some customers left. (When Disney+, Apple TV+, HBO Max, and a half-dozen other services arrived a few years later, Netflix's elasticity rose. By the early 2020s, Netflix was much more constrained in its pricing power.)
+<!-- → [TABLE: Elasticity and total revenue — columns: Demand type | Elasticity | Price increase → revenue | Price decrease → revenue; rows: Elastic / >1 / Falls / Rises; Unitary / =1 / Unchanged / Unchanged; Inelastic / <1 / Rises / Falls; caption: "The revenue rule is the most practically useful result in this chapter — every pricing decision a firm makes is an implicit bet about which row it's in"] -->
 
-The same reasoning applies to taxes. If a government wants to raise revenue from a tax on a specific good, it should target goods with inelastic demand — gasoline, tobacco, alcohol. Quantity drops a little; revenue rises a lot. If the government wants to *discourage* consumption (tobacco, sugary drinks), the same property is what makes the tax weak as a behavior-modifier. People keep buying. The government collects the revenue. The behavior changes more slowly than the revenue rises.
+Netflix in 2011 was inelastic. There were no good substitutes for streaming yet. Hulu was tiny. Disney+ didn't exist. Amazon Prime Video was a rudimentary library attached to a shipping service. HBO was still a cable-only product. The subscribers who left were the price-sensitive fringe; the ones who stayed were the committed core. The sixty percent price hike produced a substantial revenue gain even after accounting for the 800,000 departures.
 
-There is a moral edge to this. Goods with inelastic demand are often the goods people *can't easily live without* — gasoline if you commute, insulin if you're diabetic, electricity, water. Taxes on these goods raise revenue easily but fall hardest on the people whose budgets are most constrained. The revenue-elasticity logic and the equity logic are not always aligned. We will pick this up in the public-finance chapters.
+Then something changed. Between 2018 and 2021, Disney+, Apple TV+, HBO Max, Peacock, Paramount+, and a half-dozen smaller services launched and scaled rapidly. Netflix's market went from near-monopoly to competitive. Substitutes appeared. Elasticity rose. By the early 2020s, Netflix was substantially more constrained in its pricing power — a fact visible in its subscriber growth numbers when it attempted further price increases. Same company, same product, different elasticity, different outcome.
 
-### Tax incidence — who actually pays
+The lesson is worth saying plainly: **elasticity is not a fixed property of a good. It is a property of the market situation the good is in — specifically, how many substitutes exist and how much time buyers have had to adjust.** Both of those change. A business that confuses past inelasticity for permanent inelasticity will eventually make the Netflix-2022 mistake instead of the Netflix-2011 gain.
 
-Here is the use of elasticity that students often find counterintuitive. When a government taxes a good, the *legal* obligation to pay falls on either the buyer or the seller. The *actual* burden — who ends up poorer for it — is determined by the relative elasticities of demand and supply.
+---
 
-Suppose the government imposes a $1 tax per pack on cigarettes, levied on the seller. The seller, in principle, owes the dollar to the government. But the seller raises the price to cover some of the tax, and the buyer pays a higher price. How much of the dollar comes out of the seller's pocket and how much out of the buyer's depends on who can move along their curve more easily.
+## Tax incidence — who actually pays
 
-If demand is more inelastic than supply (cigarettes — addicted buyers, many sellers), buyers can't easily walk away. The seller raises the price by close to the full $1. Buyers absorb most of the tax.
+Here is the most counterintuitive application of elasticity, and one of the most policy-relevant.
 
-If supply is more inelastic than demand (something like beachfront real estate — fixed supply, mobile buyers), sellers can't easily reduce production. The price barely rises; sellers absorb most of the tax in lower prices received.
+When a government taxes a good, the *legal* obligation to pay falls on either the buyer or the seller — whoever the law designates. The *economic* burden — who actually ends up poorer — is a different question, and it is determined by the relative elasticities of demand and supply, not by what the law says.
 
-The rule: *the tax burden falls more heavily on whichever side is less elastic.* Elasticity is a measure of how easily you can leave. The side that can't leave pays.
+Suppose the government imposes a $1-per-pack tax on cigarettes, levied on the seller. The seller, in principle, owes that dollar to the government. But the seller raises the price to recoup some of it, and the buyer pays the higher price. How much of the dollar comes out of the seller's pocket and how much out of the buyer's depends on one thing: who can move along their curve more easily.
 
-This explains why payroll taxes — half levied on workers, half on employers — fall almost entirely on workers in the long run. Labor supply is more inelastic than labor demand; workers can't easily leave the labor force. Employers can substitute capital, automate, hire fewer people. The legal split is 50-50; the economic incidence is closer to 80 percent on the worker. We'll see this again in the labor chapters.
+If demand is more inelastic than supply — cigarettes are the classic case, where addicted buyers have few substitutes and many sellers compete — buyers cannot easily walk away. The seller raises the price by close to the full dollar. Buyers absorb most of the tax, regardless of who writes the check.
 
-### Income and cross-price elasticities
+If supply is more inelastic than demand — think beachfront real estate, where there is a fixed amount of beachfront and buyers can always look inland — sellers cannot reduce production. The price barely rises after the tax. Sellers absorb most of the burden in lower net receipts.
 
-Two quick extensions.
+The rule: **the tax burden falls more heavily on whichever side of the market is less elastic.** Elasticity is a measure of how easily you can escape. The side that cannot escape pays.
 
-**Income elasticity** measures how quantity demanded responds to changes in income, holding prices fixed. Most goods are *normal* — income rises, demand rises (positive income elasticity). Some are *inferior* — demand falls when income rises (negative income elasticity). Ramen noodles and bus tickets often show negative income elasticities; private jets and country-club memberships show very positive ones.
+<!-- → [DIAGRAM: Two-panel tax incidence comparison — left panel: inelastic demand (steep D), elastic supply (shallow S); tax wedge inserted; consumer price rises nearly the full tax amount, producer price barely moves; label "Buyers bear most of the tax"; right panel: elastic demand (shallow D), inelastic supply (steep S); tax wedge inserted; consumer price barely rises, producer price drops nearly the full tax amount; label "Sellers bear most of the tax"; caption: "The legal obligation to pay says nothing about who ends up poorer — that's determined entirely by which side can escape more easily"] -->
 
-**Cross-price elasticity** measures how the quantity demanded of one good responds to a change in the price of *another* good. A positive number means the goods are substitutes — when chicken gets expensive, you eat more beef. A negative number means complements — when gasoline gets expensive, you drive less *and* you buy fewer SUVs. Tracking cross-price elasticities is how a company decides which competitors actually compete with its product, regardless of what the marketing department says.
+This principle has a famous application that surprises most people. The U.S. payroll tax for Social Security and Medicare is legally split fifty-fifty between employees and employers — each pays 7.65 percent of the wage. But economists' best estimates are that the burden falls closer to 80 percent on workers. The reason is that labor supply is more inelastic than labor demand. Workers cannot easily exit the labor force when their take-home pay is cut. Employers can substitute capital for labor, automate, hire part-time contractors, offshore. Workers are less mobile than employers; they absorb more of the tax. The legal split is fifty-fifty. The economic incidence is not.
+
+Tax policy that ignores incidence is tax policy that surprises itself. A sugar tax intended to raise revenue from soda companies may in fact be paid mostly by low-income consumers, if demand for soda is inelastic and supply is elastic. A corporate income tax intended to fall on shareholders may shift partly onto workers if capital is more mobile internationally than labor. The law says who writes the check. Elasticity says who is actually poorer.
+
+---
+
+## Income elasticity and cross-price elasticity
+
+Two extensions of the framework are worth naming before the synthesis.
+
+**Income elasticity** measures how quantity demanded responds to a change in income, holding prices constant:
+
+$$\text{Income elasticity} = \frac{\% \text{ change in quantity demanded}}{\% \text{ change in income}}$$
+
+Most goods are *normal* — income rises, demand rises, positive income elasticity. Private jets and country-club memberships have very high positive income elasticities. Some goods are *inferior* — demand falls when income rises, because buyers trade up to something better. Bus tickets and instant ramen often show negative income elasticities. The category tells you something important about how a market will change as a population becomes richer or poorer over time.
+
+**Cross-price elasticity** measures how the quantity demanded of one good responds to a change in the price of a different good:
+
+$$\text{Cross-price elasticity of A with respect to B} = \frac{\% \text{ change in quantity of A demanded}}{\% \text{ change in price of B}}$$
+
+A positive number means the goods are substitutes — when chicken gets expensive, more beef is bought. A negative number means complements — when gasoline gets expensive, fewer SUVs are sold. Tracking cross-price elasticities is how a company identifies which competitors actually compete with its product, regardless of what the marketing department believes. If the cross-price elasticity between your product and a competitor's is near zero, they are not actually substitutes in the eyes of consumers, whatever the category name says.
+
+---
 
 ## Synthesis
 
-Pull back. The demand-and-supply model from Chapter 3 told you which way prices and quantities move when something changes. Elasticity tells you how much. The two together — direction and magnitude — turn the simple diagram into a real predictive tool.
+Pull back. The demand-and-supply model from Chapter 3 told you the *direction* prices and quantities move when something changes. Elasticity tells you the *magnitude*. Direction and magnitude together turn the diagram from a qualitative sketch into a real predictive instrument.
 
-The single most useful fact in this chapter, the one that gets reused everywhere: *elasticity grows with time*. Short-run inelasticity is a temporary feature of how slowly people and firms can adjust. Over time, substitutes appear, behaviors shift, capital is reallocated. The 1973 oil embargo doubled gas prices and Americans drove almost as much as before — short-run elasticity was tiny. Over the following twenty years, fuel-efficient cars replaced the gas-guzzlers, freight moved from trucks to more-efficient diesel rail, suburban sprawl was redesigned around subway lines in some cities, and per-mile gasoline consumption fell substantially. The same price shock that did almost nothing in the short run reshaped the economy over decades.
+The single most important fact in this chapter, the one that gets reused in every subsequent chapter: **elasticity grows with time.** Short-run inelasticity is not a permanent feature of demand — it is a temporary feature of how slowly people and firms can adjust. Over time, substitutes appear, behaviors shift, capital is reallocated, technologies emerge. The adjustment takes time, but it happens.
 
-The Netflix story — that's the same lesson at a different scale. In 2011, streaming had no substitutes. Inelastic. By 2024, it had ten. Elastic. The same company, the same product, the same kind of price increase would now produce a different outcome. Time changed the math.
+The 1973 oil embargo roughly doubled gasoline prices. In the short run, Americans barely changed their driving — short-run elasticity was tiny. But over the following twenty years, fuel-efficient vehicles replaced the gas-guzzlers, freight shifted from trucks to more-efficient diesel rail, suburban development patterns began to account for fuel costs, and per-vehicle gasoline consumption fell substantially. The same price shock that seemed to do almost nothing in the first year reshaped patterns of consumption and production over decades.
 
-Time changes everything in elasticity. The chapter is one number, applied carefully, with the time horizon kept honest.
+<!-- → [CHART: Line chart showing demand elasticity magnitude (y-axis) vs. time after price shock (x-axis, labeled: 1 week / 1 month / 6 months / 2 years / 10 years); single upward-sloping curve starting near zero and rising toward a plateau; annotations at key inflection points naming what adjustments occur (carpooling, fuel-efficient car purchase, job change, suburban redesign); caption: "The same shock. A different elasticity at each time horizon. The curve always rises — the question is how fast."] -->
+
+Now read the Netflix story the same way. In 2011, streaming had one serious player. Inelastic. By 2024, it had ten. Elastic. The same kind of price increase by the same company with the same product produced different outcomes because the market structure changed. Time added substitutes. Substitutes raised elasticity. Higher elasticity changed the revenue math.
+
+This is why every elasticity estimate needs a time horizon attached to it. "Inelastic" without a time horizon is incomplete. "Inelastic in the short run" is a specific, useful claim. "Inelastic in the long run" is a strong claim that needs justification — either the substitutes won't appear, or the time needed for adjustment is so long that it doesn't matter for the policy question at hand.
+
+The chapter is one number, applied carefully, with the time horizon kept honest.
+
+---
+
+## Exercises
+
+**Warm-up**
+
+*1. Calculate and classify.* The price of a concert ticket rises from $80 to $100 (a 25 percent increase). Ticket sales fall from 4,000 to 3,400 (a 15 percent decrease). Calculate the price elasticity of demand using the percentage formula. Is demand elastic, inelastic, or unitary? Based only on this number, did the venue's total revenue rise or fall? Show your arithmetic. *(Tests: computing elasticity; applying the revenue rule.)*
+
+*2. Slope and shape.* Draw two demand curves on the same axes passing through the same point — one steep, one shallow. Label which is more elastic and which is more inelastic. Then answer: if a $5 price increase is applied to both, which curve loses more quantity? Use the diagram to explain why, in one sentence, without using the word "slope." *(Tests: visual interpretation of elasticity; distinction between steep/shallow and elastic/inelastic.)*
+
+*3. Classify three goods.* For each of the following, predict whether demand is more elastic or more inelastic, and name the dominant reason (substitutes, budget share, or time horizon): (a) emergency-room visits; (b) a specific brand of luxury handbag; (c) gasoline in the week after a price spike; (d) gasoline five years after a price spike. *(Tests: applying the three determinants; noting how time horizon changes the classification for the same good.)*
+
+**Application**
+
+*4. The revenue gamble.* A regional airline is considering raising ticket prices 20 percent on its most popular route. An analyst estimates demand elasticity on that route is 0.6. A second analyst says the route's elasticity is 1.4. (a) For each estimate, predict whether revenue rises or falls and by approximately how much. (b) Which analyst's estimate makes the price increase a good idea? (c) What information about the route would help you decide which analyst is right? *(Tests: applying the revenue rule with numerical elasticities; reasoning about what determines elasticity in a specific market.)*
+
+*5. Who bears the gas tax?* The federal gasoline tax in the U.S. is levied on refiners (sellers). Short-run demand elasticity for gasoline is approximately 0.2; short-run supply elasticity is approximately 0.4. Use the incidence rule to estimate what fraction of the tax is borne by consumers versus producers in the short run. Then repeat the analysis assuming long-run elasticities of 0.7 (demand) and 1.2 (supply). How does the incidence shift? *(Tests: applying the incidence rule numerically; connecting short-run vs. long-run elasticity to policy consequences.)*
+
+*6. Netflix 2022.* By 2022, Netflix faced meaningful competition from Disney+, HBO Max, Apple TV+, and Peacock. In January 2022, Netflix raised prices and lost 200,000 subscribers in Q1 — its first subscriber loss in a decade. Apply the elasticity framework: (a) What changed about Netflix's market structure between 2011 and 2022 that changed the relevant elasticity? (b) Was Netflix's demand elastic or inelastic in 2022 by the time losses appeared? (c) What does this imply about what Netflix's revenue did in Q1 2022? Check whether your prediction matches the reported outcome. *(Tests: elasticity as a market property not a product property; connecting substitutes and time to observable outcomes.)*
+
+**Synthesis**
+
+*7. The sugar tax paradox.* Several U.S. cities have levied taxes on sweetened beverages, legally imposed on distributors, with two stated goals: (a) raise revenue, and (b) reduce consumption of sugary drinks. Using the elasticity framework, explain under what conditions these two goals are in tension with each other. Specifically: what elasticity makes the tax good at raising revenue but bad at reducing consumption? What does the empirical evidence on soda demand elasticity suggest about which goal is actually being achieved? *(Tests: applying elasticity to policy goals that point in opposite directions; distinguishing revenue and behavior-change objectives.)*
+
+*8. Payroll tax incidence.* The U.S. Social Security payroll tax is legally split 50-50 between workers and employers. Economists estimate that labor supply elasticity is approximately 0.1–0.2 and labor demand elasticity is approximately 0.3–0.5. (a) Using these ranges, estimate the fraction of the tax borne by workers. (b) Is the actual incidence closer to the legal split (50-50) or more tilted toward workers? (c) What would have to be true about labor markets for the legal split to actually equal the economic incidence? *(Tests: numerical incidence calculation; connecting labor market structure to policy claims about who a tax "hits.")*
+
+**Challenge**
+
+*9. When elasticity changes the moral argument.* The chapter notes that goods with inelastic demand are often necessities — gasoline, insulin, water — and that taxing them is effective for revenue but regressive. A policymaker argues: "We should tax luxury goods instead — their demand is elastic, so wealthier consumers will pay." Evaluate this argument using the elasticity framework: (a) If luxury demand is elastic, what happens to revenue from a luxury tax? (b) Who actually bears the burden of a tax on a good with elastic demand and inelastic supply? (c) Does the elasticity analysis support or complicate the policymaker's equity argument? *(Tests: applying the revenue rule and incidence rule together; evaluating a policy claim that conflates legal incidence with economic incidence.)*
+
+*10. The long run arrives.* The chapter's synthesis claims that "elasticity grows with time" — that short-run inelasticity is temporary. Identify one market where this claim is empirically questionable: a market where demand or supply has remained inelastic over a long period, despite the passage of time and the apparent opportunity for substitutes to emerge. Explain why the standard adjustment mechanism hasn't worked in that market. What feature of the market (search costs, regulation, network effects, physical constraints) is blocking the elasticity from growing? *(Tests: critical evaluation of the chapter's central empirical claim; applying the framework to its own limits.)*
+
+---
 
 ## LLM Exercises
 
-**Exercise 1 — Calculate elasticity from data.** Find a real-world price change (a recent gas price spike, a Disneyland ticket increase, a Spotify hike) and the reported change in subscribers, demand, or sales. Give the numbers to an LLM and ask it to compute the price elasticity of demand. Then ask the LLM to interpret the number — elastic? inelastic? — and to predict whether the company's revenue rose or fell. Verify the math by hand.
+**Exercise 1 — Calculate elasticity from data.** Find a real-world price change — a recent gas price spike, a Disneyland ticket increase, a Spotify hike — and the reported change in subscribers, demand, or sales. Give the numbers to an LLM and ask it to compute the price elasticity of demand. Then ask the LLM to interpret the number: elastic or inelastic? And to predict whether the company's revenue rose or fell. Verify the math by hand.
 
-**Exercise 2 — Stress test the textbook examples.** Ask an LLM for a list of "five goods with elastic demand and five goods with inelastic demand." Then for each one, ask: under what conditions might that classification flip? (Hint: more substitutes appearing, longer time horizon, higher share of budget.) The exercise tests whether the LLM treats elasticity as a fixed property of a good (wrong) or a property of a market situation (right).
+**Exercise 2 — Stress test the textbook examples.** Ask an LLM for a list of "five goods with elastic demand and five goods with inelastic demand." Then for each one, ask: under what conditions might that classification flip? Hint: more substitutes appearing, longer time horizon, higher share of budget. The exercise tests whether the LLM treats elasticity as a fixed property of a good (wrong) or a property of a market situation (right).
 
-**Exercise 3 — Tax incidence in plain language.** Tell an LLM: "The government wants to raise $5 billion. They are choosing between a tax on gasoline (demand inelastic, supply moderately elastic) and a tax on luxury yachts (demand elastic, supply inelastic). For each tax, who actually pays the burden — buyers or sellers — and why?" Evaluate whether the LLM uses elasticity to reason or relies on political talking points.
+**Exercise 3 — Tax incidence in plain language.** Tell an LLM: "The government wants to raise $5 billion. They are choosing between a tax on gasoline (demand inelastic, supply moderately elastic) and a tax on luxury yachts (demand elastic, supply inelastic). For each tax, who actually pays the burden — buyers or sellers — and why?" Evaluate whether the LLM uses elasticity to reason, or relies on political talking points.
 
 **Exercise 4 — Time horizon.** Ask an LLM: "If gasoline prices doubled tomorrow and stayed doubled for ten years, what would happen to driving in the U.S. over (a) the next month, (b) the next year, (c) the next decade?" Press the LLM to be specific about *how* short-run inelasticity gives way to long-run elasticity — what behaviors and decisions change at each time horizon. The exercise teaches that elasticity is not a single number; it depends on how much time you give the system.
 
-**Exercise 5 — Build a pricing argument.** Tell an LLM you run a small streaming service and you're considering a price increase. Ask it to estimate, in plain English, what factors determine whether the price increase will raise or lower your total revenue. A good answer names elasticity by name, asks about the availability of substitutes (your competitors), and asks about your customers' switching costs. Push the LLM if it dodges the elasticity reasoning.
+**Exercise 5 — Build a pricing argument.** Tell an LLM you run a small streaming service and are considering a price increase. Ask it to estimate, in plain English, what factors determine whether the increase will raise or lower total revenue. A good answer names elasticity explicitly, asks about the availability of substitutes, and asks about switching costs. Push the LLM if it dodges the elasticity reasoning.
 
-## What comes next
-
-Chapter 6 — Consumer Choices goes inside the demand curve and asks where it actually comes from — utility maximization, indifference curves, and the behavioral economics evidence about where the rational-consumer model breaks. Chapter 7 — Production, Costs, and Industry Structure begins the matched move on the supply side: where supply curves come from in the form of firms making production decisions.
-
-**What would change my mind.** The claim that elasticities reliably grow over time depends on the assumption that markets adjust toward equilibrium given enough time. In some markets — labor markets disrupted by automation, housing markets in places with severe zoning constraints — adjustment can be very slow or systematically blocked. The long-run elasticity that should arrive sometimes doesn't. When that happens, the model's prediction that "things will eventually elasticize" is wrong as a description of what we observe.
-
-**Still puzzling.** I do not have a clean account of *why* some markets have very rapid elasticity adjustments (financial assets, agricultural commodities) while others are sluggish (housing, labor). The standard story names search costs, switching costs, and information frictions. The standard story is true and incomplete.
-
-*Byline: Nik Bear Brown.*
 ---
 
 ## LLM Exercise — Chapter 5: Elasticity (Policy Brief Project)
 
-**Project:** Policy Brief.
-**What you're building this chapter:** the elasticity analysis of your policy — magnitudes, not just directions, and the incidence (who actually bears the cost) that elasticity determines.
+**Project:** Policy Brief.  
+**What you're building this chapter:** the elasticity analysis of your policy — magnitudes, not just directions, and the incidence (who actually bears the cost) that elasticity determines.  
 **Tool:** **Claude Project** "Policy Brief" — appends a section.
 
 ---
@@ -209,15 +261,18 @@ different, this is the most important finding of the chapter.
 
 **Preview of next chapter:** Chapter 6 turns to the consumer's side — how individuals decide what to buy under your policy, and where the textbook utility-maximization model breaks (behavioral economics). The behavioral-econ piece often matters most for policies that depend on changing individual behavior.
 
-
 ---
 
-##  AI Wayback Machine
+## AI Wayback Machine
+
+**Antoine Augustin Cournot** was the French mathematician and economist whose *Researches into the Mathematical Principles of the Theory of Wealth* (1838) was among the first works to use calculus to analyze economic behavior — decades before Marshall made the diagram familiar.
 
 **Run this:**
 
 ```
-Who is Antoine Augustin Cournot, and how does their work connect to elasticity we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about their career or ideas.
+Who is Antoine Augustin Cournot, and how does their work connect to
+elasticity we covered in this chapter? Keep it to three paragraphs.
+End with the single most surprising thing about their career or ideas.
 ```
 
 → Search **"Antoine Augustin Cournot"** on Wikipedia.
@@ -228,3 +283,7 @@ Who is Antoine Augustin Cournot, and how does their work connect to elasticity w
 - Add a constraint: "Answer including criticisms or limits of Antoine Augustin Cournot's framework."
 
 What changes? What gets better? What gets worse?
+
+---
+
+*Byline: Nik Bear Brown.*
