@@ -1,106 +1,142 @@
 # Chapter 12 — Environmental Protection and Negative Externalities
 
-
-## TL;DR
-
-- When the price doesn't include the cost — and what to do about it.
-- The chapter moves through What an externality is, Command-and-control regulation, Pollution taxes (Pigouvian taxes), Cap-and-trade (marketable permits), and related ideas.
-- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
-
 *When the price doesn't include the cost — and what to do about it.*
 
-In 1952, a thick fog settled over London. It lasted five days. By the time it lifted, an estimated 4,000 people were dead. Subsequent estimates have raised that number, with some recent epidemiological work suggesting up to 12,000 deaths from the immediate event and from health effects in the months after.
+In 1952, a thick fog settled over London. It lasted five days. By the time it lifted, an estimated 4,000 people were dead. Subsequent epidemiological work has raised that number — some estimates reach 12,000, accounting for deaths in the months that followed from respiratory damage done during the fog.
 
-The fog was not natural. It was a combination of unusually still cold air and the smoke from millions of London coal fires — domestic heating, industrial production, power generation, all releasing sulfur dioxide and particulates into the air at the same time. Each individual coal fire was a perfectly ordinary economic transaction: a homeowner bought coal, a factory burned coal, a power station generated electricity. Each transaction had a private buyer and a private seller and a private price. None of those prices reflected the contribution that fire made to the killing fog.
+It was not a natural fog. It was coal smoke — from millions of domestic heating fires, from industrial production, from power generation — trapped by still, cold air. Each individual coal fire was a perfectly ordinary economic transaction: a homeowner bought coal, a factory burned coal, a power station generated electricity. Each transaction had a private buyer, a private seller, and a private price. None of those prices reflected what that fire contributed to the killing fog.
 
-The London fog of 1952 is one of the cleaner examples in history of what economists call a **negative externality** — a cost imposed on third parties by a market transaction, a cost that doesn't show up in the price the buyer and seller agreed to. The fire that warms my house is mine to enjoy. The smoke that fills my neighbor's lungs is theirs to deal with. The market priced the warmth. It did not price the smoke.
+That gap — the cost of the smoke that didn't show up in the price of the coal — is the subject of this chapter.
 
-This chapter is about externalities and what to do about them. The market models from Chapters 3 through 11 all assumed, implicitly, that the costs and benefits of a transaction land on the buyer and seller. When they don't — when third parties absorb costs the market ignores — the market produces the wrong quantity of the good. Too much pollution. Too much congestion. Too much carbon. The diagnosis is the same in each case; the treatment options differ, and choosing among them is what most environmental policy is about.
+Economists call it a **negative externality**: a cost imposed on third parties by a transaction, a cost the buyer and seller never agreed to bear and never paid. The fire that warms my house is mine to enjoy. The smoke filling my neighbor's lungs is theirs to deal with. The market priced the warmth. It did not price the smoke.
 
-By the end of this chapter you should be able to identify a market with significant externalities, predict the direction of the market's failure, and compare the main policy responses — command-and-control regulation, pollution taxes, cap-and-trade, and property-rights solutions — on the dimensions of cost-effectiveness, information requirements, and political tractability.
+When the price is wrong in this way, the market produces the wrong quantity. It produces too much of whatever generates the harm — too much coal burning, too much tailpipe emission, too much carbon, too much antibiotic overuse. The diagnosis is precise. The treatment options differ, and choosing among them is what most environmental policy is actually about.
 
-**Learning objectives.** By the end you should be able to: (1) define a negative externality and explain why the unregulated market overproduces goods that generate them; (2) draw a supply-demand diagram showing the divergence between private and social cost; (3) compare command-and-control regulation with market-based instruments (Pigouvian tax, cap-and-trade); (4) explain the Coase theorem and identify when it applies; (5) discuss why international externalities (climate change especially) are harder to address than purely domestic ones.
+---
 
-**Prerequisites.** Chapter 3 (supply, demand, equilibrium). Chapter 8 (productive and allocative efficiency). Chapter 11 (regulatory responses to market failure).
+## The Geometry of the Problem
 
-## What an externality is
+Start by drawing the market failure.
 
-Start by being precise. A market transaction has a *private cost* (what the seller pays to make and sell the thing) and a *private benefit* (what the buyer gains from buying it). A **negative externality** exists when the transaction also imposes a *cost on third parties* — people who are neither buyer nor seller and who never agreed to bear the cost.
+A factory produces widgets. The factory's private supply curve represents its private marginal cost — labor, materials, capital. The demand curve represents consumers' marginal benefit. They cross at the market equilibrium: some quantity $Q_{market}$, some price $P_{market}$.
 
-Examples are everywhere. A factory emits sulfur dioxide; the homeowners downwind get respiratory disease. A driver enters a congested freeway; every other driver loses three minutes. A neighbor plays loud music; everyone within earshot loses their evening. A power plant burns coal; the planet warms. In each case, the cost lands on someone other than the buyer or the seller, and the price the market sets doesn't include it.
+But the factory also emits sulfur dioxide. Every ton of widgets costs the neighbors — in health effects, in corroded buildings, in reduced visibility — some additional amount per unit. Call it $d$ per unit of output. This cost is real. It's paid. It just isn't paid by the buyer or the seller.
 
-The economic consequence is precise. The market produces the quantity at which *private* marginal cost equals demand. The socially efficient quantity would set *full social* marginal cost (private + external) equal to demand. Because the market ignores the external cost, it produces too much.
+The *socially efficient* supply curve lies above the private one, shifted up by $d$ at every quantity. Where the social supply curve crosses demand is the efficient quantity $Q^*$ — which is *lower* than $Q_{market}$. The market, ignoring $d$, produces too much. The wedge between $Q_{market}$ and $Q^*$ represents a triangle of social cost — a deadweight loss from overproduction. This is the geometry of the externality.
 
-Draw it. Demand curve. Private supply curve. Equilibrium at the crossing — the market quantity. Now draw a second supply curve above the first, shifted up by the external cost per unit. That's the social supply curve. Where it crosses demand is the *socially efficient* quantity — lower than the market quantity, with a higher price. The gap between the market quantity and the social quantity is the *overproduction* caused by the externality. The triangle of social cost not captured by the market is the deadweight loss.
+<!-- → [CHART: Negative externality diagram — standard supply-demand. Downward-sloping demand curve. Upward-sloping private supply curve (marginal private cost). A second supply curve above it labeled "Social supply = MPC + external cost," shifted up by the external damage d. Three points marked: market equilibrium (Q_market, P_market) at private supply ∩ demand; socially efficient equilibrium (Q*, P*) at social supply ∩ demand; and the triangle between them labeled deadweight loss. Caption: "The market equilibrium ignores the external cost d. Every unit produced between Q* and Q_market costs society more to produce than it's worth to consumers. The triangle is the deadweight loss from the externality."] -->
 
-The mirror case — *positive* externalities, where third parties get benefits the buyer and seller don't — produces *underproduction*. We'll see those in the next chapter (Chapter 13). For this chapter, focus on the negative case. The diagnostics are clean. The treatments are interesting.
+The mirror image — a positive externality, where third parties receive benefits the market ignores — produces underproduction instead of overproduction. We'll take that up in Chapter 13. For this chapter, the negative case: the market price is too low (doesn't include $d$), the quantity too high, and the problem is how to close the gap.
 
-## Command-and-control regulation
+---
 
-The first generation of U.S. environmental regulation, starting in the late 1960s and accelerating through the 1970s, was almost entirely **command-and-control**. The Clean Air Act, the Clean Water Act, and dozens of subsidiary regulations specified directly: each smokestack can emit no more than X tons of pollutant per year; each car must have catalytic converters meeting Y specification; each factory must install Z technology.
+## The First Approach: Set Limits and Enforce Them
 
-The approach worked. From the late 1970s through the early 2020s, U.S. emissions of major air pollutants — sulfur dioxide, nitrogen oxides, particulates, carbon monoxide — fell substantially even as the economy grew several-fold. The London fog of 1952 has no modern equivalent in any wealthy country with strong environmental regulation. Much of the credit goes to the command-and-control framework.
+The first generation of U.S. environmental regulation, beginning in the late 1960s and accelerating through the 1970s, took the most direct approach: tell firms what they may and may not do. The Clean Air Act, the Clean Water Act, and their progeny specified directly — each smokestack emits no more than X tons per year; each car must have a catalytic converter meeting Y specification; each factory must install Z abatement technology.
 
-The approach also has structural problems. Two of them are central.
+This is **command-and-control** regulation, and it worked. From the late 1970s through the early 2020s, U.S. emissions of major air pollutants — sulfur dioxide, nitrogen oxides, particulates, carbon monoxide — fell substantially even as the economy grew several-fold. The London fog of 1952 has no modern equivalent in any wealthy country with serious environmental regulation. The command framework gets a substantial portion of the credit.
 
-**Inefficiency.** Command-and-control imposes the same standard on every firm regardless of cost. A new factory might be able to cut emissions by 90 percent for $1 million; an old factory might have to spend $50 million to cut by 60 percent. Telling both firms to cut by the same percentage means society pays $51 million for a level of total reduction it could have gotten for much less if the cheap-to-cut firm cut more and the expensive-to-cut firm cut less. The command system can't easily figure out which firms should cut what.
+It also has two structural problems that become more visible as the easy reductions get made and the remaining reductions get expensive.
 
-**Static.** Once a firm has met the regulatory standard, it has no further incentive to reduce. Even if cheap new technology becomes available that could reduce emissions further, the firm would be increasing its costs without any regulatory benefit. Command-and-control rewards meeting the line and ignores anything beyond it.
+The first problem is **inefficiency**. Command-and-control imposes the same standard on every firm regardless of cost. A new factory might cut emissions 90 percent for $1 million. An old factory across town might spend $50 million to cut only 60 percent. Telling both to meet the same percentage reduction means society spends $51 million for a level of total reduction it could have achieved for much less — if the cheap-to-cut firm cut more and the expensive-to-cut firm cut less. The command system has no mechanism to discover which firm should cut what; it doesn't ask.
 
-These structural problems pushed economists, starting in the 1960s and 1970s, to argue for *market-based* alternatives. The two main ones are pollution taxes and tradable permits.
+The second problem is **static incentives**. Once a firm has met the regulatory standard, it has no further incentive to reduce. If a new technology becomes available that could cut emissions further at low cost, the firm wouldn't adopt it — the benefit is zero and the cost is positive. Command-and-control rewards meeting the line. It ignores everything beyond.
 
-## Pollution taxes (Pigouvian taxes)
+These structural problems pushed economists toward market-based alternatives. The two main ones were developed over decades of theory and then implemented in practice. They solve the efficiency and incentive problems, but they introduce new complications worth being honest about.
 
-The economist A.C. Pigou, writing in 1920, proposed a simple solution: tax the externality at exactly the rate equal to the external damage. A factory emitting a ton of sulfur that does $500 worth of damage downwind should pay a $500 tax for the right to emit it. The tax internalizes the externality — it forces the buyer and seller of whatever-causes-the-emission to consider the cost they're imposing on others.
+<!-- → [INFOGRAPHIC: Why command-and-control is inefficient — two-firm illustration. Firm A (new factory): bar showing cost to cut 90% = $1M. Firm B (old factory): bar showing cost to cut 60% = $50M. Scenario 1 (equal standard — both cut 70%): total cost = $51M, total reduction = 130%. Scenario 2 (efficient allocation — Firm A cuts 90%, Firm B cuts 50%): total cost = much lower, same or greater total reduction. Caption: "Equal percentage standards ignore cost differences. If Firm A can cut cheaply and Firm B cannot, society overspends by having both meet the same standard. The efficient solution lets Firm A cut more and Firm B cut less — same total reduction, much lower total cost."] -->
 
-The economic logic is elegant. The factory now treats the $500 tax exactly like any other cost. It will reduce its emissions until the marginal cost of reducing one more ton just equals the $500 tax. Firms with cheap abatement options will reduce a lot; firms with expensive abatement options will pay the tax and reduce less. The total reduction happens at the lowest possible cost, because each firm equates its marginal abatement cost to the tax — and therefore to every other firm's marginal abatement cost. *Cost-effectiveness* — getting the most reduction per dollar — is automatic.
+---
 
-The regulator's information problem is much smaller too. Under command-and-control, the regulator has to know each firm's cost structure to set efficient firm-specific standards. Under a Pigouvian tax, the regulator only has to know the *aggregate damage per ton*; the firms sort themselves out individually.
+## The Pigouvian Tax
 
-Pigouvian taxes have been used widely in Europe (carbon taxes in Sweden, Norway, Finland, France, the U.K.). The U.S. has used them less, partly because political resistance to "new taxes" exceeds the resistance to "new regulations" even when the regulations are more expensive.
+The economist A.C. Pigou, writing in 1920, proposed a solution so clean it is worth quoting in structure if not in formula: tax the externality at exactly the rate of the external damage.
 
-## Cap-and-trade (marketable permits)
+A factory emitting a ton of sulfur dioxide that does $500 worth of harm downwind should pay a $500 tax per ton. Now the factory treats the tax exactly like any other input cost. It will reduce emissions until the marginal cost of the next ton of abatement just reaches $500 — the tax rate. If it's cheaper to cut emissions than to pay the tax, cut. If it's cheaper to pay the tax than to cut, pay.
 
-The second market-based instrument is **cap-and-trade**. The regulator sets a total cap on emissions (say, 10 million tons of sulfur per year nationally) and issues that many tradable permits. Firms must hold one permit for each ton of emissions. Permits can be bought and sold.
+The efficiency result follows automatically. Every firm in the economy faces the same tax rate. Every firm reduces until its marginal abatement cost equals the tax. Therefore every firm's marginal abatement cost equals every other firm's. The same total reduction gets achieved at the lowest possible total cost, because no firm could rearrange who cuts how much and get more reduction per dollar.
 
-The result mimics the Pigouvian tax in cost-effectiveness. A firm with cheap abatement options reduces its emissions and sells its excess permits. A firm with expensive options buys permits and emits more. The market price of permits ends up equal to the marginal cost of abatement at the targeted reduction level — exactly what a well-set Pigouvian tax would have produced.
+<!-- → [CHART: Marginal abatement cost and the Pigouvian tax — diagram with quantity of emissions reduced on the horizontal axis and marginal abatement cost (MAC) on the vertical axis. Two upward-sloping MAC curves: Firm A (steep — expensive to abate) and Firm B (flat — cheap to abate). Horizontal line at the tax rate T. Firm A reduces to where its MAC = T (small reduction). Firm B reduces to where its MAC = T (large reduction). Caption: "Both firms face the same tax T and each reduces until MAC = T. Firm B, with lower abatement costs, reduces more. Firm A, with higher abatement costs, reduces less and pays more tax. Total reduction is achieved at minimum cost without the regulator knowing either firm's cost curve."] -->
 
-The advantage over a tax: the regulator controls the *quantity* of emissions directly, instead of setting a tax and letting the market figure out the quantity. If the policy target is "emit no more than 10 million tons," cap-and-trade hits the target by construction; a tax has to be calibrated and recalibrated to hit a quantity goal as the underlying economics shift.
+<!-- → [CHART: Pigouvian tax — supply-demand diagram showing external cost d added as a tax. Original market at (Q_market, P_market). Tax shifts private supply curve up by d, producing new equilibrium at (Q*, P* + d) where Q* equals the socially efficient quantity. The tax revenue rectangle shown between P_market and P* + d at quantity Q*. Caption: "The Pigouvian tax set at exactly the marginal external damage shifts the market equilibrium to the socially efficient quantity. Firms pay P* + d; consumers receive the good at Q*; the government collects the rectangle as revenue. The deadweight loss from the externality disappears."] -->
 
-The U.S. ran a successful cap-and-trade program for sulfur dioxide starting in 1990 (under the Clean Air Act amendments). The program produced a 65 percent reduction in SO₂ emissions at substantially lower cost than command-and-control would have achieved — estimates range from 25 to 50 percent lower compliance cost. The European Union runs a large cap-and-trade program for carbon dioxide (the EU ETS). California runs its own.
+The regulator's information problem is also smaller than under command-and-control. Under the command approach, the regulator has to know each firm's cost structure to set efficient firm-specific standards. Under a Pigouvian tax, the regulator only needs to know the aggregate damage per unit of emission — and lets the firms sort themselves out individually.
 
-The disadvantage of cap-and-trade vs. tax: price uncertainty. If abatement turns out to be more expensive than expected, the permit price spikes; firms face large compliance costs. A tax has the opposite property — price certainty, quantity uncertainty.
+Carbon taxes in Sweden, Norway, Finland, France, and the United Kingdom have used this framework at scale. The U.S. has used it less, for reasons that are more political than economic. The resistance to "new taxes" in the American political environment exceeds the resistance to "new regulations," even when the regulations are more expensive for society. This is a fact about political economy, not a fact about the instrument.
 
-## Property rights (the Coase theorem)
+---
 
-A third approach was articulated by Ronald Coase in 1960. Coase noticed that externalities exist where *property rights are unclear*. The factory pollutes the air over my neighborhood — does the factory have the right to emit, or do I have the right to clean air? Both possibilities are coherent. The legal system has to pick one, and the choice has consequences.
+## Cap-and-Trade
 
-The **Coase theorem** says: if property rights are clearly assigned, and if the parties can negotiate without transaction costs, the parties will reach the efficient outcome regardless of who initially holds the rights. Suppose I own the right to clean air. The factory can pollute only if it pays me. I will accept payment if the payment exceeds the harm to me; the factory will pay if its profit exceeds the cost. The negotiation produces the right amount of pollution. Now suppose the factory owns the right to pollute. I can stop the pollution only by paying the factory. I will pay if the harm to me exceeds my payment; the factory will accept if my payment exceeds its profit. Same outcome: the right amount of pollution.
+The second market-based instrument solves a problem the Pigouvian tax has: what if the regulator is more confident about the right *quantity* of emissions than about the right *price*?
 
-The *quantity* of pollution is the same either way. The *distribution* of money is very different — but the efficient quantity emerges from negotiation in both cases.
+**Cap-and-trade** starts from the quantity side. The regulator sets a total cap — say, 10 million tons of sulfur dioxide per year nationally — and issues that many tradable permits. Every firm must hold one permit for each ton it emits. Permits can be bought and sold freely.
 
-The Coase theorem is theoretically elegant and practically constrained. It works well for small numbers of identifiable parties (two adjacent property owners). It works poorly for diffuse externalities involving millions of victims (air pollution, climate change), because the transaction costs of organizing the negotiation are prohibitive. The Coase argument has informed certain narrow applications — water-rights trading in some U.S. states, fisheries quotas — but it's not a general solution to externalities.
+The market does the allocation work. A firm with cheap abatement options reduces its emissions and sells its surplus permits. A firm with expensive options buys permits and emits more. The market price of permits settles at the level where buyers and sellers are just indifferent — which is the marginal cost of abatement at the cap level. This is exactly what a well-calibrated Pigouvian tax would have produced.
 
-## International externalities — the hardest case
+The U.S. ran this experiment at scale starting in 1990, applying cap-and-trade to sulfur dioxide under amendments to the Clean Air Act. The result: a 65 percent reduction in SO₂ emissions, at roughly 25 to 50 percent lower compliance cost than command-and-control would have achieved. It is one of the cleaner policy successes in the environmental economics literature.
 
-Some externalities cross national borders. The largest is climate change. A coal plant in China emits CO₂ that contributes to warming everywhere. A reforestation project in Brazil sequesters carbon that benefits everyone. No single country can solve a global externality because the benefits of action accrue globally while the costs accrue domestically.
+The European Union runs a large cap-and-trade program for carbon dioxide (the EU Emissions Trading System). California runs its own. Both work, with ongoing debates about how to set the cap and how to handle permit price volatility.
 
-This is a giant prisoner's-dilemma at the country level. Each country, acting in its own narrow interest, would prefer that *other* countries reduce emissions while it free-rides. If everyone does this, no one reduces. The cooperative outcome (everyone reduces, everyone benefits from a stable climate) requires international coordination, which has been famously difficult — the Kyoto Protocol, the Paris Agreement, the various COP processes are all attempts to solve a problem that doesn't have a clean solution given the structure of national sovereignty.
+<!-- → [TABLE: Cap-and-trade vs. Pigouvian tax — side-by-side comparison. Rows: What the regulator sets / What is uncertain / How firms respond / Cost-effectiveness / Who bears price risk / Best suited for / Real-world example. Columns: Pigouvian Tax | Cap-and-Trade. Values: Pigouvian Tax — sets price, quantity uncertain, firms minimize cost, cost-effective, firms (input price uncertainty), targets where damage per unit is well-known (carbon), Sweden carbon tax; Cap-and-trade — sets quantity, price uncertain, firms trade permits, cost-effective, firms (permit price volatility), targets where quantity certainty matters (acid rain), US SO₂ program / EU ETS. Caption: "The two instruments are theoretically equivalent under certainty. Under uncertainty, the choice depends on whether quantity or price certainty is more valuable — and on the shape of the marginal abatement cost curve."] -->
 
-Within this constraint, the policy responses we've discussed apply at national or regional scale. The EU ETS operates within Europe. The California cap-and-trade operates within California. Carbon taxes operate country-by-country. Each is partial. Together, they address some of the problem some of the time. The coordination problem at the international level is the part that doesn't get easier with the tools of this chapter.
+The difference between the two instruments shows up most clearly under uncertainty. If abatement turns out to be more expensive than expected, a cap-and-trade system produces permit price spikes — firms face large unexpected compliance costs, but the quantity target is still hit. A Pigouvian tax produces quantity uncertainty instead — firms know their cost, but the reduction achieved might be more or less than targeted if the cost-of-abatement estimate was off. Which uncertainty you prefer depends on the specific situation. For climate change, where quantity targets are tied to physical tipping points, cap-and-trade's quantity certainty has appeal. For local air pollution where the target is a price signal, the tax may be cleaner.
 
-## Synthesis
+---
 
-Pull back. The market-failure diagnosis is precise: when transactions impose costs on third parties, the price doesn't include those costs, and the market produces too much. The treatments differ in how they restore the right quantity:
+## The Coase Theorem and Its Limits
 
-- **Command-and-control** mandates specific limits or technologies. Effective at hitting targets; inefficient because it doesn't equalize marginal abatement costs across firms; static incentive structure.
-- **Pigouvian taxes** put a price on the externality. Cost-effective; provides ongoing incentive to reduce further; politically harder to enact (people hate "new taxes").
-- **Cap-and-trade** sets a quantity and lets firms trade. Cost-effective; hits quantity targets directly; price uncertainty for firms.
-- **Property rights** can work for small-numbers externalities; fail for large-numbers ones because of transaction costs.
+In 1960, the economist Ronald Coase made an observation that reframed the entire externality debate.
 
-The London fog of 1952 led directly to the U.K. Clean Air Act of 1956 — a command-and-control law that worked. The U.S. acid-rain problem of the 1970s and 1980s was addressed first by command-and-control, then more cost-effectively by cap-and-trade in 1990. The carbon problem is being addressed unevenly, country by country, with all four tools deployed somewhere and none deployed everywhere.
+He pointed out that externalities exist where property rights are unclear. The factory pollutes the air over my neighborhood. Who has the right — the factory to emit, or me to breathe clean air? Both assignments are coherent; the legal system has to choose.
 
-The choice among instruments is not just technical. It's also political and institutional. Command-and-control survives partly because it's easier to communicate ("we banned X"). Pigouvian taxes are technically superior in many cases but politically toxic in many countries. Cap-and-trade lives in between. The economist's job is to lay out the trade-offs cleanly. The policy-maker's job is to choose, given the political constraints. The model gives you the menu; the politics decides what gets ordered.
+Coase's theorem says: if property rights are clearly assigned, and if the affected parties can negotiate without transaction costs, they will bargain their way to the efficient outcome regardless of who holds the initial right.
+
+Walk through it. Suppose I hold the right to clean air. The factory wants to emit. It can do so only by paying me enough to compensate for the harm. I'll accept payment that exceeds the damage; the factory will pay if its profit from emitting exceeds the payment. The negotiation produces exactly as much emission as is worth the cost — the efficient quantity.
+
+Now reverse the rights. The factory has the right to emit. I can stop it only by paying the factory. I'll pay if the harm to me exceeds my payment; the factory accepts if my payment exceeds its profit from emitting. The outcome — how much the factory emits — is the same. The distribution of money is different. The efficient quantity is identical.
+
+<!-- → [TABLE: Coase theorem — two property-right assignments. Two-column table. Column 1: Factory holds right to emit. Column 2: Homeowner holds right to clean air. Rows: Who must initiate negotiation / Who pays whom / What determines the amount of pollution / Efficient outcome achieved? / Distribution of surplus. Caption: "The theorem's punch line: the efficient quantity of pollution doesn't depend on who holds the right. The distribution of money does. This is why Coase said property-rights assignment is a question of equity, not efficiency — under the theorem's assumptions."] -->
+
+The assumptions are load-bearing. The theorem works for small-numbers situations where the parties know each other, can negotiate directly, and can verify compliance. Two neighboring landowners, an upstream and downstream water user, a factory and an adjacent homeowner — Coase logic applies. It has informed water-rights trading in some U.S. states and fisheries quota systems.
+
+It does not work for the London fog. When the externality involves millions of emitters and millions of victims, the transaction costs of organizing a negotiation are prohibitive. You cannot negotiate on behalf of all Londoners with all coal-fire owners. The Coase mechanism fails exactly where the externality problem is largest.
+
+---
+
+## The Hardest Case: International Externalities
+
+All four mechanisms I've described work within a jurisdiction with functioning enforcement. The hardest externalities cross national borders.
+
+The largest is climate change. A coal plant in China emits CO₂ that contributes to warming everywhere. A reforestation project in Brazil sequesters carbon that benefits everyone. No single country can solve this externality because the benefits of action accrue globally while the costs are borne domestically.
+
+The structure is a giant prisoner's dilemma played by sovereign nations. Each country's short-term interest is to have *other* countries reduce emissions while it free-rides — getting the climate benefit without the compliance cost. If every country acts on that interest, no one reduces. The cooperative outcome — everyone reduces, everyone benefits from a stable climate — requires international coordination that is hard to compel and hard to enforce.
+
+<!-- → [TABLE: International climate prisoner's dilemma — two-by-two payoff matrix. Rows: Country A reduces / Country A free-rides. Columns: Country B reduces / Country B free-rides. Cells: (Both reduce): moderate cost to each, large shared climate benefit — net gain for both; (A reduces, B free-rides): A bears full cost, B gets free benefit — A loses, B gains most; (A free-rides, B reduces): B bears full cost, A gets free benefit — B loses, A gains most; (Both free-ride): no cost to either, no climate benefit — both lose slowly. Dominant strategy: free-ride. Caption: "Free-riding is the dominant strategy for each country individually. But if every country free-rides, the cooperative climate benefit disappears. This is why climate negotiations are hard: the structure of the game pushes every player toward the outcome that's worst for everyone."] -->
+
+Within this constraint, the instruments we've discussed apply at national or regional scale: EU ETS, California cap-and-trade, Sweden's carbon tax, the U.K.'s carbon price floor. Each is partial. Together, they address some of the problem some of the time. The coordination problem at the international level is the part that doesn't get easier by choosing a better instrument. It gets easier only by building institutions that can sustain and verify cooperation — and that is a problem outside the scope of this chapter's tools.
+
+---
+
+## The Menu and What Determines the Order
+
+Pull back. The market failure is the same in every case: the price is too low, production is too high, the gap between private and social cost generates deadweight loss. Four instruments close the gap differently.
+
+**Command-and-control** sets a limit and enforces it. Effective at hitting explicit targets. Inefficient because it doesn't allow firms with different costs to trade reductions. Politically familiar.
+
+**Pigouvian taxes** price the externality directly. Cost-effective; ongoing incentive to innovate; politically hard in "anti-tax" environments; needs good damage estimates.
+
+**Cap-and-trade** sets a quantity and lets markets allocate. Cost-effective; hits quantity targets reliably; introduces permit price volatility; works well where emissions are measurable.
+
+**Property rights / Coase** assigns the right and lets parties bargain. Elegant; efficient under the assumptions; fails for large-numbers externalities where transaction costs are prohibitive.
+
+The London fog of 1952 led directly to the U.K. Clean Air Act of 1956 — command-and-control, because the political moment demanded visible prohibition, not price signals. The U.S. acid-rain problem was addressed first by command-and-control, then more cost-effectively by cap-and-trade in 1990, because the policy community had learned from the first generation of regulation. The carbon problem is being addressed unevenly, country by country, with all four tools deployed somewhere and none deployed everywhere.
+
+The choice among instruments is not purely technical. It's political and institutional. Command-and-control survives partly because "we banned X" is easier to communicate than "we imposed an optimal Pigouvian tax on X." Cap-and-trade has the word "trade" in it, which sounds market-friendly, which is why it sometimes passes where taxes don't. The economics tells you the trade-offs. The politics decides what gets enacted. The model's job is to make the trade-offs visible so that the political choice, whatever it is, is at least made honestly.
+
+<!-- → [TABLE: Four instruments compared — rows: Command-and-Control, Pigouvian Tax, Cap-and-Trade, Property Rights (Coase). Columns: What it sets / Cost-effectiveness / Innovation incentive / Information required by regulator / Handles large-numbers externalities? / Real-world example. Caption: "No instrument dominates on every dimension. Command-and-control is politically tractable but expensive. Pigouvian taxes are efficient but politically hard. Cap-and-trade is efficient and quantity-certain but introduces price risk. Coase works for small-numbers cases only. Policy is usually a second-best choice on this menu."] -->
+
+---
 
 ## LLM Exercises
 
@@ -114,15 +150,6 @@ The choice among instruments is not just technical. It's also political and inst
 
 **Exercise 5 — Why climate is hard.** Ask an LLM to explain why climate change is harder to address than the U.S. acid-rain problem of the 1980s, even though both are pollution externalities. A correct answer hits at least: scale (global vs. regional), free-rider problem at country level, longer time horizon, uncertain benefits, and the difficulty of attributing damage to specific emitters.
 
-## What comes next
-
-Chapter 13 — Positive Externalities and Public Goods covers the mirror case: when market transactions produce benefits to third parties that the buyer and seller don't capture. Vaccines, basic research, education. The diagnosis is symmetric to this chapter: markets *underproduce* goods with positive externalities, and the policy responses (subsidies, public provision, intellectual property protection) follow a similar logic.
-
-**What would change my mind.** The case for market-based instruments rests on the assumption that the regulator can measure the externality reasonably well and set the tax or cap accordingly. For some pollutants — sulfur dioxide, carbon dioxide — the measurement is good enough. For others — biodiversity loss, ecosystem services, slow-acting health effects from chemical mixtures — the measurement is much harder. Where measurement is too difficult, command-and-control with safety margins is sometimes the only viable approach, even though it's less cost-effective.
-
-**Still puzzling.** I do not have a clean account of why the U.S. has been more receptive to cap-and-trade than to carbon taxes, while Europe has been the reverse. Both are technically equivalent under standard assumptions. The political resistance to "tax" framing in the U.S. is real but I do not understand why it doesn't apply equally to permit prices, which are economically identical to taxes from the firm's perspective.
-
-*Byline: Nik Bear Brown.*
 ---
 
 ## LLM Exercise — Chapter 12: Environmental Protection and Negative Externalities (Policy Brief Project)
@@ -192,16 +219,19 @@ best; the brief should name the gap and what creates it.
 
 **Preview of next chapter:** Chapter 13 covers the mirror case — positive externalities and public goods. If your policy supports R&D, education, public health, or anything else with spillover benefits, this chapter is central.
 
-
 ---
 
-##  AI Wayback Machine
-**Arthur Pigou** was developed the framework for "Pigouvian taxes" on negative externalities in 1920.
+## AI Wayback Machine
+
+**Arthur Pigou** developed the framework for "Pigouvian taxes" on negative externalities in 1920.
 
 **Run this:**
 
 ```
-Who is Arthur Pigou, and how does their work connect to negative externalities we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about their career or ideas.
+Who is Arthur Pigou, and how does their work connect to negative
+externalities we covered in this chapter? Keep it to three
+paragraphs. End with the single most surprising thing about
+their career or ideas.
 ```
 
 → Search **"Arthur Pigou"** on Wikipedia.
@@ -212,3 +242,7 @@ Who is Arthur Pigou, and how does their work connect to negative externalities w
 - Add a constraint: "Answer including criticisms or limits of Arthur Pigou's framework."
 
 What changes? What gets better? What gets worse?
+
+---
+
+*Byline: Nik Bear Brown.*
