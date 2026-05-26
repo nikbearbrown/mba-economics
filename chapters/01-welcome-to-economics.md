@@ -1,153 +1,222 @@
 # Chapter 1 — Welcome to Economics
 
+*Why you don't make your own shoes — and why that answer takes an entire theory.*
 
-## TL;DR
+---
 
-- The pin and the kitchen — why you don't make your own shoes.
-- The chapter moves through The fact that starts everything, What scarcity forces, The thing that follows from scarcity, Mechanism one — comparative advantage, and related ideas.
-- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+Here is a number that should bother you: **240**.
 
-*The pin and the kitchen — why you don't make your own shoes.*
+In 1776, Adam Smith watched ten men make pins in a small workshop — the kind of straight metal pins that hold cloth together. One man drew out wire. Another cut it. Another straightened it. Another sharpened the point. Another ground the head. Ten men, eighteen distinct operations, a room you could cross in five strides.
 
-It is 1776, and a Scottish moral philosopher is standing in a small workshop with a notebook, counting tasks.
+He wrote down their daily output. Then he divided.
 
-Adam Smith is watching men make pins — straight metal pins, the kind that hold cloth together. One man draws out the wire. Another cuts it. Another straightens. Another sharpens the point. Another grinds the head. Ten men, eighteen distinct operations, in a room you could cross in five strides.
-
-He writes down a number. Forty-eight thousand pins per day.
-
-Then he does the division: 48,000 pins divided by 10 workers equals 4,800 pins per worker per day. A craftsman working alone, doing all eighteen steps himself, could manage perhaps twenty.
+Forty-eight thousand pins. Ten workers. Four thousand eight hundred pins per worker per day. A single craftsman working alone, doing all eighteen steps himself, could manage perhaps twenty.
 
 4,800 versus 20. A factor of two hundred and forty.
 
-That ratio is the seed of the modern world. Smith puts it in the first chapter of *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776) and from that one observation a discipline is born. Not a discipline primarily about money, or business, or charts. A discipline about a single stubborn fact and everything that follows from it: there is not enough to go around, and so we must choose.
+<!-- → [INFOGRAPHIC: Side-by-side comparison — left panel shows one craftsman doing all 18 operations with output labeled "~20 pins/day"; right panel shows 10 workers each doing a single step with output labeled "48,000 pins/day"; arrow between them labeled "×240"; caption: "The same ten people. The same hours. The same materials. A different arrangement."] -->
 
-The pin factory is one consequence of that fact. So is the supermarket. So is the Federal Reserve. So is the question of why poor children in Kenya were not getting enough deworming pills — the question that won three economists the Nobel Prize in 2019. One fact. Endless consequences.
+That number is the seed of the modern world. Smith put it in the opening pages of *The Wealth of Nations* — not as a curiosity, but as the first clue to an enormous puzzle. Why are some societies spectacularly wealthy and others desperately poor? Why does an ordinary person today eat better, travel farther, and live longer than a medieval king? The pin factory is not the whole answer. But it is where the question gets traction.
 
-This chapter walks you into the discipline by following three moves. First, what scarcity actually is — not poverty, not shortage, but something deeper. Second, why breaking work into pieces and trading produces so much more than everyone doing everything themselves. Third, the tool economists built to think about all of it at once. By the end, the phrase "I don't make my own shoes" will not be a trivial observation. It will be a statement that requires an entire theory to explain.
+This chapter is about that traction. Not economics as it is sometimes taught — a collection of definitions, charts, and vocabulary words to memorize. Economics as Feynman would have wanted any discipline taught: start with the one fact that actually matters, follow the reasoning wherever it leads, and be honest about where it stops making sense.
 
-**Learning objectives.** By the end of this chapter you should be able to: (1) define scarcity in a way that distinguishes it from poverty and shortage; (2) explain in your own words why specialization plus trade increases total production, citing at least three mechanisms; (3) draw and label a circular flow diagram and identify which arrow represents what; (4) distinguish microeconomics from macroeconomics with a real-world example for each; (5) compare traditional, command, and market-oriented systems for organizing economic activity; (6) explain why we say models are useful rather than true.
+The one fact: there is not enough to go around, and so we must choose.
 
-**Prerequisites.** Curiosity. Arithmetic. A willingness to be told that things you took for granted are actually civilization-scale achievements.
+Everything else follows from that.
 
-## The fact that starts everything
+---
+
+## The bedrock
 
 Here is the bedrock.
 
-You want things. You want food, shelter, warmth, time to sit and read, time to see your friends, someone to look after you when you are old. The world contains resources that can be turned into those things — labor, land, raw material, machinery, knowledge, attention. The bedrock fact is that the resources are finite and the wants are not. That mismatch — wants exceeding resources — is what economists mean by scarcity.
+You want things. Food, shelter, warmth, time to sit and think, someone to look after you when you are old. The world contains resources that can be turned into those things — labor, land, raw materials, machinery, knowledge, time. The bedrock fact is that the resources are finite and the wants are not. That mismatch is what economists mean by **scarcity**.
 
-Notice what this is and what it is not.
+Notice very carefully what this is and what it is not.
 
-It is not the same as poverty. A billionaire with four jets still faces scarcity, because the Tuesday afternoon she spends reviewing a merger is a Tuesday afternoon she cannot spend sailing. Time is the resource no one escapes, and time is always scarce. Twenty-four hours per day, regardless of what you earn.
+It is not poverty. A person with four houses and a private jet still faces scarcity, because the Tuesday afternoon spent reviewing a contract is a Tuesday afternoon not spent sailing. Time is the resource no one escapes — twenty-four hours per day, regardless of what you earn. The richest person alive is still making choices about how to spend a finite day.
 
-It is not the same as shortage. A shortage is what happens when, at a given price, more people want to buy something than there are units available — tomatoes after a drought, apartments after a fire, gasoline after a hurricane. Shortages come and go. Scarcity is the underlying condition that makes prices exist in the first place. If everything were available in unlimited quantity at zero cost, nothing would have a price. Air, in most places most of the time, is in that happy state. Water, increasingly, is not.
+It is not shortage. A shortage is a specific event: at a given price, more people want to buy something than there are units available. Tomatoes after a drought. Apartments after a fire. Gasoline after a hurricane. Shortages come and go. Scarcity is the underlying condition that makes prices exist in the first place. If everything were available in unlimited quantity at zero cost, nothing would have a price. Air, in most places most of the time, occupies that happy position. Water, increasingly, does not.
 
-The reason this distinction matters is that the discipline you are entering is not about fixing shortages. Shortages can be fixed — produce more tomatoes, build more apartments. Scarcity cannot be fixed. It can only be managed, mitigated, organized, and worked around. That is what the rest of this book is about.
+Why does the distinction matter? Because the discipline you are entering is not about fixing shortages. Shortages can sometimes be fixed — grow more tomatoes, build more apartments. Scarcity cannot be fixed. It can only be managed, organized, worked around. That is what the rest of this book is about.
 
-## What scarcity forces
+<!-- → [TABLE: Three-column comparison — Term | Definition | Can it be "fixed"? — rows for Scarcity, Shortage, Poverty; student should see that only Shortage is directly addressable; caption: "Three words that feel similar and mean completely different things"] -->
 
-When resources are limited, every choice costs you another choice. Every hour spent at work is an hour not spent with your children. Every dollar spent on a fighter jet is a dollar not spent on a hospital. Every slice of land planted with corn is a slice not planted with wheat. The coin always has two faces.
+---
 
-Economists call the other face opportunity cost. The cost of a thing, in economics, is not the dollars you hand over. It is the next-best thing you could have done with those dollars, those hours, that effort, instead. Going to college costs not just tuition but four years of wages you did not earn. The tuition is the bookkeeping. The wages forgone are the cost.
+## The coin always has two faces
 
-This is not a trick of language. It is a different way of seeing the world — one that turns out to be enormously more useful than the bookkeeping version. A factory uses a building it owns, so it pays no rent. A naive accountant says the building is free. An economist asks: what could the factory sell the building for, and what return could that capital earn elsewhere? That potential return is the cost, whether or not any money changes hands. We will formalize this in Chapter 2 with the production possibilities frontier. For now, just hold the idea: every choice forecloses another choice, and the foreclosed choice is the real cost.
+When resources are limited, every choice costs you another choice.
 
-## The thing that follows from scarcity
+Every hour spent at work is an hour not spent with your children. Every dollar spent on a fighter jet is a dollar not spent on a clinic. Every plot of land planted with corn is a plot not planted with wheat. This is not a metaphor. It is a structural feature of a world where wants exceed means.
 
-Pioneer life is the historical control case.
+Economists call the other face **opportunity cost**. The cost of a thing, in economics, is not the dollars you hand over — it is the next-best thing you could have done instead. Going to college costs not just tuition but four years of wages you did not earn. The tuition is the accounting. The forgone wages are the cost.
 
-A homesteading family in 1840 Iowa knew, between them, how to put up a barn, butcher a hog, sew britches, fix a wagon wheel, brew beer, deliver a baby, and read aloud from the Bible by tallow light. They were extraordinary generalists. They were also, by modern standards, extraordinarily poor. A family that could do all those things could not, in a year of hard work, produce as much as a single Walmart cashier earns in a few months of indifferent shifts.
+This is not wordplay. It is a genuinely different way of seeing the world, and a more useful one. Consider a factory that owns its building outright. A naive accountant says the building is free — no rent is paid. An economist asks: what could the factory sell the building for, and what return could that capital earn if invested elsewhere? That potential return is the cost, whether or not a single dollar changes hands. We will make this precise in later chapters. For now, just hold the idea: every choice forecloses another choice, and the foreclosed choice is the real cost.
 
-What changed?
+<!-- → [INFOGRAPHIC: "The coin" visual — two faces of the same coin; heads labeled "What you chose / what you paid"; tails labeled "What you gave up / the real cost"; example: college tuition on heads, four years of forgone wages on tails; caption: "Accountants count the heads side. Economists count both."] -->
 
-Smith's answer was specialization — the breaking up of production into pieces, each piece performed by someone who does only that. But the factor of two hundred and forty he calculated from the pin factory was a description, not an explanation. The deeper question is why breaking up the work helps so much. There are three mechanisms. Each is doing real work.
+---
 
-### Mechanism one — comparative advantage
+## Why 240 — the three mechanisms
 
-Watch this carefully, because it is the most counterintuitive thing in economics and also one of the most important.
+Now I want to explain the pin factory number properly. Smith calculated it; he did not fully explain it. The factor of 240 is not magic. It has three separable causes, and each one is doing real work.
 
-A surgeon and a carpenter live next door. The surgeon, having fast hands and a steady eye, is in fact a slightly better carpenter than the carpenter. She is better at both things. So who should hang the surgeon's kitchen cabinets?
+### The first mechanism: comparative advantage
 
-The carpenter. Not because the carpenter is better — he is not. Because every hour the surgeon spends hanging cabinets is an hour she is not in the operating room, where her productivity advantage is not slight but enormous. The cost of the surgeon's time, measured in surgeries not performed, is much larger than the cost of the carpenter's time. Both end up better off if the surgeon operates and pays the carpenter to do the cabinets.
+Watch this carefully. It is the most counterintuitive thing in economics, and also one of the most important.
 
-This is comparative advantage, and it demolishes a very natural assumption: that the best person for a job should do the job. The best person for a job should do the job where their advantage is largest, or equivalently where their alternative cost is highest. Even when one party is better at everything, both gain by specializing and trading. We will run the numbers formally in the international trade chapters. For now, lock the intuition: being better-at-everything is not the same as being best-deployed-here.
+Suppose a surgeon and a carpenter live next door to each other. The surgeon, with her fast hands and precise eye, is in fact a slightly better carpenter than the carpenter himself. She is better at both things. So who should hang the surgeon's kitchen cabinets?
 
-### Mechanism two — learning by doing
+The carpenter. Not because he is better at it — he is not. Because every hour the surgeon spends hanging cabinets is an hour she is not in the operating room, where her productivity advantage is not slight but enormous. The cost of the surgeon's time, measured in surgeries not performed, is much larger than the cost of the carpenter's time. Both end up better off if the surgeon operates and the carpenter builds cabinets.
 
-A worker who performs the same operation a thousand times a day learns things about that operation that a generalist never learns. They learn which cutting angle leaves the cleanest edge. They learn the precise rhythm at which the machine starts to slip. They learn by feel when the metal is wrong. None of this knowledge appears in any manual. It accumulates in fingers and eyes.
+This is **comparative advantage**, and it demolishes a very natural assumption: that the best person for a job should do the job. The correct rule is different. The best person for a job should do the job where their *advantage is largest* — not where they are merely best. Even when one party is better at everything, both parties gain by specializing and trading. The pin-maker does not need to be the best at making pins compared to all possible uses of his time. He needs only to be better-than-average at *this particular step*, relative to what he would otherwise be doing.
 
-Repetition produces expertise; expertise produces speed and quality; speed and quality compound. The neurosurgeon who has performed five thousand craniotomies is not just more practiced than the one who has performed five — she sees patterns the novice cannot see, in seconds, without thinking about it. Firms develop the same kind of knowledge at an organizational scale. The trade name for this in business is core competency. The phenomenon underneath it is learning by doing.
+We will run the numbers formally when we get to international trade. For now, lock the intuition.
 
-### Mechanism three — economies of scale
+<!-- → [TABLE: Surgeon vs. Carpenter — columns: Person | Output/hour on cabinets | Output/hour on surgery | Opportunity cost of 1 hour spent on cabinets; rows filled for both; caption: "Being better at everything is not the same as being best-deployed here — the numbers make the logic unavoidable"] -->
 
-Suppose a factory builds 100 cars in a year. The fixed overhead — the building, the presses, the tooling — is divided across 100 vehicles. The overhead per car is enormous. Now suppose the same factory builds 50,000 cars in a year. The same building. The same machines. The overhead per car has fallen by a factor of five hundred. This is economies of scale: average cost per unit falls as total output rises.
+### The second mechanism: learning by doing
 
-Scale economies are why a Honda Civic costs less than a custom-made car of equivalent quality. Why generic ibuprofen costs pennies and a small-batch artisan version costs ten dollars. Why Amazon can ship a paperback for the price of a sandwich. Scale is not magic. It is fixed costs being spread over more output.
+A worker who performs the same operation a thousand times a day learns things about that operation that a generalist never learns. Which cutting angle leaves the cleanest edge. The precise moment the machine starts to slip. The feel of metal that is slightly wrong. None of this knowledge appears in any manual. It accumulates in fingers and eyes over months.
 
-### The trade-off you cannot ignore
+Repetition produces expertise. Expertise produces speed and quality. Speed and quality compound. A surgeon who has performed five thousand craniotomies sees patterns in seconds that a novice cannot see in minutes — not because she is smarter, but because her nervous system has encoded the recognition. Organizations develop the same kind of knowledge at an institutional scale. The trade name in business is *core competency*. The phenomenon underneath it is simply: repetition teaches.
 
-If I stopped here, you would conclude that specialization is an unalloyed good and more of it is always better. That is wrong, and it is wrong in a way that bites.
+### The third mechanism: economies of scale
 
-Specialization only pays off if you can swap what you produce for the other things you need. The pin-maker eats only because someone else produces food and is willing to exchange. The surgeon eats only because there is a grocery store, which is fed by a supply chain, which depends on a transport network, which depends on fuel markets, which depend on financial institutions — and any of these can break. When they break, the specialist is more vulnerable than the generalist. The pioneer family could feed itself if the wagon train was late. The two-income household in the city cannot.
+Suppose a factory builds a hundred cars per year. The fixed costs — the building, the tooling, the presses, the management — are divided across a hundred vehicles. The overhead per car is enormous. Now the same factory builds fifty thousand cars per year. Same building. Same presses. The overhead per car has fallen by a factor of five hundred.
 
-Specialization is also brittle in time. The skill you specialize in can become obsolete. The typesetter, the elevator operator, the long-haul trucker watching automated rigs roll through Texas — each was the beneficiary of specialization until the system that valued their specialty changed. Generalists weather shocks better; specialists earn more in good times and fall further in bad ones.
+**Economies of scale**: average cost per unit falls as total output rises. This is why a Honda costs less than a custom-built car of equivalent quality. Why generic ibuprofen costs pennies. Why Amazon can ship a paperback for the price of a coffee. Scale is not magic — it is fixed costs spread over more output. But its effects, compounded across an entire economy, are extraordinary.
 
-So: specialization plus trade is the engine of modern abundance, and it makes each of us more dependent on systems we did not build and cannot control. Both are true. Hold both.
+<!-- → [CHART: Line chart — x-axis: annual units produced (100 to 50,000); y-axis: fixed overhead cost per unit; curve falling steeply then flattening into a knee; caption: "The knee of the curve is where scale economies become decisive — student should identify roughly where a small manufacturer sits versus a major one"] -->
 
-## The tool for seeing all of it at once
+---
 
-You now have the starting condition — scarcity — and the main mechanism — specialization and trade. The third move is the tool economists built to think about how all of it fits together.
+## The thing you cannot ignore
 
-The central tool of economics is the model. A model is a deliberate simplification of reality that keeps the parts that matter for the question you are asking and discards the parts that do not. George Box, a statistician, stated the principle exactly: all models are wrong; some are useful. This is not a concession. It is the first thing to learn about models. A subway map is a model. It does not show streets, or distances, or which escalators are broken. It shows lines and stops, because that is what you need to plan a trip. Add the streets and you have a worse map for that question.
+If I stopped here, you would conclude that specialization is unambiguously good and more of it is always better.
 
-Economists carry models around the way carpenters carry tools: different tools for different jobs, and the skill is in matching the tool to the question. A model of consumer choice tells you something about whether a tax credit increases solar panel adoption. It tells you almost nothing about why cocoa prices spiked in 2024. Different question, different tool.
+That is wrong.
 
-I want to be honest with you about something: models in economics are more contested than models in physics. Physical models predict a comet's return to the day; economic models predict GDP growth to within a percentage point if you are lucky and the world stays boring. The tools in this book — supply and demand, marginal cost, the multiplier — work well in their domain and fail in revealing ways outside it. Part of what you are learning is where the tools work and where they break.
+Specialization only pays off if you can swap what you produce for the other things you need. The pin-maker eats only because someone else produces food and is willing to exchange. The surgeon eats only because there is a grocery store, which is fed by a supply chain, which depends on a transport network, which depends on fuel markets, which depend on financial institutions — and any of those can break. When they break, the specialist is more vulnerable than the generalist.
 
-### The simplest model
+In 2021, a chip shortage stalled the global auto industry for months. The structure was exactly the pin factory's: extreme specialization, where almost all advanced chips were fabricated in a handful of plants and traded worldwide. One disruption — a fire, a drought, a political decision — and your new truck is delayed nine months. The specialist earns more in good times and falls further in bad ones.
 
-Here is the model you should be able to draw from memory by the end of this course. Two boxes. Four arrows.
+Specialization is also brittle in time. The skill you specialize in can become obsolete. The typesetter, the elevator operator, the long-haul trucker watching automated rigs roll through Texas — each was once the beneficiary of specialization until the system that valued their specialty changed.
 
-Draw a circle. Put two boxes at opposite ends: HOUSEHOLDS on the left, FIRMS on the right. Now draw two pairs of arrows.
+So: specialization plus trade is the main engine of modern abundance, and it makes each of us more dependent on systems we did not build and cannot control. Both are true. Hold both.
 
-The outer pair flows through a region labeled MARKET FOR GOODS AND SERVICES. Firms produce things and send them into this market; households receive them. Households pay money back through the same market as revenue to firms.
+<!-- → [TABLE: Two-column trade-off — "What specialization gives you" vs. "What specialization costs you" — rows: higher income in good times / vulnerability in disruptions; efficiency / brittleness; deep expertise / obsolescence risk; abundance / dependency on systems you don't control; caption: "Every design choice prioritizes something at the expense of something else. Specialization is no different."] -->
 
-The inner pair flows through a region labeled FACTOR MARKET — the market for labor, land, and capital. Households sell their time, effort, and property into this market; firms hire from it. Firms pay wages and rents back to households through the same market.
+---
 
-That is the whole model. Households earn income by selling labor. Households use that income to buy goods. Firms make those goods using labor bought from households. Money flows one direction around the loop; goods, services, and labor flow the other. When the loop runs faster, more is produced and more is consumed. When it slows — that is what we call a recession.
+## The tool
 
-Notice what the model captures: the exchange structure of a modern economy. Notice what it leaves out: government, foreign trade, banks, the environment. These are not mistakes; they are choices. The model is small on purpose. You can add any of those features and get a more accurate, more complicated, less useful map. The skill is knowing which version to use.
+You now have the starting condition — scarcity — and the main mechanism — specialization and trade. The third move is the tool economists built to think about all of it.
 
-### Two zoom levels
+The central tool is the **model**. A model is a deliberate simplification of reality that keeps the parts that matter for the question you are asking and discards the parts that do not. George Box, a statistician, put it exactly: *all models are wrong; some are useful.* This is not a concession. It is the first thing to learn about models.
 
-Inside the apparatus of economic thinking, there are two complementary views. Microeconomics studies the behavior of individual agents — households, firms, single markets. Why does the price of avocados rise when Mexico's harvest is bad? Micro. Should this firm enter that market? Micro. Will a tax on sugary drinks reduce consumption? Micro.
+A subway map is a model. It does not show streets, building heights, or which escalators are broken. It shows lines and stops, because those are what you need to plan a trip. Add the streets and you have a worse map for that question.
 
-Macroeconomics studies the economy as a whole. Why is unemployment 3.8 percent in one year and 9.6 percent in another? Macro. What does it mean for a country's output to grow at 2.5 percent versus 4 percent over a decade? Macro.
+Economists carry models around the way a carpenter carries tools: different tools for different jobs, and the skill is in matching the tool to the question. A model of consumer behavior tells you something about whether a tax credit increases solar adoption. It tells you almost nothing about why cocoa prices spiked in 2024. Different question, different tool.
 
-A useful image: microeconomics studies the trees, macroeconomics studies the forest. But the forest is made of trees, and the health of the forest depends on what the individual trees are doing — and vice versa. A firm decides whether to hire based partly on whether the macro economy is growing; the macro economy grows partly because of all the firms deciding to hire. The fields are not separate. They are different lenses on one system, and you need both.
+I want to be honest about something: economic models are more contested than physical models. A calculation in orbital mechanics predicts a comet's return to the day. An economic forecast predicts GDP growth to within a percentage point if the world stays boring — and rarely does. The tools in this book work well in their domain and fail in revealing ways outside it. Part of what you are learning is where the tools work and where they break.
 
-### Three ways to coordinate
+<!-- → [DIAGRAM: Circular flow — two boxes (HOUSEHOLDS, FIRMS), outer ring labeled MARKET FOR GOODS AND SERVICES with arrows, inner ring labeled FACTOR MARKET with arrows; caption should direct student to trace money and goods separately] -->
 
-The circular flow shows you that households and firms exchange. It does not tell you who decides what to produce, who receives it, and what price gets set. That is the coordination problem, and societies have tried three answers.
+The simplest model I know is the **circular flow**. Draw two boxes — HOUSEHOLDS on one side, FIRMS on the other. Connect them with two pairs of arrows.
 
-Traditional economies organize production by custom and inheritance. Your father was a fisherman; you are a fisherman; the boat will pass to your son. Decisions are not made; they are remembered. Stable, slow to adapt.
+The outer pair flows through the market for goods and services. Firms produce things and send them there; households receive them. Households send money back as revenue to firms.
 
-Command economies organize production by central authority. Someone — a pharaoh, a planning committee — decides what is produced, in what quantities, at what price. Building the Egyptian pyramids was a command-economy project. Soviet industrial quotas were command-economy decisions. Command systems can mobilize enormous resources for a single goal. They struggle catastrophically with the everyday problem of matching varied, changing demands to a supply that no central office can fully see.
+The inner pair flows through the factor market — the market for labor, land, and capital. Households sell their time and effort; firms hire from it. Firms send wages and rents back to households.
 
-Market economies organize production by decentralized choice. No one decides how many smartphones to make. No one assigns people to be dental hygienists or software engineers. Prices, set by the choices of millions of buyers and sellers who do not know each other, do the coordination work. The remarkable empirical fact — genuinely remarkable, and still not entirely understood — is that this works at all. That a system with no central planner manages to feed New York City every day.
+That is the whole model. Money flows one direction; goods, services, and labor flow the other. When the loop runs faster, more is produced and more is consumed. When it slows, that is what we call a recession.
 
-Most actual economies are mixed: mostly market with substantial government involvement, or mostly command with market elements grafted on. The U.S. is mostly market; Medicare, public schools, and financial regulation are the government layers. China is officially socialist but increasingly market in its industrial sector. The mix, in every country, is contested — not just in policy but in economics itself, because the question of where markets succeed and where they fail remains genuinely open.
+Notice what the model captures: the exchange structure of a modern economy. Notice what it leaves out: government, banks, foreign trade, the environment. These are not mistakes — they are choices. You can add any of those features and get a more accurate, more complicated, and less useful map for many questions. The skill is knowing which version to reach for.
+
+---
+
+## Two zoom levels
+
+Inside this apparatus, there are two complementary views.
+
+**Microeconomics** studies the behavior of individual agents — households, firms, single markets. Why does the price of avocados rise when Mexico's harvest fails? Micro. Should a firm enter a particular market? Micro. Will a tax on sugary drinks reduce consumption? Micro.
+
+**Macroeconomics** studies the economy as a whole. Why is unemployment 3.8 percent in one year and 9.6 in another? Macro. What does it mean for a country's output to grow at 2.5 percent per year versus 4 percent? Macro.
+
+Micro studies the trees. Macro studies the forest. But the forest is made of trees, and their health determines the forest's — and vice versa. A firm decides whether to hire partly based on whether the macro economy is expanding; the macro economy expands partly because firms are deciding to hire. The two fields are different lenses on the same system. You need both.
+
+<!-- → [INFOGRAPHIC: Two-panel "zoom levels" — left panel labeled MICRO shows a single stylized tree with labeled parts (household, firm, price, single market); right panel labeled MACRO shows a full canopy; connecting note: "Same system. Different resolution. Both necessary."] -->
+
+---
+
+## Three ways to coordinate
+
+The circular flow shows that households and firms exchange. It does not tell you who decides what to produce, who receives it, and what price is charged. That is the coordination problem, and societies have tried three answers.
+
+**Traditional economies** organize production by custom and inheritance. Your father was a fisherman; you are a fisherman; the boat will go to your son. Decisions are not made — they are remembered. Stable; slow to adapt.
+
+**Command economies** organize production by central authority. Someone — a planning committee, a pharaoh — decides what is produced, in what quantities, at what price. Building the Egyptian pyramids was a command-economy project. Soviet industrial quotas were command decisions. Command systems can mobilize enormous resources for a single goal. They struggle with the everyday problem of matching varied, changing wants to a supply that no central office can fully observe.
+
+**Market economies** organize production by decentralized choice. No one decides how many smartphones to make. No one assigns people to be dental hygienists or software engineers. Prices — set by the choices of millions of buyers and sellers who do not know each other — do the coordination work. The remarkable empirical fact, genuinely remarkable and still not entirely understood, is that this works at all. That a system with no central planner manages to feed New York City every day.
+
+Most actual economies are mixed. Mostly market with substantial government involvement, or mostly command with market elements grafted on. The mix, in every country, is contested — not just in policy but in economics itself, because the question of where markets succeed and where they fail is genuinely open.
+
+<!-- → [TABLE: Coordination systems comparison — columns: System | Who decides what to produce | Core strength | Characteristic failure mode; rows: Traditional, Command, Market, Mixed; caption: "Every coordination system is a design choice. Each optimizes for something different and fails in a characteristic way."] -->
+
+---
 
 ## Synthesis
 
-Pull back. The three concepts of this chapter fit together like this.
+Pull back. The three ideas of this chapter fit together like this.
 
 Scarcity is the bedrock fact. Specialization and trade is the main mechanism humans use to push against it. Models, markets, and institutions are the tools we built to think about, organize, and govern that push.
 
-A restaurant kitchen at dinner service holds all three in a space you could cross in eight strides. The kitchen runs into scarcity: six people, a finite night, a fixed menu. It uses specialization to push back: a chef calling tickets, a sous chef on proteins, a station cook on the grill, a pastry cook on desserts, a dishwasher keeping the plates moving. It coordinates by a mix of command (the chef calls the tickets) and market signals (the orders reveal what the customers want). And it has the brittleness that specialization always carries: if the dishwasher doesn't show, the whole system jams within forty minutes.
+A restaurant kitchen at dinner service holds all three in a space you could cross in eight strides. Six people, a finite night, a fixed menu — scarcity. A chef on tickets, a sous chef on proteins, a station cook on the grill, a pastry cook on desserts — specialization. Orders from the dining room revealing what customers want, the chef calling the tickets — a mix of market signal and command coordination. And built into it, the brittleness that specialization always carries: if the dishwasher does not show up, the whole system jams within forty minutes.
 
-Scale that up. When you read that a chip shortage in 2021 stalled the global auto industry, the structure is the same. Scarcity of fabrication capacity. Specialization-and-trade so intense that almost all advanced chips were made in a handful of plants and sold worldwide. One disruption — a fire, an earthquake near Hsinchu — and your new truck is delayed nine months. The headline writes itself once you have the frame.
+Scale that up by a factor of a million and you have the global supply chain. Scale the brittleness up by the same factor and you have 2021.
 
-The honest reading I want to leave you with: economics gives you a way of seeing that is genuinely powerful. It is not the only way. Sociology sees patterns the economist misses. Anthropology sees customs the economist abstracts away. History sees contingencies the economist's models smooth over. A good economist knows what the tool can do and knows where it breaks. By the end of this course, so should you.
+I want to leave you with an honest reading of what you are about to learn. Economics gives you a way of seeing that is genuinely powerful. It is not the only way. Sociology sees patterns the economist misses. Anthropology sees customs the economist abstracts away. History sees contingencies the economist's models smooth over. A good economist knows what the tool can do, and knows where it breaks. By the end of this course, so should you.
+
+The central claim of this chapter — that specialization plus trade is the dominant mechanism behind modern wealth — would need serious revision if large historical economies had achieved comparable per-capita output without much specialization or trade. As far as the historical record shows, none has.
+
+And still puzzling: I do not fully understand why coordination by decentralized markets works as well as it does. The theoretical answer is that prices aggregate dispersed information. The empirical answer is that markets sometimes fail badly. Where exactly the line sits between "market does this well" and "market fails here" is what we will spend the rest of the book chipping at without fully settling.
+
+That unresolved edge is not a problem. It is the invitation.
+
+---
+
+## Exercises
+
+**Warm-up**
+
+*1. Scarcity in your own day.* List three choices you made today — what you ate, how you spent an hour, what you did not do. For each, identify the resource that was scarce and name the opportunity cost. The goal is not to be clever. The goal is to see that the framework fits ordinary life without straining it. *(Tests: scarcity as a universal condition; opportunity cost as a different kind of cost.)*
+
+*2. Poverty, shortage, or scarcity?* Classify each of the following as primarily a problem of poverty, shortage, or scarcity — and explain in one sentence why the other two labels do not fit: (a) A family cannot afford insulin. (b) A city ran out of hotel rooms during the Olympics. (c) A billionaire cannot attend two parties on the same night. *(Tests: precision of the three definitions.)*
+
+*3. Read the circular flow.* Draw the circular flow from memory. Then trace a single dollar bill starting from a household's paycheck: which arrows does it travel, in what direction, and where does it end up? *(Tests: mechanical understanding of the circular flow model.)*
+
+**Application**
+
+*4. The opportunity cost you cannot see.* A university owns its campus buildings outright and pays no rent. A student group proposes a new program that would use one building full-time. The administration says, "It won't cost anything — the building is already ours." Is the administration right? Explain what cost they are omitting, and how an economist would calculate it. *(Tests: implicit opportunity cost; applying the concept to a situation where no money changes hands.)*
+
+*5. Comparative advantage with numbers.* A translator can proofread 10 pages per hour or translate 4 pages per hour. A junior editor can proofread 6 pages per hour or translate 1 page per hour. Who has the comparative advantage in translation? Who should do the proofreading? Show your reasoning step by step — do not just state the answer. *(Tests: applying comparative advantage beyond the surgeon/carpenter example; numerical reasoning.)*
+
+*6. Pick the right lens.* You are asked three questions: (a) Why did egg prices spike in early 2023? (b) Why was U.S. unemployment lower in 2019 than in 2010? (c) Will a new local minimum wage reduce teen employment in this city? For each, say whether you would reach for a micro or macro lens first, and name the feature of the question that makes one lens more appropriate. *(Tests: distinguishing micro from macro by question type, not topic name.)*
+
+**Synthesis**
+
+*7. The pin factory in the 21st century.* The 2021 global chip shortage was described as structurally similar to the pin factory. Explain that structural similarity precisely: which of the three mechanisms of specialization were at work in the semiconductor industry, and how did each contribute to the shortage's severity? Then identify which mechanism most explains why the shortage persisted for over a year rather than resolving quickly. *(Tests: applying all three mechanisms to a real case; distinguishing their individual contributions.)*
+
+*8. The coordination problem in practice.* In spring 2020, U.S. grocery stores ran out of flour while commercial bakeries had surplus they could not move, because the two supply chains ran on completely separate distribution networks. Analyze this event: what type of coordination was the grocery supply chain using, why did it fail at this specific task, and what type of coordination would have resolved the mismatch faster? *(Tests: applying the three coordination systems to a real event; identifying when market coordination fails and why.)*
+
+**Challenge**
+
+*9. Where the circular flow breaks.* The simple circular flow has no government, no banks, and no foreign trade. Choose one of these omissions and describe a real economic event from the past twenty years that the simple model cannot explain — not just "fails to include" but actively predicts wrong. Then sketch, in words, what you would need to add to the model to account for it. What does that addition cost you in terms of the model's clarity and usability? *(Tests: critical evaluation of a model on its own terms; trade-off thinking about model design.)*
+
+*10. The honest verdict.* The chapter ends with two admissions: that comparative advantage is well-established, and that why decentralized markets work as well as they do is not fully understood. Find one other claim in this chapter that you think deserves a similar epistemic flag — something asserted more confidently than the evidence warrants. Make the argument for why it should carry more uncertainty. Then consider: does adding that uncertainty change any practical conclusion a student should draw? *(Tests: intellectual honesty applied to course material; distinguishing empirical claims from theoretical ones.)*
+
+---
 
 ## LLM Exercises
 
@@ -163,21 +232,12 @@ These are designed to be attempted with a large language model as a thinking par
 
 **Exercise 5 — Find where the model breaks.** Ask an LLM to name one assumption built into the simple circular flow diagram that, if removed, would change the answer to an interesting economic question. Evaluate its answer: is the assumption it names genuinely baked into the model, and is the question it raises genuinely interesting? Then find a second assumption the LLM missed and pose it yourself.
 
-## What comes next
-
-Chapter 2 — Choice in a World of Scarcity turns scarcity into a formal model: the production possibilities frontier, the budget constraint, opportunity cost made precise. Chapter 3 — Demand and Supply introduces the workhorse model of price determination, the most-used tool in microeconomics. From there we will spend most of the first half of the book inside microeconomics — consumer choice, firm production, market structures — before turning to the macroeconomic view from Chapter 19 onward. Each chapter is a tool. Some you will use often. Some rarely. All of them are means; the end is to look at the world and see, where most people see noise, the shape of choice under scarcity.
-
-**What would change my mind.** The central claim of this chapter — that specialization plus trade is the dominant mechanism behind modern wealth — would need revision if large historical economies achieved comparable per-capita output without much specialization or trade. As far as the historical record shows, none has.
-
-**Still puzzling.** I do not fully understand why coordination by decentralized markets works as well as it does. The theoretical answer is that prices aggregate information. The empirical answer is that markets sometimes fail badly. Where exactly the boundary sits between "market does this well" and "market fails here" is what we will spend the back half of the book chipping at without fully settling.
-
-*Byline: Nik Bear Brown.*
 ---
 
 ## LLM Exercise — Chapter 1: Welcome to Economics (Policy Brief Project)
 
-**Project:** Policy Brief — pick one contestable policy in this chapter and analyze it across all 34 chapters of the book. Final deliverable: a 6,000–10,000 word policy brief that applies the discipline of economic reasoning to a real, decidable question.
-**What you're building this chapter:** the project's foundation — your chosen policy, the framing question, and the opportunity-cost frame that anchors everything that follows.
+**Project:** Policy Brief — pick one contestable policy in this chapter and analyze it across all 34 chapters of the book. Final deliverable: a 6,000–10,000 word policy brief that applies the discipline of economic reasoning to a real, decidable question.  
+**What you're building this chapter:** the project's foundation — your chosen policy, the framing question, and the opportunity-cost frame that anchors everything that follows.  
 **Tool:** **Claude Project** — create one called "Policy Brief — [Your Policy]." Every later chapter adds a section to the brief inside this Project.
 
 ---
@@ -258,16 +318,18 @@ Every later chapter's prompt assumes this foundation exists.
 
 **Preview of next chapter:** Chapter 2 builds the production-possibilities frame for your policy — what's the trade-off curve, where on it does the current state sit, and what does your policy claim to do about that?
 
-
 ---
 
-##  AI Wayback Machine
-**Joan Robinson** was Cambridge economist whose Imperfect Competition (1933) reshaped microeconomics and challenged the marginalist consensus.
+## AI Wayback Machine
+
+**Joan Robinson** was a Cambridge economist whose *Imperfect Competition* (1933) reshaped microeconomics and challenged the marginalist consensus.
 
 **Run this:**
 
 ```
-Who is Joan Robinson, and how does their work connect to welcome to economics we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about their career or ideas.
+Who is Joan Robinson, and how does their work connect to welcome to economics
+we covered in this chapter? Keep it to three paragraphs. End with the single
+most surprising thing about their career or ideas.
 ```
 
 → Search **"Joan Robinson"** on Wikipedia.
@@ -278,3 +340,7 @@ Who is Joan Robinson, and how does their work connect to welcome to economics we
 - Add a constraint: "Answer including criticisms or limits of Joan Robinson's framework."
 
 What changes? What gets better? What gets worse?
+
+---
+
+*Byline: Nik Bear Brown.*
