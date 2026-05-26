@@ -1,5 +1,12 @@
 # Chapter 32 — Macroeconomic Policy Around the World
 
+
+## TL;DR
+
+- The same problems, different institutional answers — what we can learn from how other countries do macro.
+- The chapter moves through Income classifications, What distinguishes country contexts, The growth policy menu, Unemployment, inflation, and trade across countries, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *The same problems, different institutional answers — what we can learn from how other countries do macro.*
 
 In 1960, South Korea had a GDP per capita of about $158 — comparable to Ghana, Burma, and the Philippines. By 2024, South Korean GDP per capita exceeded $35,000. Ghana's, in 2024, was about $2,300. The Philippines' was about $4,000. Burma (Myanmar) was below $1,500. Sixty years had transformed Korea into a high-income economy while leaving its 1960 peers in low-to-middle-income status.
@@ -213,8 +220,7 @@ domestic policy debate; the brief should not paper over this.
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 **Esther Duflo** was Nobel-winning development economist whose RCTs in poor countries reshaped policy evaluation.
 
 **Run this:**

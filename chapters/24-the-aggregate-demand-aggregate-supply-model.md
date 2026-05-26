@@ -1,5 +1,12 @@
 # Chapter 24 — The Aggregate Demand–Aggregate Supply Model
 
+
+## TL;DR
+
+- The macroeconomy as one big market — the supply-and-demand framework, scaled up to the whole economy.
+- The chapter moves through Two visions of the macroeconomy, Aggregate Demand, Short-run Aggregate Supply, Equilibrium and shifts, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *The macroeconomy as one big market — the supply-and-demand framework, scaled up to the whole economy.*
 
 In 2006, the U.S. housing market was building 1.6 million new homes a year. By 2009, that number had collapsed to 550,000 — barely more than a third of the peak. Construction employment fell by about 1.7 million workers in those three years. Furniture stores, appliance makers, mortgage brokers, real estate agents — all the industries that depend on housing — shrank in parallel.
@@ -207,8 +214,7 @@ brief should be precise.
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 **Paul Samuelson** was integrated Keynesian and neoclassical economics in his 1948 textbook — Nobel 1970.
 
 **Run this:**

@@ -1,5 +1,12 @@
 # Chapter 8 — Perfect Competition
 
+
+## TL;DR
+
+- The market with no pricing power — and why economists keep teaching it.
+- The chapter moves through What perfect competition means, How a price taker decides, The shutdown rule, The long run — entry and exit, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *The market with no pricing power — and why economists keep teaching it.*
 
 A wheat farmer in central Kansas sits at her kitchen table on a Thursday morning, looking at her phone. The Chicago Mercantile Exchange has just opened. She watches the screen for thirty seconds. Hard red winter wheat: $5.82 a bushel. Yesterday it was $5.85. Last week, $5.91.
@@ -199,8 +206,7 @@ the dominant effect.
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 **Léon Walras** was developed general equilibrium theory in the 1870s — the mathematical foundation of perfect competition.
 
 **Run this:**

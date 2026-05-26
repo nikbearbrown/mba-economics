@@ -1,5 +1,12 @@
 # Chapter 12 — Environmental Protection and Negative Externalities
 
+
+## TL;DR
+
+- When the price doesn't include the cost — and what to do about it.
+- The chapter moves through What an externality is, Command-and-control regulation, Pollution taxes (Pigouvian taxes), Cap-and-trade (marketable permits), and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *When the price doesn't include the cost — and what to do about it.*
 
 In 1952, a thick fog settled over London. It lasted five days. By the time it lifted, an estimated 4,000 people were dead. Subsequent estimates have raised that number, with some recent epidemiological work suggesting up to 12,000 deaths from the immediate event and from health effects in the months after.
@@ -188,8 +195,7 @@ best; the brief should name the gap and what creates it.
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 **Arthur Pigou** was developed the framework for "Pigouvian taxes" on negative externalities in 1920.
 
 **Run this:**

@@ -1,5 +1,12 @@
 # Chapter 30 — Government Budgets and Fiscal Policy
 
+
+## TL;DR
+
+- This chapter gives a working overview of Government Budgets and Fiscal Policy, focusing on the ideas a reader needs before moving to the next chapter.
+- The chapter moves through How the U.S. government spends, How the U.S. government raises money, How taxes are classified, Annual deficit vs. accumulated debt, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *How the U.S. government raises and spends money — and how those decisions affect the macroeconomy.*
 
 In October 2013, the U.S. federal government partially shut down for 16 days. National parks closed. Some federal employees were furloughed. Government services slowed or stopped. The cause: Congress could not agree on a continuing resolution to keep the government funded.
@@ -213,8 +220,7 @@ question — the brief should say so.
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 **Cecilia Rouse** was labor economist who chaired the Council of Economic Advisers under Biden — and the first Black scholar to chair it.
 
 **Run this:**

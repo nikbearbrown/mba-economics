@@ -1,5 +1,12 @@
 # Chapter 21 — Unemployment
 
+
+## TL;DR
+
+- The most-watched single number in macroeconomics — what it counts, what it misses, and why it never quite reaches zero.
+- The chapter moves through What unemployment means — and what the rate counts, The historical pattern, Three kinds of unemployment, Sticky wages — why unemployment exists at all, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *The most-watched single number in macroeconomics — what it counts, what it misses, and why it never quite reaches zero.*
 
 In March 2020, the U.S. unemployment rate was 4.4 percent — close to its lowest level in fifty years. By April 2020, the rate was 14.8 percent. Twenty-three million people were out of work who had been working a month earlier. The COVID-19 pandemic and the lockdowns that followed produced the most abrupt change in unemployment since unemployment statistics began being collected systematically in the 1940s.
@@ -196,8 +203,7 @@ mistaken for long-run natural-rate effects.
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 **A.W. Phillips** was discovered the empirical relationship between inflation and unemployment in 1958 — the Phillips curve.
 
 **Run this:**

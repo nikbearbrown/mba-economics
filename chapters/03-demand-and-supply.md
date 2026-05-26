@@ -1,5 +1,12 @@
 # Chapter 3 — Demand and Supply
 
+
+## TL;DR
+
+- Where price comes from — and what happens when you try to override it.
+- The chapter moves through The two curves, Movements along, shifts of, The four-step analysis, Price controls and what they hide, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *Where price comes from — and what happens when you try to override it.*
 
 Pick up an organic Fuji apple at the supermarket. Look at the sticker. $2.75 a pound.
@@ -235,9 +242,7 @@ the diagram from your description.
 
 ---
 
-## AI Wayback Machine
-
-**Alfred Marshall** was introduced the demand-and-supply diagram in 1890 in Principles of Economics — the iconic X-shaped graph students still memorize.
+##  AI Wayback Machine
 
 **Run this:**
 

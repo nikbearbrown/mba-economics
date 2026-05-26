@@ -1,5 +1,12 @@
 # Chapter 34 — Globalization and Protectionism
 
+
+## TL;DR
+
+- The political backlash against trade — and the policy debates that close this book.
+- The chapter moves through How protectionism works, The standard arguments for protection, The case against protection, Trade adjustment, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *The political backlash against trade — and the policy debates that close this book.*
 
 In June 2016, voters in the United Kingdom voted by a narrow margin to leave the European Union. Brexit. Five months later, in the United States, voters elected a president who had campaigned heavily on imposing tariffs on Chinese imports and renegotiating the North American Free Trade Agreement. By 2018, the new administration had imposed tariffs on $360 billion of Chinese goods, with China retaliating in kind. By 2020, the political consensus that had supported expanding trade for the previous several decades had visibly cracked.
@@ -238,9 +245,7 @@ shifted, what didn't, and why.
 
 ---
 
-## AI Wayback Machine
-
-**Dani Rodrik** was Turkish-American economist whose work on the "trilemma" of globalization explores what democracies must give up to participate in global markets.
+##  AI Wayback Machine
 
 **Run this:**
 

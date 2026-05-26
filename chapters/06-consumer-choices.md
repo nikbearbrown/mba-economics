@@ -1,5 +1,12 @@
 # Chapter 6 — Consumer Choices
 
+
+## TL;DR
+
+- Where the demand curve actually comes from — and where the rational consumer model breaks.
+- The chapter moves through The textbook model — utility maximization, Substitution and income effects, Choices across time, Where the model breaks — behavioral economics, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *Where the demand curve actually comes from — and where the rational consumer model breaks.*
 
 In the middle of the 2008–2009 financial crisis, when consumer spending across the United States cratered and family budgets tightened in ways economists were still trying to track in real time, one category of spending went *up*.
@@ -199,8 +206,7 @@ Most policies are mixed; the brief should name which.
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 **Gary Becker** was extended consumer choice theory to discrimination, family, and crime — Nobel 1992.
 
 **Run this:**

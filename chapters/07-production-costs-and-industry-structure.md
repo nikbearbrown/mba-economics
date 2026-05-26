@@ -1,5 +1,12 @@
 # Chapter 7 — Production, Costs, and Industry Structure
 
+
+## TL;DR
+
+- Where the supply curve actually comes from — what a firm spends, and why "cost" is more complicated than the bill it pays.
+- The chapter moves through What "cost" really means, The production function — inputs to outputs, Cost curves — the supply-side toolkit, The long run — economies of scale, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *Where the supply curve actually comes from — what a firm spends, and why "cost" is more complicated than the bill it pays.*
 
 In 1994, Jeff Bezos drove from New York to Seattle in a beat-up car, writing a business plan in the passenger seat while his wife drove. The plan: an online bookstore. The advantages: no physical store, no inventory limit, no geographic constraint on customers. The disadvantages: shipping costs, the complete absence of any infrastructure for what he was proposing, and the small detail that no one had successfully sold books online before.
@@ -195,8 +202,7 @@ created the monopoly may persist after breakup.)
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 **Edith Penrose** was wrote The Theory of the Growth of the Firm (1959) — building the resource-based view of industry structure.
 
 **Run this:**

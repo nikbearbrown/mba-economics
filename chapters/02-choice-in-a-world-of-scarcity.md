@@ -1,5 +1,12 @@
 # Chapter 2 — Choice in a World of Scarcity
 
+
+## TL;DR
+
+- The shape of every decision — budget constraints, opportunity costs, and the curve that represents society itself.
+- The chapter moves through The shape of an individual choice, How people decide on the surface, Scale up: the surface of society's choice, Synthesis, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *The shape of every decision — budget constraints, opportunity costs, and the curve that represents society itself.*
 
 In 2020, the Bureau of Labor Statistics released a number that should have ended the conversation about whether college is worth it.
@@ -191,8 +198,7 @@ discipline this chapter trains.
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 **Lionel Robbins** was defined economics in 1932 as "the study of the allocation of scarce means among competing ends" — the definition still used today.
 
 **Run this:**

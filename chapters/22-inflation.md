@@ -1,5 +1,12 @@
 # Chapter 22 — Inflation
 
+
+## TL;DR
+
+- The slow erosion of money's value — what it actually is, why it matters more than you'd think, and what happens when it gets out of control.
+- The chapter moves through Measuring inflation — the basket and the index, Biases in the CPI, The historical pattern, What inflation does — distributional effects, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *The slow erosion of money's value — what it actually is, why it matters more than you'd think, and what happens when it gets out of control.*
 
 In July 2008, in Zimbabwe, a loaf of bread cost about 1.6 trillion Zimbabwean dollars. The country was in the middle of one of the worst hyperinflations in modern history. Annual inflation was running at an estimated 89.7 sextillion percent (that's 89,700,000,000,000,000,000,000 percent). Prices doubled, by some estimates, every 24 hours. The Reserve Bank of Zimbabwe issued a 100-trillion-dollar note. People shopped for groceries with wheelbarrows of cash. The currency was eventually abandoned entirely; Zimbabwe started using the U.S. dollar instead.
@@ -224,8 +231,7 @@ in its own right.
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 **Irving Fisher** was developed modern theory of interest rates and the quantity theory of money — and famously declared stocks "permanently high plateau" days before the 1929 crash.
 
 **Run this:**

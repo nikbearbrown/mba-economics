@@ -1,5 +1,12 @@
 # Chapter 28 — Monetary Policy and Bank Regulation
 
+
+## TL;DR
+
+- The Federal Reserve — what it does, how it does it, and what it can't do.
+- The chapter moves through How the Fed is structured, The traditional toolkit, Expansionary vs. contractionary policy, The zero lower bound problem, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *The Federal Reserve — what it does, how it does it, and what it can't do.*
 
 In December 2008, the Federal Reserve cut its benchmark interest rate to a target range of 0 to 0.25 percent — effectively zero. The U.S. economy was in the deepest recession since the Great Depression. Standard monetary policy says: in a recession, cut interest rates to encourage borrowing, investment, and spending. But the rate was already at zero. The Fed had run out of conventional ammunition.
@@ -217,8 +224,7 @@ The brief earns its keep by naming this rather than ignoring it.
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 **Marriner Eccles** was Federal Reserve Chair under FDR who designed much of the modern central banking framework.
 
 **Run this:**

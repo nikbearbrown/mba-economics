@@ -1,5 +1,12 @@
 # Chapter 27 — Money and Banking
 
+
+## TL;DR
+
+- What money actually is, how banks create it, and the institutional plumbing that makes the modern monetary system work.
+- The chapter moves through What money does, Commodity vs. fiat, Measuring the money supply, Banks as intermediaries, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *What money actually is, how banks create it, and the institutional plumbing that makes the modern monetary system work.*
 
 In some Pacific islands of the 19th century, money was made of cowrie shells. In Yap, it was carved limestone disks weighing thousands of pounds. In medieval Europe, it was coins struck from gold and silver. In post-WWII America, it was paper notes redeemable in gold (until 1971), then paper notes redeemable in nothing. In the 21st century, increasingly, it is electronic entries in bank databases — most U.S. dollars never exist in physical form at all. And in some recent corners of the digital world, money is cryptographic tokens on distributed ledgers.
@@ -222,8 +229,7 @@ not overclaim.
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 **Walter Bagehot** was a 19th-century British journalist whose Lombard Street (1873) defined the central bank's role as lender of last resort — the framework that still guides modern banking policy in a crisis.
 
 **Run this:**

@@ -1,5 +1,12 @@
 # Chapter 14 — Labor Markets and Income
 
+
+## TL;DR
+
+- Why your wage is what it is — and the structural forces that may be holding it down or up.
+- The chapter moves through How a firm decides what to pay, Monopsony — when employers have wage-setting power, Unions — pushing back on the demand side, Bilateral monopoly — when both sides have power, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *Why your wage is what it is — and the structural forces that may be holding it down or up.*
 
 In 1979, the typical full-time American worker with a four-year college degree earned about 35 percent more than the typical worker with only a high school diploma. By the early 2020s, that premium had widened to roughly 70 percent. Over the same period, the wages of high-school-only workers, adjusted for inflation, were roughly *flat* — sometimes a little higher, sometimes a little lower, but with no sustained upward trend.
@@ -188,9 +195,7 @@ effects the policy's advocates haven't.
 
 ---
 
-## AI Wayback Machine
-
-**Claudia Goldin** was labor economist whose work on the gender wage gap won her the 2023 Nobel Prize.
+##  AI Wayback Machine
 
 **Run this:**
 

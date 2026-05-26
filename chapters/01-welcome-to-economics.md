@@ -1,5 +1,12 @@
 # Chapter 1 — Welcome to Economics
 
+
+## TL;DR
+
+- The pin and the kitchen — why you don't make your own shoes.
+- The chapter moves through The fact that starts everything, What scarcity forces, The thing that follows from scarcity, Mechanism one — comparative advantage, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *The pin and the kitchen — why you don't make your own shoes.*
 
 It is 1776, and a Scottish moral philosopher is standing in a small workshop with a notebook, counting tasks.
@@ -254,8 +261,7 @@ Every later chapter's prompt assumes this foundation exists.
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 **Joan Robinson** was Cambridge economist whose Imperfect Competition (1933) reshaped microeconomics and challenged the marginalist consensus.
 
 **Run this:**

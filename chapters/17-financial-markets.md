@@ -1,5 +1,12 @@
 # Chapter 17 — Financial Markets
 
+
+## TL;DR
+
+- How savings find their way to the projects that need them — and what happens when the system breaks.
+- The chapter moves through How firms raise money, Bonds — promises to pay, Stocks — claims on whatever's left, Diversification — the only free lunch, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *How savings find their way to the projects that need them — and what happens when the system breaks.*
 
 In 2006, the total value of U.S. home equity reached $13 trillion. Three years later, in 2009, it had fallen to about $6 trillion — a destruction of roughly $7 trillion of household wealth in 36 months. The financial crisis that produced this collapse pushed the U.S. into the deepest recession since the 1930s, triggered emergency interventions by the Federal Reserve and the Treasury, and reshaped financial regulation for the next decade.
@@ -196,9 +203,7 @@ prices imply something different from the political consensus.
 
 ---
 
-## AI Wayback Machine
-
-**Harry Markowitz** was invented modern portfolio theory in his 1952 dissertation — Nobel 1990.
+##  AI Wayback Machine
 
 **Run this:**
 

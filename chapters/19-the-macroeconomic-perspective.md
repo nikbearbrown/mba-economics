@@ -1,5 +1,12 @@
 # Chapter 19 — The Macroeconomic Perspective
 
+
+## TL;DR
+
+- Zooming out from individual markets to the whole economy — what we measure, why it matters, and what the numbers don't capture.
+- The chapter moves through Gross Domestic Product — the headline number, Nominal vs. real — adjusting for inflation, The business cycle, GDP per capita and standards of living, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *Zooming out from individual markets to the whole economy — what we measure, why it matters, and what the numbers don't capture.*
 
 In October 1929, the U.S. stock market collapsed. Over the next four years, the U.S. economy contracted by roughly 30 percent in real terms. Industrial production fell by half. Unemployment rose from about 3 percent to about 25 percent. Bank failures wiped out the savings of millions of households. By 1933, more than 9,000 banks had closed, taking $7 billion of deposits with them.
@@ -218,9 +225,7 @@ estimate.
 
 ---
 
-## AI Wayback Machine
-
-**Simon Kuznets** was developed modern national income accounting — including the GDP framework. Nobel 1971.
+##  AI Wayback Machine
 
 **Run this:**
 

@@ -1,5 +1,12 @@
 # Chapter 16 — Information, Risk, and Insurance
 
+
+## TL;DR
+
+- The third major source of market failure — when one side knows what the other doesn't.
+- The chapter moves through Asymmetric information — the lemons problem, Adverse selection — sorting at the contracting stage, Moral hazard — behavior after the contract, Insurance — pooling risk, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *The third major source of market failure — when one side knows what the other doesn't.*
 
 In 1970, an economist named George Akerlof published a short paper titled "The Market for 'Lemons.'" It was rejected by three top journals before it found a home, and a few decades later it won him the Nobel Prize.
@@ -212,8 +219,7 @@ because the information assumption underlying them was wrong.
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 **George Akerlof** was developed the lemons model of information asymmetry in 1970 — Nobel 2001.
 
 **Run this:**

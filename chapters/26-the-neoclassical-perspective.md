@@ -1,5 +1,12 @@
 # Chapter 26 — The Neoclassical Perspective
 
+
+## TL;DR
+
+- The case that the long run is what matters, that markets clear, and that demand-side intervention often does more harm than good.
+- The chapter moves through The neoclassical claim, Rational expectations, Supply-side policy, Where the neoclassical view fits, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *The case that the long run is what matters, that markets clear, and that demand-side intervention often does more harm than good.*
 
 In 1979, Paul Volcker became chair of the Federal Reserve. U.S. inflation was 11 percent and rising. Unemployment was 6 percent. The Keynesian framework that had guided U.S. macroeconomic policy through the postwar decades had been struggling to explain the simultaneous high inflation and high unemployment of the 1970s.
@@ -210,8 +217,7 @@ long run. Most defensible briefs end up here.
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 **Milton Friedman** was developed monetarism and championed market-oriented policy — Nobel 1976.
 
 **Run this:**

@@ -1,5 +1,12 @@
 # Chapter 15 — Poverty and Economic Inequality
 
+
+## TL;DR
+
+- Two different questions about how a society's income gets distributed — and what to do about each.
+- The chapter moves through Poverty — measuring deprivation, Inequality — measuring the spread, The poverty trap, The U.S. safety net, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *Two different questions about how a society's income gets distributed — and what to do about each.*
 
 In September 2011, a group of protesters set up tents in Zuccotti Park in lower Manhattan. They called themselves Occupy Wall Street. Their slogan was a number: "We are the 99 percent." The number was a reference to the income share captured by the top 1 percent of U.S. households, which by 2011 had risen to about 20 percent of all pre-tax income — roughly double its share in 1980.
@@ -187,8 +194,7 @@ policy, and why.
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 **Amartya Sen** was developed the capability approach to poverty — Nobel 1998.
 
 **Run this:**

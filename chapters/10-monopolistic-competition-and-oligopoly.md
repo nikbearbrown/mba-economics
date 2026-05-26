@@ -1,5 +1,12 @@
 # Chapter 10 — Monopolistic Competition and Oligopoly
 
+
+## TL;DR
+
+- The territory between perfect competition and pure monopoly — and the strategic games that fill it.
+- The chapter moves through Monopolistic competition — many firms, differentiated products, The role of advertising, Oligopoly — few firms, strategic interaction, The prisoner's dilemma, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *The territory between perfect competition and pure monopoly — and the strategic games that fill it.*
 
 Between 1997 and 2004, executives from four companies — Procter & Gamble, Henkel, Unilever, and Colgate-Palmolive — met in small Paris cafés. Together their firms controlled about 90 percent of the French laundry detergent market. The meetings had one purpose: agree on prices, divide the territory, stop competing.
@@ -198,9 +205,7 @@ isn't obvious; the brief should name it.
 
 ---
 
-## AI Wayback Machine
-
-**Edward Chamberlin** was developed monopolistic competition theory in 1933 — making industrial organization a serious field.
+##  AI Wayback Machine
 
 **Run this:**
 

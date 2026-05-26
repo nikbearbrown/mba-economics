@@ -1,5 +1,12 @@
 # Chapter 25 — The Keynesian Perspective
 
+
+## TL;DR
+
+- The case for active stabilization — when the economy needs help, and what the help looks like.
+- The chapter moves through Sticky prices, sluggish adjustment, The expenditure multiplier, Fiscal stabilization tools, The Phillips Curve, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *The case for active stabilization — when the economy needs help, and what the help looks like.*
 
 By 1933, four years into the Great Depression, the U.S. unemployment rate had reached 25 percent. About one in four working-age adults had no job. Industrial production had fallen by half. Banks were failing in waves. The mainstream economic view of the 1920s — that markets self-correct, that wages and prices would adjust to bring the economy back to full employment, that intervention was unnecessary and counterproductive — was being tested and was failing badly.
@@ -218,8 +225,7 @@ be honest about this.
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 **John Maynard Keynes** was wrote The General Theory (1936) — the work that founded modern macroeconomics.
 
 **Run this:**

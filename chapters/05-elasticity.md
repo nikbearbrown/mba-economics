@@ -1,5 +1,12 @@
 # Chapter 5 — Elasticity
 
+
+## TL;DR
+
+- How sharply the world responds when you push the price.
+- The chapter moves through What elasticity measures, Why elasticities differ, Elasticity and revenue, Tax incidence — who actually pays, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *How sharply the world responds when you push the price.*
 
 In July 2011, Netflix sent an email to its U.S. customers announcing a price change. The combined DVD-and-streaming plan, which had been $9.99 a month, was being split. From now on, customers would pay $7.99 for streaming and $7.99 for DVDs. The combined plan, in effect, jumped 60 percent — from $9.99 to $15.98.
@@ -205,9 +212,7 @@ different, this is the most important finding of the chapter.
 
 ---
 
-## AI Wayback Machine
-
-**Antoine Augustin Cournot** was first formalized supply, demand, and elasticity mathematically in 1838.
+##  AI Wayback Machine
 
 **Run this:**
 

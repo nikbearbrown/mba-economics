@@ -1,5 +1,12 @@
 # Chapter 9 — Monopoly
 
+
+## TL;DR
+
+- The market with one seller — and what it costs everyone else.
+- The chapter moves through Why monopolies exist, How a monopoly decides, What it costs the rest of us, A useful contrast — and a complication, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *The market with one seller — and what it costs everyone else.*
 
 In May of 1773, the British Parliament passed an obscure piece of corporate-rescue legislation. The East India Company — a London-based trading conglomerate that had effectively run a third of the world for a century, and which we would today recognize as the original "too big to fail" — was struggling financially. Parliament's solution was to grant the company a monopoly on tea sales to the American colonies, with a continued tax that the colonies were already protesting.
@@ -182,8 +189,7 @@ loses?
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 **Joseph Schumpeter** was an Austrian-American economist whose theory of "creative destruction" reframed monopoly as a temporary phase in capitalism's continuous self-renewal through innovation.
 
 **Run this:**

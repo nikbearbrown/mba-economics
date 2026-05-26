@@ -1,5 +1,12 @@
 # Chapter 23 — International Trade and Capital Flows
 
+
+## TL;DR
+
+- Why a country's trade balance is a financial story, not just a goods story.
+- The chapter moves through What gets counted in the trade accounts, The savings-investment identity, Why trade deficits aren't always bad, Trade balance vs. level of trade, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *Why a country's trade balance is a financial story, not just a goods story.*
 
 In 2023, the United States imported $773 billion more in goods and services than it exported. China ran a surplus of about $880 billion the other way. Germany's surplus was $250 billion. Japan's was $20 billion.
@@ -209,8 +216,7 @@ brief should be honest about that.
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 **David Ricardo** was introduced comparative advantage in 1817 — the most counter-intuitive proposition in economics.
 
 **Run this:**

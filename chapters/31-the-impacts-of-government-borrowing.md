@@ -1,5 +1,12 @@
 # Chapter 31 — The Impacts of Government Borrowing
 
+
+## TL;DR
+
+- What happens when a government borrows on a sustained basis — to private investment, to interest rates, to trade balances, to the next generation.
+- The chapter moves through The national saving and investment identity, expanded, The twin deficits, Ricardian equivalence, Crowding out, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *What happens when a government borrows on a sustained basis — to private investment, to interest rates, to trade balances, to the next generation.*
 
 In the late 1960s, President Lyndon Johnson was pursuing two costly programs simultaneously — the Vietnam War and the Great Society's expansion of social programs. Rather than raise taxes to pay for both, his administration ran budget deficits and let the Federal Reserve accommodate the spending with monetary expansion. The combined "guns and butter" deficit substantially preceded the inflation surge that haunted the U.S. economy through the 1970s.
@@ -193,8 +200,7 @@ policies, it's central.
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 **Carmen Reinhart** was Harvard economist whose work with Kenneth Rogoff on sovereign debt and financial crises reshaped how we think about government borrowing.
 
 **Run this:**

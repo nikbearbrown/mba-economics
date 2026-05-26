@@ -1,5 +1,12 @@
 # Chapter 20 — Economic Growth
 
+
+## TL;DR
+
+- The biggest economic story in history — when most of the world started getting richer, why, and what stops it.
+- The chapter moves through Two centuries of growth, Labor productivity — the engine, Capital deepening — and its limits, Human capital and institutions, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *The biggest economic story in history — when most of the world started getting richer, why, and what stops it.*
 
 In the early 1600s, the typical Western European worker, after a day of labor, could afford about 2,500 food calories. Just enough to keep one adult alive. Maybe slightly more in a good year. Definitely less in a bad one.
@@ -205,8 +212,7 @@ name where the policy genuinely depends on long-run claims.
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 **Robert Solow** was developed the neoclassical growth model in 1956 — Nobel 1987.
 
 **Run this:**

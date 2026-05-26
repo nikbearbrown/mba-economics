@@ -1,5 +1,12 @@
 # Chapter 33 — International Trade
 
+
+## TL;DR
+
+- Why countries trade — and the math that shows trade can leave both sides better off, even when one side is "better at everything.
+- The chapter moves through The gains from trade — a worked example, Why "better at everything" doesn't kill the gains, Modern trade — intra-industry and supply chains, Dynamic gains beyond comparative advantage, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *Why countries trade — and the math that shows trade can leave both sides better off, even when one side is "better at everything."*
 
 Look at the iPhone in your pocket. The aluminum in its frame may have been mined in Australia, refined in China, and machined in Vietnam. The display is from South Korea. The chips are designed in California, fabricated in Taiwan, and assembled into the device in China. The battery comes from Japan or South Korea. The rare-earth elements in dozens of small components come from China and parts of Africa. The software was written in California with contributions from teams across the world.
@@ -198,8 +205,7 @@ short-run-distributional test.
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 **Eli Heckscher** was co-developed the Heckscher-Ohlin model of trade based on factor endowments.
 
 **Run this:**

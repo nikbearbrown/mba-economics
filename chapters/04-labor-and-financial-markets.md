@@ -1,5 +1,12 @@
 # Chapter 4 — Labor and Financial Markets
 
+
+## TL;DR
+
+- The same diagram applied to two markets that don't look like markets — the one for hours, and the one for dollars across time.
+- The chapter moves through Labor as a market, The minimum wage as price floor, Money across time, Usury laws as price ceilings, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *The same diagram applied to two markets that don't look like markets — the one for hours, and the one for dollars across time.*
 
 In 2020, the U.S. Census Bureau ran the numbers and reported that 22 percent of the country's population was at least 60 years old. More than 74 million people. The single largest cohort, the baby boomers — born between 1946 and 1964 — was hitting retirement and the medical conditions that come with it: heart disease, arthritis, Alzheimer's, the everyday wear of long lives. The Affordable Care Act, in the years just before, had pulled millions more people into the formal healthcare system.
@@ -175,9 +182,7 @@ the advocates haven't named.
 
 ---
 
-## AI Wayback Machine
-
-**Anna Schwartz** was economist who co-authored A Monetary History of the United States with Milton Friedman — and was passed over for the Nobel that recognized the work.
+##  AI Wayback Machine
 
 **Run this:**
 

@@ -1,5 +1,12 @@
 # Chapter 18 — Public Economy
 
+
+## TL;DR
+
+- How political decisions get made — and why the rules of politics produce predictable distortions even when everyone is acting reasonably.
+- The chapter moves through Rational ignorance — why voters don't study, Concentrated benefits, dispersed costs, Pork-barrel spending and logrolling, The median voter theorem, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *How political decisions get made — and why the rules of politics produce predictable distortions even when everyone is acting reasonably.*
 
 In September 2009, the U.S. government imposed a tariff on tires imported from China. The tariff started at 35 percent, fell to 30 percent in year two, and 25 percent in year three. The stated goal: protect American tire manufacturing jobs from cheap Chinese imports.
@@ -220,8 +227,7 @@ should name.
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 **James Buchanan** was co-founded public choice theory — applying economic reasoning to government decisions. Nobel 1986.
 
 **Run this:**

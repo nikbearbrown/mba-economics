@@ -1,5 +1,12 @@
 # Chapter 11 — Monopoly and Antitrust Policy
 
+
+## TL;DR
+
+- The legal apparatus that tries to keep markets from collapsing into one seller — and why it sometimes fails in both directions.
+- The chapter moves through The legal toolkit, Measuring concentration, Three categories of enforcement, Mergers, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *The legal apparatus that tries to keep markets from collapsing into one seller — and why it sometimes fails in both directions.*
 
 In 1911, the U.S. Supreme Court ordered the breakup of Standard Oil, which by then controlled roughly 90 percent of American oil refining. The company was split into 34 separate firms — including the predecessors of what would later become Exxon, Mobil, Chevron, and Amoco. The decision was the largest application yet of a 1890 law called the **Sherman Antitrust Act**, and it set the precedent for federal action against firms that had become "too large" — though what "too large" actually means has been the subject of continuous legal and economic argument ever since.
@@ -196,9 +203,7 @@ auditing. Name the one most appropriate for your specific policy.
 
 ---
 
-## AI Wayback Machine
-
-**Lina Khan** was legal scholar whose "Amazon's Antitrust Paradox" reshaped antitrust thinking — became FTC Chair at 32.
+##  AI Wayback Machine
 
 **Run this:**
 

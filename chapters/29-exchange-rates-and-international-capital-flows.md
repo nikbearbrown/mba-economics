@@ -1,5 +1,12 @@
 # Chapter 29 — Exchange Rates and International Capital Flows
 
+
+## TL;DR
+
+- The price of one currency in terms of another — what determines it, what it does, and the policy choices that constrain it.
+- The chapter moves through What an exchange rate is, The foreign exchange market, What determines the exchange rate, Purchasing power parity, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *The price of one currency in terms of another — what determines it, what it does, and the policy choices that constrain it.*
 
 In 2014, one euro bought about $1.40. By 2017, one euro bought about $1.05. By 2024, one euro bought about $1.10. Over the same decade, the British pound fell from about $1.55 to under $1.30 against the dollar. The Japanese yen depreciated from about ¥80 per dollar to ¥150 per dollar — meaning a U.S. visitor's dollar bought nearly twice as many yen as it had a decade before.
@@ -236,8 +243,7 @@ spillover; brief should be honest.
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 **Robert Mundell** was developed the Mundell-Fleming model of open-economy macroeconomics — Nobel 1999.
 
 **Run this:**

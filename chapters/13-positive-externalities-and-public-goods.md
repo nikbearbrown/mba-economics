@@ -1,5 +1,12 @@
 # Chapter 13 — Positive Externalities and Public Goods
 
+
+## TL;DR
+
+- When the market underproduces — vaccines, basic research, lighthouses, and why your phone's GPS is free.
+- The chapter moves through Positive externalities — the mirror case, R&D and the rate-of-return gap, Public goods — the extreme case, A four-quadrant typology, and related ideas.
+- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
+
 *When the market underproduces — vaccines, basic research, lighthouses, and why your phone's GPS is free.*
 
 In your pocket right now is a piece of technology that knows where you are on the surface of the Earth, accurate to within a few meters, anywhere in the world, in real time. It works through a constellation of about thirty satellites in medium Earth orbit, broadcasting precisely timed signals that your phone uses to triangulate its position. The whole system was built and is operated by the U.S. Department of Defense at a cost of tens of billions of dollars over decades. You use it, every day, for free.
@@ -195,8 +202,7 @@ critics will raise against the policy.
 
 ---
 
-## AI Wayback Machine
-
+##  AI Wayback Machine
 **Elinor Ostrom** was Nobel-winning political economist whose work on common-pool resources reshaped public goods theory.
 
 **Run this:**
