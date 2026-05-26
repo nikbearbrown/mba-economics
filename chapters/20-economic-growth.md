@@ -1,123 +1,150 @@
 # Chapter 20 — Economic Growth
 
-
-## TL;DR
-
-- The biggest economic story in history — when most of the world started getting richer, why, and what stops it.
-- The chapter moves through Two centuries of growth, Labor productivity — the engine, Capital deepening — and its limits, Human capital and institutions, and related ideas.
-- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
-
 *The biggest economic story in history — when most of the world started getting richer, why, and what stops it.*
 
-In the early 1600s, the typical Western European worker, after a day of labor, could afford about 2,500 food calories. Just enough to keep one adult alive. Maybe slightly more in a good year. Definitely less in a bad one.
+In the early 1600s, the typical Western European worker, after a full day of labor, could afford about 2,500 food calories. Just enough to keep one adult alive. Maybe a little more in a good year. Definitely less in a bad one.
 
-By 1800 — two hundred years of relentless work, plagues, wars, and trade later — the typical Western European worker could afford about 3,500 calories a day. A modest improvement. Still not enough to support a family in any comfort. Children went hungry. Most lives were short. Most economies hadn't grown enough to break the Malthusian ceiling that had constrained humanity for the previous ten thousand years.
+By 1800 — two hundred years of work, plagues, wars, and trade later — the typical Western European worker could afford about 3,500 calories a day. A modest improvement. Still not enough to support a family in any comfort. Children went hungry. Most lives were short. Most economies had not grown enough to break the Malthusian ceiling that had constrained humanity for the previous ten thousand years.
 
-By 2000, the typical Western European worker could afford the equivalent of about 35,000 calories a day. Fourteen times what their ancestors of 1600 could afford. Not in calories actually consumed, but in goods and services available to be purchased — calories being the historical reference unit.
+By 2000, the typical Western European worker could afford the equivalent of about 35,000 calories a day. Fourteen times what their ancestors of 1600 could afford — not in calories actually consumed, but in the purchasing power of a day's wage, with calories as the historical reference unit.
 
-This factor of fourteen — and the comparable factors across most of the world — is **modern economic growth**. It started in some places about 1800, spread unevenly across the globe over two centuries, and is the most important economic phenomenon in human history. The story of *how poor humans have been for nearly all of history* and *how rich some are now* is the story this chapter tries to tell.
+That factor of fourteen is **modern economic growth**. It started in some places around 1800, spread unevenly across the globe over two centuries, and is the most important economic phenomenon in human history. If all of human history were compressed into a single year, sustained material growth would have started after 11:50 PM on December 31. We are twelve minutes into the most extraordinary economic experiment our species has ever run.
 
-By the end you should be able to identify the conditions that produce sustained growth, calculate productivity-growth contributions from labor, capital, and technology, and explain why some poor countries are catching up to rich countries while others are not.
+This chapter is about what caused it, how it works, and why it happens in some places but not others.
 
-**Learning objectives.** By the end you should be able to: (1) describe the broad pattern of modern economic growth (1800 to today); (2) define labor productivity and write the basic aggregate production function; (3) explain capital deepening and human capital; (4) compute and interpret growth accounting decompositions; (5) define convergence and evaluate the empirical evidence on which countries are and aren't converging.
+---
 
-**Prerequisites.** Chapter 7 (production function). Chapter 19 (GDP, GDP per capita).
+## Two Centuries of Growth
 
-## Two centuries of growth
+For nearly all of recorded history, almost everyone was poor. World GDP per capita in 1800 has been estimated at roughly $1,200 in today's purchasing-power-adjusted dollars — about what would now define the lowest poverty line in a wealthy country. The richest few percent had genuine wealth; the rest lived at or near subsistence. Average life expectancy was around 30 years. Childhood mortality was on the order of one-third. Famines were regular events.
 
-For nearly all of human history, almost everyone was poor. World GDP per capita in 1800 has been estimated at roughly $1,200 in today's dollars (PPP-adjusted) — what would now be the lowest poverty line in the U.S. The richest 5 percent had genuine wealth; the rest lived at or near subsistence. Average life expectancy was roughly 30 years. Childhood mortality was on the order of one-third. Famines were regular events.
+Then, starting in pockets of Britain and then Western Europe around 1800, something changed. Growth rates began rising and staying high. Britain industrialized. The United States and France followed. Germany, then the rest of Western Europe, then Japan in the late 19th century. The initial growth rates were modest by modern standards — 1 to 2 percent per year — but sustained over decades, they compound relentlessly.
 
-Then, starting in some pockets of Western Europe and North America, around 1800, growth rates began rising. Britain industrialized. The United States and France followed. Germany, then the rest of Western Europe, then Japan starting in the late 19th century. The growth rates were modest by modern standards — perhaps 1 to 2 percent per year, sustained over decades — but they compound.
+Here is the arithmetic that makes compound growth strange. A 2 percent annual growth rate doubles GDP every 35 years. Over two centuries — roughly six doublings — that's a 64-fold increase. The actual increases in many Western countries from 1800 to 2024 are in this range.
 
-A 2 percent annual growth rate doubles GDP every 35 years. Over two centuries, that's about six doublings — a 64-fold increase. The actual increases for many Western countries from 1800 to 2024 are in this neighborhood.
+<!-- → [CHART: Two centuries of global GDP per capita — line chart with year on x-axis (1000–2024) and real GDP per capita (log scale) on y-axis. Nearly flat line from 1000 to 1800. Then sharp upward inflection starting ~1800, rising steeply. Multiple regional lines: Western Europe, United States, East Asia (accelerating later), Sub-Saharan Africa (rising slowly). Caption: "The log scale makes growth rates comparable across time periods. The flatness before 1800 and the inflection after are the central facts this chapter explains. The divergence between regions after 1800 is what the convergence discussion addresses."] -->
 
-In the second half of the 20th century, the growth pattern spread. Japan after World War II. South Korea, Taiwan, Singapore, Hong Kong from the 1960s. China from the 1980s. India more slowly. Other countries — much of Africa, large parts of Latin America — have grown more haltingly, with episodes of progress interrupted by setbacks.
+In the second half of the 20th century, the growth pattern spread. Japan after World War II. South Korea, Taiwan, Singapore, Hong Kong from the 1960s. China from the 1980s. India more gradually. As of the 2020s, roughly half the world has converged to a high-income status that would have been incomprehensible two centuries ago. The other half is at various stages of catching up — or failing to.
 
-The result, as of the 2020s: roughly half the world has converged to a high-income status that was unimaginable two centuries ago. The other half is at various stages of catching up, or failing to.
+---
 
-## Labor productivity — the engine
+## Labor Productivity: The Engine
 
 What produces sustained growth?
 
-The short answer: rising **labor productivity** — the value of output per worker per hour.
+The short answer: rising **labor productivity** — the value of output per worker per hour. If each worker produces twice as much as a generation ago, GDP grows even if the workforce doesn't expand. Productivity growth has been the dominant source of long-term growth in advanced economies since the Industrial Revolution.
 
-If each worker produces twice as much as they did a generation ago, GDP grows even if the workforce stays the same size. Productivity growth has been the dominant source of long-term growth in advanced economies since the Industrial Revolution.
+Labor productivity rises through three channels, and keeping these three separate is important because they work differently and reach different limits.
 
-Labor productivity rises through three channels.
+**Physical capital per worker.** A construction worker with a backhoe digs more in a day than one with a shovel. A factory worker with modern automated equipment produces more than one with hand tools. Adding capital — buildings, machinery, infrastructure — raises output per worker. This is **capital deepening**: increasing the amount of physical capital each worker has to work with.
 
-**Physical capital per worker.** A construction worker with a backhoe digs more in a day than one with a shovel. A manufacturing worker with modern automated equipment produces more than one with hand tools. Adding capital — buildings, machinery, infrastructure — raises output per worker. This is **capital deepening**: more capital per worker.
+**Human capital.** A worker with more skills, more education, more training produces more than one without. The rise of mass primary education in the late 19th century, mass secondary education in the early 20th, and mass tertiary education in the late 20th constitute one of the largest single drivers of long-run productivity growth in history.
 
-**Human capital.** A worker with more skills, more education, more training is more productive. The rise of mass primary education in the late 19th century, mass secondary education in the early 20th, and mass tertiary education in the late 20th, is one of the largest single drivers of long-run productivity growth.
+**Technology.** New ways of doing things — new processes, new methods, new knowledge applied to production — raise productivity even with unchanged physical and human capital. The steam engine. Electrification. The internal combustion engine. Antibiotics. Digital computation. These are not improvements in capital stock; they are improvements in what capital and labor *can do together*.
 
-**Technology.** New ways of doing things — new processes, new methods, new knowledge — raise productivity even with the same physical and human capital. The steam engine. Electrification. The internal combustion engine. Antibiotics. Digital computation. AI.
+The aggregate production function captures these:
 
-The aggregate production function captures these formally:
+$$Y = A \cdot F(K, L, H)$$
 
-> **Y = A · F(K, L, H)**
+Where $Y$ is output (GDP), $K$ is physical capital, $L$ is labor, $H$ is human capital, and $A$ is **total factor productivity (TFP)** — a measure of how productively all inputs are combined. $A$ captures everything that raises output without requiring more inputs: better technology, better organization, better institutions.
 
-Where Y is output (GDP), K is physical capital, L is labor, H is human capital, and A is **total factor productivity (TFP)** — a measure of how productively all the inputs are combined. A captures everything that raises output without requiring more inputs: better technology, better organization, better institutions.
-
-Empirically, growth accounting tries to decompose growth into contributions from each source. For the U.S. over the past century, roughly:
+Empirically, **growth accounting** decomposes observed growth into contributions from each source. For the U.S. over the past century, roughly:
 
 - About one-third of growth came from increases in physical capital per worker.
 - About one-fifth came from increases in human capital.
-- The remaining roughly half came from improvements in total factor productivity.
+- The remaining roughly half came from TFP growth.
 
-The TFP residual is the most contested part. We can't measure technology directly. Whatever growth isn't accounted for by capital and labor is attributed to TFP, which means it's also a measure of what we don't fully understand. The TFP literature is both productive and frustrating: we know it matters, we don't always know why.
+<!-- → [CHART: U.S. growth accounting decomposition — stacked bar or pie chart showing approximate contributions to U.S. GDP growth per worker over the 20th century. Segments: Physical capital deepening (~33%), Human capital growth (~20%), TFP / technology (~47%). Caption: "Growth accounting is an accounting identity, not a causal model — it tells us how much each input contributed, not why. The large TFP residual is the most important finding and the least understood: roughly half of growth came from sources we can't directly measure."] -->
 
-## Capital deepening — and its limits
+The TFP residual is the most contested piece. We can't measure technology directly — it's calculated as whatever growth isn't explained by the measured inputs, which makes it both the most important term and a measure of our ignorance. The TFP literature is simultaneously productive and humbling.
 
-Capital deepening — adding more capital per worker — is one of the easier sources of growth to engineer. Build factories, roads, ports, power plants. Stock up on machinery. Increase the capital-labor ratio.
+<!-- → [TABLE: Three sources of labor productivity growth — comparison table. Columns: Source / Mechanism / Subject to diminishing returns? / Policy levers / Real-world example. Rows: Physical capital deepening (more K per worker raises output per worker, yes — marginal return falls as K accumulates, infrastructure investment / depreciation allowances / interest rates, backhoe replacing shovels / factory automation); Human capital (more skilled workers produce more, diminishes but more slowly than physical capital, education investment / training programs / healthcare, mass secondary education in 20th century); Technology / TFP (new methods raise output from same inputs, not inherently — innovation frontier can keep expanding, R&D tax credits / patent protection / basic research funding, steam engine / electrification / digital computing). Caption: "The three channels work differently. Physical capital deepening has the clearest ceiling; technology in principle doesn't — but frontier innovation is harder than imitation. Human capital is in between."] -->
 
-But there's a structural limit. The first backhoe added to a construction site is enormously productive. The fifth backhoe is somewhat less so. The fiftieth, much less. **Diminishing returns** to capital sets in. Eventually, adding more capital per worker generates only small increases in output per worker.
+---
 
-This is the **Solow growth model** insight (Robert Solow, 1956 paper, eventual Nobel). An economy with low capital can grow rapidly by deepening — putting more capital in workers' hands. But as the capital-labor ratio rises, the marginal return falls. Long-run sustained growth at the per-worker level requires *technological progress*, not just more capital. Capital deepening fuels catch-up; technology fuels frontier growth.
+## Capital Deepening — and Its Ceiling
 
-This explains a lot. China's growth rate since 1980 has averaged about 9 percent — extraordinary by any historical standard, but consistent with the Solow framework: an economy starting from a low capital-labor ratio can grow very rapidly through capital deepening, with diminishing returns kicking in only after decades. China's growth rate has, in fact, fallen substantially — from sustained 10+ percent through the 2000s to 5–6 percent in the early 2020s — as the marginal returns to capital deepening have declined. The slowdown was predicted by the Solow framework decades in advance.
+Capital deepening is the easiest growth source to engineer. Build factories, roads, ports, power plants. Equip workers with more and better machinery. Increase the capital-labor ratio.
 
-The U.S., already at the technological frontier, grows at 2 percent or so even in good years because frontier growth depends on inventing new technologies — much harder than copying existing ones.
+But there's a structural limit. The first backhoe added to a construction site is enormously productive — it replaces ten workers with shovels. The fifth backhoe adds less. The fiftieth backhoe, much less. **Diminishing returns to capital** sets in. Eventually, adding more capital per worker generates only small additional output per worker.
 
-## Human capital and institutions
+This is the central insight of the **Solow growth model** (Robert Solow, 1956). An economy starting from a low capital-labor ratio can grow rapidly by deepening — putting more and better capital in workers' hands. But as the ratio rises, the marginal return falls. Long-run sustained growth at the per-worker level requires *technological progress*, not just more capital. Capital deepening fuels catch-up growth; technology fuels growth at the frontier.
 
-Physical capital is necessary but not sufficient. The Soviet Union accumulated vast quantities of physical capital from the 1920s through the 1970s. Its growth was real but slowed dramatically as the diminishing-returns ceiling hit, and the ceiling came lower than it did in market economies because the institutional framework around the capital was inefficient.
+<!-- → [CHART: The Solow model — diminishing returns to capital. Two-panel figure. Left panel: production function curve showing output per worker (y-axis) vs. capital per worker (x-axis). Curve is concave — steep at low capital ratios, flattening as capital accumulates. Mark two points: developing economy (low K/L, steep marginal return) and advanced economy (high K/L, flat marginal return). Right panel: growth rate vs. capital per worker — downward-sloping line showing growth rate falling as capital deepens. Caption: "The Solow model predicts high growth rates when capital per worker is low (the marginal return is high) and declining growth rates as capital accumulates. Sustained long-run growth at the frontier requires technological progress — shifts in A — not just more K."] -->
 
-This is where **human capital** and **institutions** enter the picture.
+This explains an enormous amount. China's annual growth from 1980 to the mid-2010s averaged about 9 percent — extraordinary by any historical measure. But it's exactly what the Solow framework predicts for an economy starting from a very low capital-labor ratio: the marginal return to capital investment is enormous, investment pours in, and growth accelerates. China's growth has since slowed substantially — from 10+ percent through the 2000s to 5–6 percent in the early 2020s — as the marginal returns to capital deepening have declined and the easy catch-up has been captured. The slowdown was implicit in the model decades before it happened.
 
-Human capital — the skills, knowledge, and capabilities of a workforce — depends on education, training, and health. Countries with high human capital can absorb new technologies faster, organize production more flexibly, and adapt to changing conditions more quickly. The expansion of mass education has been one of the most powerful drivers of growth in many countries.
+The United States, at the technological frontier, grows at 2 percent even in good years. Frontier growth depends on inventing new technologies, not copying existing ones, and invention is slower than imitation.
 
-Institutions — property rights, the rule of law, contract enforcement, market openness, political stability, anti-corruption norms, financial market depth — set the conditions under which physical and human capital can produce growth. Comparative growth studies (Acemoglu, Robinson, North) have documented strong correlations between institutional quality and long-run growth. Countries with secure property rights, low corruption, and reliable courts grow faster than countries without them, even when initial endowments are similar.
+---
 
-The institutional framework is also what often distinguishes successful catch-up cases from failed ones. South Korea and the Philippines had similar GDP per capita in the 1960s. By 2024, South Korea had GDP per capita ten times the Philippines'. The difference is not in geography or culture; it's substantially in institutional and policy choices over six decades.
+## Human Capital and Institutions
 
-## Convergence — and where it doesn't happen
+Physical capital deepening is necessary but not sufficient. The Soviet Union accumulated vast quantities of physical capital from the 1920s through the 1970s — enormous factories, extensive infrastructure, a near-universal educated workforce. Its early growth was real. But it slowed dramatically as diminishing returns hit the capital stock, and the ceiling came lower than it did in market economies because the institutional framework surrounding the capital was inefficient. Capital without good institutions produces less than capital embedded in well-functioning systems of property rights, contract enforcement, and incentives.
 
-A natural prediction from the Solow framework is **convergence**: poor countries should grow faster than rich ones because they have lower capital-labor ratios, so the marginal return to capital is higher, so investment flows in and growth accelerates.
+This is where **human capital** and **institutions** become decisive.
 
-The empirical record:
+Human capital — the skills, knowledge, and capabilities of a workforce — determines how quickly workers can absorb new technologies, how flexibly production can be reorganized, and how much workers contribute beyond the raw hours they put in. Countries with high human capital grow faster at the frontier because they produce more of their own technological progress. Countries with lower human capital grow faster in the catch-up phase because educated workers can adopt foreign technologies efficiently.
 
-**Conditional convergence.** Among countries with similar institutions, education levels, and openness to trade, convergence does occur. Western European countries that fell behind during World War II caught up to the U.S. by the 1980s. South Korea and Taiwan converged toward Japan. Eastern European countries since 1990 have grown faster than Western European ones.
+Institutions — property rights, the rule of law, contract enforcement, market openness, political stability, anti-corruption norms, and financial-market depth — set the conditions under which physical and human capital can produce growth. Cross-country growth research (Acemoglu, Robinson, North, and others) has documented strong correlations between institutional quality and long-run growth, controlling for geography, initial endowments, and culture. Countries with secure property rights, low corruption, and reliable courts grow faster than countries without them, even when starting conditions are similar.
 
-**Unconditional convergence — sometimes.** Globally, convergence has been mixed. Some poor countries have caught up substantially (East Asia, parts of Eastern Europe). Some have stagnated (parts of Sub-Saharan Africa, Latin America in some periods). Some have grown but slowly (much of South Asia for several decades).
+The deepest illustration of institutional effects is a pair of natural experiments. North Korea and South Korea split from a single country in 1945. Both had similar initial conditions. By 2024, South Korean GDP per capita was roughly 50 times North Korea's. The Korean peninsula, geography unchanged, institutions radically different. South Korea and the Philippines had similar GDP per capita in the 1960s. South Korea had GDP per capita ten times the Philippines' by 2024. Not geography. Not culture. Substantially: institutional and policy choices over six decades.
 
-The countries that don't converge typically have institutional problems that block the channel through which catch-up should work. Capital flows in only where it can be safely deployed and contracts can be enforced. Human capital develops only where investments in education and health are sustained. Without these, the Solow prediction of convergence fails because the marginal return to capital is *not* actually higher — institutional risk and inefficiency offset the diminishing-returns advantage.
+---
 
-## The puzzle of slow productivity growth
+## Convergence — and Where It Fails
 
-A specific puzzle worth flagging. Since roughly 2005, productivity growth in the U.S. and most other advanced economies has slowed substantially. The pre-2005 trend (about 2.5 percent per year) has fallen to 1.5 percent or lower.
+A natural prediction from the Solow framework is **convergence**: poor countries should grow faster than rich ones. Their capital-labor ratios are lower, so the marginal return to capital is higher, so investment should flow in and growth should accelerate. Eventually, the capital-labor ratio approaches the rich-country level and growth rates equalize.
 
-This is happening despite enormous investments in technology — the rise of smartphones, cloud computing, machine learning, and now generative AI. The technologies are real; the productivity gains, in the aggregate measured statistics, have been smaller than expected.
+The empirical record is more nuanced.
 
-Several candidate explanations: measurement issues (much new digital value isn't captured by GDP), demographics (an aging workforce slows growth), specific industry composition (services are harder to automate than manufacturing), exhaustion of the easy gains from earlier technologies. Whether AI specifically will change this trajectory in the next decade is one of the most-watched questions in macroeconomics.
+**Conditional convergence** holds. Among countries with comparable institutions, education levels, and openness — Western Europe after World War II, East Asian economies from the 1960s, Eastern European countries since 1990 — convergence occurs reliably. Countries that fall behind catch up.
 
-## Synthesis
+**Unconditional convergence** does not hold globally. Many poor countries have grown slowly or stagnated despite their low capital ratios. Sub-Saharan Africa through much of the 1980s and 1990s, parts of Latin America in various periods — the predicted catch-up didn't materialize.
 
-Pull back. Modern economic growth is a recent phenomenon — about two centuries old, born in Western Europe, spreading unevenly to most of the world. It rests on rising labor productivity, which rises through capital deepening, human capital growth, and technological progress. The Solow framework predicts that capital deepening is subject to diminishing returns and that long-run growth requires technological progress; the empirical record strongly supports this for advanced economies.
+<!-- → [CHART: Conditional vs. unconditional convergence — scatter plots. Left panel: OECD countries only — GDP per capita in 1960 (x-axis) vs. average annual growth 1960–2020 (y-axis). Downward-sloping relationship: poorer countries grew faster. Right panel: all countries — same axes. Scatter is much more dispersed; no clear downward slope. Caption: "Convergence is strong among similar countries (OECD panel). Globally, convergence is weak or absent. The difference is in the conditioning variables — institutional quality, education, and policy — that make the Solow mechanism work in some countries and fail in others."] -->
 
-Convergence is conditional. Countries with comparable institutional foundations do catch up to the leaders; countries without them don't, no matter how much capital they accumulate. Institutions, in this sense, are the deepest determinant of which countries get to participate in the global growth process and which don't.
+The countries that don't converge typically have institutional problems that block the catch-up channel. Capital flows to where it can be safely deployed and contracts enforced. Human capital develops where education and health investments are sustained. Technological adoption requires a workforce capable of using new methods and an institutional environment that rewards productivity over rent-seeking. Without these, the higher marginal return to capital is offset by institutional risk and inefficiency.
 
-The DeLong calorie statistic at the chapter opening tells the larger story. Most humans, for most of history, were food-constrained. The modern world, in much of the high-income world, is the result of two centuries of compound productivity growth that broke the constraint. The question of whether and how the rest of the world catches up — and whether the high-income world keeps growing in the face of slowing productivity — is the next several decades' worth of economic policy.
+In this sense, institutions are the conditioning variable that makes the Solow prediction either work or fail. They are not a minor addition to the growth story; they are arguably its deepest layer.
 
-The next chapter turns to a different feature of the macroeconomic landscape: unemployment. Even when an economy is growing, some people aren't working, and the structure of who isn't working and why is the next layer of the macro picture.
+---
+
+## The Puzzle of Slow Productivity Growth
+
+A current puzzle worth flagging — not because we have the answer, but because it shapes the next several decades.
+
+Since roughly 2005, productivity growth in the U.S. and most other advanced economies has slowed substantially. The pre-2005 trend was about 2.5 percent per year; since then, it has fallen to 1.5 percent or below.
+
+This is happening despite enormous visible investment in technology — the rise of smartphones, cloud computing, machine learning, and generative AI. The technologies are real. The productivity gains in the aggregate statistics have been smaller than expected.
+
+The candidate explanations:
+
+**Measurement failures.** Much new digital value — Wikipedia replacing encyclopedias, free maps replacing paid navigation, social contact replacing some purchased services — isn't well captured by GDP. The productivity gains are happening; the statistics miss them.
+
+**Adoption frictions.** New technologies take decades to fully diffuse. Electrification began in the 1880s but its productivity impact showed up most strongly in the 1920s and 1930s. AI's productivity impact may lag its deployment similarly.
+
+**Diminishing returns at the frontier.** The easy technological gains — automation of physical labor, digitization of routine information tasks — may have been captured, leaving harder problems. R&D spending per unit of output has risen substantially in recent decades, suggesting it now takes more effort to produce each unit of productivity advance.
+
+Whether AI changes this trajectory in the next decade is one of the most contested questions in macroeconomics. The honest answer is that we don't know — and the historical record of predicting technology's macroeconomic impact is poor.
+
+<!-- → [CHART: U.S. labor productivity growth slowdown — line chart with year on x-axis (1950–2024) and annualized labor productivity growth (5-year moving average) on y-axis. Clear trend break around 2005: pre-2005 trend at ~2.5%/year, post-2005 falling to ~1.5% or below. Annotate major technology introductions (personal computer, internet, smartphone, AI) with vertical dotted lines. Caption: "Productivity growth slowed precisely when the most visible wave of new digital technologies arrived. The paradox — better technology, slower measured productivity growth — is one of the most puzzling features of the modern U.S. economy. The gap between the productivity of specific AI tools (high) and aggregate measured productivity (low) is not yet resolved."] -->
+
+---
+
+## Back to the 35,000 Calories
+
+The calorie calculation from the chapter's opening tells a simple story with a long tail.
+
+For ten thousand years, the human condition was food-constrained. Most humans spent most of their lives producing just enough calories to keep themselves and their families alive, with little surplus for anything else. Art, science, leisure, accumulated wealth — these were for the tiny fraction who didn't have to produce their own food.
+
+The Industrial Revolution broke that constraint, first in Britain, then across Western Europe and North America, then unevenly across the rest of the world. It broke it through the mechanisms this chapter described: capital that multiplied each worker's output, education that raised human capital, technologies that raised TFP, and institutions that made all three worth investing in.
+
+The factor of fourteen in Western Europe. The factor of fifty between South and North Korea. These are not small numbers. They are the difference between a world where most children die before age five and a world where most children survive to old age. The economics of growth is, at bottom, the economics of that difference.
+
+What caused growth to start when and where it did is still debated. Why it spread to some places and not others is substantially understood. What will sustain it going forward — especially as the easy capital-deepening gains have been exhausted and frontier growth depends on innovation — is an open question. The chapter that follows turns to what happens even within growing economies when some people can't find work.
+
+---
 
 ## LLM Exercises
 
@@ -131,15 +158,6 @@ The next chapter turns to a different feature of the macroeconomic landscape: un
 
 **Exercise 5 — Stress test the Solow model.** Ask an LLM to identify three real-world growth phenomena that the Solow model handles well and three that it handles poorly. The exercise teaches that the Solow framework is a useful baseline with known limitations, not a complete theory.
 
-## What comes next
-
-Chapter 21 — Unemployment looks at one of the major macroeconomic indicators we touched on in Chapter 19: who's not working and why. Chapter 22 — Inflation does the same for the rate of price change. Chapters 23 and 24 begin assembling the macro models — the AD-AS framework — that try to explain how growth, unemployment, and inflation interact.
-
-**What would change my mind.** The case that institutions are the deep determinant of long-run growth rests on cross-country comparative evidence that is correlational. If a major country with weak institutions sustained extraordinary growth for a long period (which has not yet happened), or if a major country with strong institutions stagnated for an extended period despite no obvious institutional decline (the U.S. post-2005 productivity slowdown is concerning if not yet definitive), the framework would weaken.
-
-**Still puzzling.** I do not have a clean explanation for the post-2005 productivity slowdown in the U.S. The productivity is happening (we see it in technology); it's not showing up in the aggregate measured statistics; and the longer this disconnect persists, the more uncomfortable the question becomes for the standard growth-accounting framework. Either the measurement is broken, the productivity is not as large as it appears in narrow domains, or the gains are accruing to a small slice of the economy in ways the aggregate statistics don't reflect.
-
-*Byline: Nik Bear Brown.*
 ---
 
 ## LLM Exercise — Chapter 20: Economic Growth (Policy Brief Project)
@@ -209,16 +227,19 @@ name where the policy genuinely depends on long-run claims.
 
 **Preview of next chapter:** Chapter 21 covers unemployment — natural rate, sticky wages, the kinds of unemployment, the historical pattern. If your policy affects the labor market in any direct way (most policies do), this chapter sharpens the analysis.
 
-
 ---
 
-##  AI Wayback Machine
-**Robert Solow** was developed the neoclassical growth model in 1956 — Nobel 1987.
+## AI Wayback Machine
+
+**Robert Solow** developed the neoclassical growth model in 1956 — Nobel 1987.
 
 **Run this:**
 
 ```
-Who is Robert Solow, and how does their work connect to economic growth we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about their career or ideas.
+Who is Robert Solow, and how does their work connect to economic
+growth we covered in this chapter? Keep it to three paragraphs.
+End with the single most surprising thing about their career or
+ideas.
 ```
 
 → Search **"Robert Solow"** on Wikipedia.
@@ -229,3 +250,7 @@ Who is Robert Solow, and how does their work connect to economic growth we cover
 - Add a constraint: "Answer including criticisms or limits of Robert Solow's framework."
 
 What changes? What gets better? What gets worse?
+
+---
+
+*Byline: Nik Bear Brown.*
