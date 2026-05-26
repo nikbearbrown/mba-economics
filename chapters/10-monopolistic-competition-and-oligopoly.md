@@ -1,117 +1,136 @@
 # Chapter 10 — Monopolistic Competition and Oligopoly
 
-
-## TL;DR
-
-- The territory between perfect competition and pure monopoly — and the strategic games that fill it.
-- The chapter moves through Monopolistic competition — many firms, differentiated products, The role of advertising, Oligopoly — few firms, strategic interaction, The prisoner's dilemma, and related ideas.
-- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
-
 *The territory between perfect competition and pure monopoly — and the strategic games that fill it.*
 
 Between 1997 and 2004, executives from four companies — Procter & Gamble, Henkel, Unilever, and Colgate-Palmolive — met in small Paris cafés. Together their firms controlled about 90 percent of the French laundry detergent market. The meetings had one purpose: agree on prices, divide the territory, stop competing.
 
-This kind of meeting is called a **cartel**, and it's illegal in most countries because it produces monopoly outcomes — high prices, restricted output — without the structural justification (a single dominant firm) that we examined in Chapter 9. The French regulators eventually caught the detergent companies and fined them €361 million in 2011. The conspirators, when caught, could not really argue innocence. The volumes of cafés visited and notes exchanged made the conspiracy clear.
+This kind of arrangement is called a **cartel**, and it's illegal in most countries because it produces monopoly outcomes — high prices, restricted output — without the structural justification of a single dominant firm. French regulators eventually caught the detergent companies and fined them €361 million in 2011. The conspirators couldn't really argue innocence; the volumes of café meetings and written notes made the conspiracy clear.
 
-Why did they do it? Because in markets with a small number of large firms — what economists call **oligopolies** — competing aggressively means earning very little, and *not* competing aggressively means earning a lot. Each firm's payoff depends on what the other firms do. The temptation to coordinate, secretly or openly, is enormous. The temptation to defect from the coordination is also enormous. The whole structure becomes a game.
+Why did they do it? Because in markets with a small number of large firms, competing aggressively means earning very little, and *not* competing aggressively means earning a lot. Each firm's payoff depends on what the others do. The temptation to coordinate is enormous. The temptation to defect from that coordination is also enormous. The whole structure becomes a game.
 
-This chapter is about that territory between Chapters 8 and 9. Most real markets do not look like the wheat farmer's perfect competition or the East India Company's pure monopoly. They look more like restaurants, smartphones, breakfast cereal, gas stations, beer brands — markets with either many firms producing slightly different products (**monopolistic competition**) or a few firms locked in strategic interaction (**oligopoly**). Both are common. Both behave in ways the simple Chapter 8 and Chapter 9 models don't fully predict.
+This chapter is about the territory between Chapters 8 and 9. Most real markets don't look like the wheat farmer's perfect competition or a monopoly with no rivals. They look more like restaurants, smartphones, breakfast cereal, gas stations, beer brands — markets with either many firms producing slightly different products, or a few firms locked in strategic calculation. Both structures are common. Both behave in ways the simple models from previous chapters don't fully predict.
 
-By the end of this chapter you should be able to identify which structure a real market sits in, explain why monopolistic competitors don't reach the perfect-competition outcome even with free entry, and read the prisoner's-dilemma logic that makes oligopoly cooperation simultaneously tempting and unstable.
+---
 
-**Learning objectives.** By the end you should be able to: (1) define monopolistic competition and identify three real-world examples; (2) explain why monopolistic competitors face a downward-sloping demand curve, and what that does to their long-run equilibrium; (3) evaluate the role of advertising in monopolistic competition; (4) define oligopoly and explain why oligopolists are mutually interdependent; (5) interpret the prisoner's dilemma as it applies to oligopoly behavior, and explain why collusive equilibria are unstable.
+## Many Firms, Differentiated Products
 
-**Prerequisites.** Chapter 7 (cost curves). Chapter 8 (perfect competition, P = MC). Chapter 9 (monopoly, MR = MC, deadweight loss).
+Walk into any reasonably sized American city and count the restaurants. There are over 600,000 in the United States. Each one is slightly different from the others — different cuisine, different ambiance, different location, different chef, different price point. None of them have significant pricing power over the others. If a Korean BBQ place raises its prices substantially, customers will eventually drift away. But raising prices a small amount won't empty the dining room overnight, because the substitutes aren't perfect — your usual place has its specific wings, its specific side dishes, its specific Tuesday-night atmosphere.
 
-## Monopolistic competition — many firms, differentiated products
+This is **monopolistic competition**: many firms, differentiated products, free entry and exit. The firm has some pricing power — a tiny mini-monopoly on its particular variety. But because there are many close substitutes, its demand curve is much flatter than a true monopolist's. Raise the price a little, lose some customers. Raise it a lot, lose nearly all of them.
 
-Walk into any reasonably-sized American city and count the restaurants. There are over 600,000 in the United States. Each one is, in a meaningful sense, slightly different from the others — different cuisine, different ambiance, different location, different chef, different price point. None of them have any meaningful pricing power over the others. If a Korean BBQ place near you raises its prices substantially, customers will eventually drift to other places. But raising prices a small amount won't empty the dining room overnight, because the *substitutes* aren't perfect — your usual place has its specific chicken wings, its specific side dishes, its specific Tuesday-night atmosphere.
+The profit-maximization rule is the same as in Chapter 9: produce where MR = MC, then charge the price the demand curve supports at that quantity. In the short run, this can produce positive economic profit (attractive product, good location) or losses (bad location, weak menu).
 
-This is **monopolistic competition**: many firms producing slightly differentiated products. Three features:
+<!-- → [CHART: Monopolistic competition short-run outcomes — two side-by-side firm diagrams, both with downward-sloping demand, MR curve, MC curve, and ATC curve. Left: price above ATC at MR = MC quantity — profit rectangle shaded. Right: price below ATC at MR = MC quantity — loss rectangle shaded. Caption: "Short-run profit or loss depends on whether demand is strong enough to push price above ATC. Either way, MR = MC gives the right quantity. The short-run loss doesn't mean exit yet — it means no new entrants and some potential for existing firms to leave."] -->
 
-- **Many firms.** No single firm has significant market share.
-- **Differentiated products.** Each firm has its own brand, location, style, or quality positioning. Substitutes exist but aren't perfect.
-- **Free entry and exit.** New firms can open easily; failing firms can close.
+Then free entry does its work. Positive economic profits attract new entrants offering similar-but-different products. Each new entrant takes some customers from the existing firms — existing firms' demand curves shift left and become flatter. Entry continues until economic profit is competed down to zero. The same long-run attractor as perfect competition.
 
-The firm in this market faces a *downward-sloping* demand curve, not a horizontal one. It has some pricing power — a tiny mini-monopoly on its particular variety. But because there are many close substitutes, that demand curve is much *flatter* than a true monopolist's demand curve. Raise the price a little, lose some customers. Raise it a lot, lose almost all of them.
+But here's the critical difference. Under perfect competition, the long-run equilibrium has each firm producing at the bottom of its long-run average cost curve — full productive efficiency. Under monopolistic competition, the long-run equilibrium has each firm producing *to the left of* the bottom of its cost curve. The downward-sloping demand line is tangent to the average cost curve at a point where average cost is still falling.
 
-The profit-maximization rule is the same as the monopoly's: produce where MR = MC, then charge the price the demand curve supports at that quantity. In the short run, this can produce positive economic profit (if the firm has an unusually attractive product) or losses (if the firm picked a bad location or has a weak menu).
+<!-- → [CHART: Monopolistic competition long-run equilibrium — firm-level diagram with downward-sloping demand curve, MR curve, and U-shaped LRAC curve. Demand curve tangent to LRAC at a point to the LEFT of the minimum. MR = MC at a lower quantity. Mark: quantity produced Q_mc less than the efficient quantity Q*. Caption: "At long-run zero-profit equilibrium, the monopolistic competitor produces to the left of minimum LRAC. Excess capacity is the geometric signature of differentiation — there are more firms, each running below efficient scale."] -->
 
-Now the long-run dynamic kicks in. Free entry. Positive economic profits attract new entrants offering similar-but-different products. Each new entrant takes some customers from the existing firms — the existing firms' demand curves shift left and become flatter. This continues until economic profit is competed down to zero — the same long-run zero-economic-profit attractor we saw in perfect competition.
+The consequence: monopolistic competitors operate at less than fully efficient scale. There are too many firms, each producing too little, each with average cost higher than the minimum possible. The market trades efficiency for variety. The world has lots of restaurants instead of one big efficient food factory.
 
-But there's a critical difference. Under perfect competition, the long-run equilibrium has each firm producing at the bottom of its long-run average cost curve — full productive efficiency. Under monopolistic competition, the long-run equilibrium has each firm producing *to the left of* the bottom of its average cost curve. The firm's downward-sloping demand line is tangent to the average cost curve at a point where average cost is still falling.
+Whether that trade-off is worth it is a values question the model cannot answer. Variety has real value; efficiency has real value. The model tells you what each costs. It doesn't tell you which to prefer.
 
-The consequence: monopolistic competitors operate at less than fully efficient scale. Each firm has *excess capacity* it never uses. There are too many firms, each producing too little, each with average cost higher than necessary. The market trades efficiency for variety — the world has lots of restaurants instead of one big efficient food factory.
+---
 
-Whether that trade-off is good is a values question. We get pizza from a half-dozen different establishments within walking distance instead of one ultra-efficient pizza factory. The diversity has value. The efficiency has value. The model doesn't tell you which to prefer; it tells you what each costs.
+## Advertising as Differentiation Engine
 
-### The role of advertising
+Monopolistic competition is the natural home of advertising, because advertising is what *creates* and *maintains* the differentiation that makes the mini-monopoly possible.
 
-Monopolistic competition is the natural home of advertising, because advertising is what *creates* and *maintains* the differentiation. The shampoo aisle is the clearest case. Most shampoos are chemically very similar. The differentiation lives almost entirely in branding, packaging, advertising, and the perceptions those create.
+The shampoo aisle is the clearest case. Most shampoos are chemically very similar. The differentiation lives almost entirely in branding, packaging, advertising, and the perceptions those create. From the firm's perspective, advertising shifts the demand curve right and makes it less elastic — both effects raise profit. From the consumer's perspective, advertising sometimes provides information, often creates wants, and always adds to the product's cost (the advertising budget is rolled into the price).
 
-From the firm's perspective, advertising is a way to shift the demand curve right and make it less elastic — both effects raise economic profit. From the consumer's perspective, advertising provides information (sometimes), creates wants (often), and adds to the cost of the product (always — the advertising budget is rolled into the price). From society's perspective, the role of advertising is contested. Some economists see it as an information-providing service that reduces consumer search costs. Others see it as a wasteful arms race between firms competing for the same pool of buyers. Both views capture something real.
+From society's perspective, the question is contested. Some economists see advertising as a genuine information service that reduces consumer search costs — I know Tide works on grass stains because I've seen the demonstration. Others see it as a wasteful arms race between firms competing for the same pool of buyers — if Coke and Pepsi both advertise at each other indefinitely, neither gains market share but both bear the cost, which consumers ultimately pay. Both views capture something real.
 
-There is one empirical regularity worth noting. Advertising-intensive industries (consumer packaged goods, beer, cigarettes, perfume) consistently show higher prices and slightly higher profit margins than non-advertised equivalents. Generic shampoo is much cheaper than branded shampoo with similar chemistry. The branded shampoo's advertising is doing real work for its maker; whether it's doing real work for the buyer is a separate question.
+One empirical regularity is hard to ignore. Advertising-intensive industries — consumer packaged goods, beer, cigarettes, perfume — consistently show higher prices and slightly higher profit margins than non-advertised equivalents. Generic shampoo with similar chemistry is much cheaper than the branded version. The branded shampoo's advertising is doing real work for its maker. Whether it's doing real work for the buyer is a separate question that varies by product and by buyer.
 
-## Oligopoly — few firms, strategic interaction
+<!-- → [TABLE: Advertising — two views. Two-column table. Column 1: Information View (advertising as useful). Column 2: Arms-Race View (advertising as wasteful). Rows: What advertising does / Who benefits / The evidence for this view / Real-world example / Policy implication. Caption: "Both views are right about some products. The distinction matters for policy: if advertising is mostly informative, restricting it harms consumers; if it's mostly a zero-sum arms race, restricting it might reduce prices without reducing welfare."] -->
 
-Now the smaller-numbers case. Oligopoly is a market dominated by a small number of large firms — typically two to roughly ten. Examples are everywhere: U.S. commercial airlines (about four major carriers), U.S. wireless carriers (three major), automobile manufacturers (a half-dozen globally significant), smartphone OS market (Apple iOS, Google Android, plus marginal others), credit card networks (Visa and Mastercard plus a few smaller).
+---
 
-What makes oligopoly distinct is **strategic interaction**. Each firm's decisions visibly affect the others, and each firm's optimal decision depends on what the others are doing. A wheat farmer doesn't think about how her individual planting decisions affect the price; her impact is too small. The CEO of Delta Airlines absolutely thinks about how Delta's pricing on the JFK-LAX route affects American Airlines' response, because American can react and probably will.
+## Few Firms, Strategic Interaction
 
-The basic strategic problem of oligopoly is: aggressive competition leaves everyone worse off (low prices, low profits, sometimes losses); cooperation makes everyone better off (high prices, high profits); but each firm has a temptation to *cheat* on the cooperation by undercutting the others to grab market share.
+Now the smaller-numbers case.
 
-This is the **prisoner's dilemma**, and it's the most useful piece of game theory in introductory economics.
+An **oligopoly** is a market dominated by a small number of large firms — typically two to roughly ten. The examples are everywhere: U.S. commercial airlines (about four major carriers), wireless carriers (three), automobile manufacturers (a half-dozen globally significant), smartphone operating systems (Apple iOS and Google Android with marginal others), credit card networks (Visa and Mastercard plus smaller players).
 
-### The prisoner's dilemma
+What makes oligopoly distinct from everything we've analyzed before is **mutual interdependence**. Each firm's optimal decision depends on what the other firms do — and each firm knows it. A wheat farmer doesn't think about how her individual planting decisions affect anyone else; her impact is too small. The CEO of Delta absolutely thinks about how Delta's pricing on the JFK-LAX route affects American Airlines' response, because American can react and probably will.
+
+This is a fundamentally different analytical situation. In the models of Chapters 8 and 9, a firm could calculate its optimal action without modeling the behavior of rivals. In oligopoly, that's not possible. The firm's best action depends on a prediction of what others will do, which depends on their prediction of what you'll do, which depends on your prediction of their prediction, and so on. The mathematics of this situation is game theory, and we only need one piece of it: the prisoner's dilemma.
+
+---
+
+## The Prisoner's Dilemma
 
 The classic setup: two suspects are arrested for a crime. Police question them separately. Each is offered a deal — confess and turn in your accomplice, get a lighter sentence. The payoff structure:
 
-- If both stay silent (cooperate with each other), each gets 1 year in prison.
-- If both confess (defect), each gets 5 years.
-- If one confesses and the other stays silent, the confessor goes free and the silent one gets 10 years.
+- If both stay silent: each gets 1 year in prison.
+- If both confess: each gets 5 years.
+- If one confesses and the other stays silent: the confessor goes free, the silent one gets 10 years.
 
-Each prisoner reasons individually: "If my partner stays silent, I should confess (free vs. 1 year). If my partner confesses, I should also confess (5 years vs. 10 years). Either way, confess."
+Each prisoner reasons independently: "If my partner stays silent, I should confess — I go free instead of doing a year. If my partner confesses, I should still confess — I do five years instead of ten. Either way, I should confess."
 
-Both confess. Both get 5 years. Even though they would both have been better off if both had stayed silent, the individual incentive to defect is too strong.
+Both confess. Both get five years. Even though both would have been better off if both had stayed silent.
 
-Apply the same logic to oligopoly. Two firms, A and B, can each charge a high price (cooperation) or a low price (competition). Payoff matrix:
+The key structure here is the *dominant strategy*: confess is the right choice regardless of what the other player does. When both players have a dominant strategy that leads to a worse outcome than the cooperative alternative, you have a prisoner's dilemma.
 
-- Both high price: each earns $50 million.
-- Both low price: each earns $20 million.
-- A high, B low: A earns $10 million, B earns $80 million.
-- A low, B high: A earns $80 million, B earns $10 million.
+Now apply this to oligopoly. Two firms — call them A and B — can each choose a high price or a low price.
 
-Each firm reasons: "If the other charges high, I should charge low (80 vs. 50). If the other charges low, I should also charge low (20 vs. 10). Either way, charge low."
+<!-- → [TABLE: Prisoner's dilemma payoff matrix — oligopoly pricing. Two-by-two matrix. Rows: Firm A chooses High Price / Firm A chooses Low Price. Columns: Firm B chooses High Price / Firm B chooses Low Price. Cells: (High, High): A earns $50M, B earns $50M; (High, Low): A earns $10M, B earns $80M; (Low, High): A earns $80M, B earns $10M; (Low, Low): A earns $20M, B earns $20M. Caption: "The cooperative outcome ($50M each) requires both firms to charge high. But each firm's dominant strategy is to charge low — $80M beats $50M if the other cooperates; $20M beats $10M if the other defects. Individual rationality produces collective failure."] -->
 
-Both charge low. Both earn $20 million. Even though both would have made $50 million by cooperating.
+Each firm reasons: "If B charges high, I should charge low — $80 million beats $50 million. If B charges low, I should still charge low — $20 million beats $10 million. Either way, charge low." Both charge low. Both earn $20 million. The cooperative outcome — $50 million each — is visible and obviously better for both. But neither firm, acting individually, has an incentive to get there.
 
-This is why cartels are unstable in the absence of enforcement. The Paris detergent meetings happened *exactly* because the firms understood the game theory and tried to coordinate the cooperative outcome — and the meetings had to be secret, illegal, and risky precisely because individual incentives push toward defection. Without ongoing meetings to monitor each other, the firms would have undercut one another within months.
+This is why the Paris café meetings happened. The detergent executives understood the game theory perfectly. They knew uncoordinated competition would drive them to the ($20M, $20M) cell, and that coordination would get them to ($50M, $50M). They tried to impose the cooperative outcome through explicit agreement. The meetings had to be secret and illegal precisely because the individual incentive to defect was always present — any member who quietly undercut the others could grab the $80 million corner.
 
-In real oligopoly markets, firms try to sustain cooperation through several mechanisms: signaling (announce price intentions publicly), tit-for-tat (match the other's price changes), market segmentation (don't compete in each other's territories), or — when those fail — outright illegal collusion. Long-running stable cartels are rare. Short-lived ones are common. Even the legal-and-tolerated cooperation of *price leadership* (one firm sets a price, others quietly follow) is fragile when economic conditions shift.
+---
 
-### Why oligopoly is hard to model
+## Why Cooperation Is Unstable
 
-One reason oligopoly is the messiest of the four market structures is that the firm's optimal action depends on a *prediction* of what other firms will do. There's no clean profit-maximization rule like P = MC or MR = MC that applies regardless of context. Different game-theoretic assumptions produce different predictions. The Cournot model (firms choose quantities, take others' quantities as given) predicts one outcome. The Bertrand model (firms choose prices, take others' prices as given) predicts another. The Stackelberg model (one firm moves first) predicts a third. Real oligopolies sometimes look like one, sometimes another, depending on the industry and the moment.
+The prisoner's dilemma predicts cartels will collapse, and history largely confirms this.
 
-The honest reading: oligopoly is a category, not a single model. The empirical prediction is somewhere between competitive (low prices, low profits) and monopoly (high prices, high profits), with the location depending on how successfully the firms can coordinate. Tighter coordination → closer to monopoly outcomes. Aggressive competition → closer to perfect-competition outcomes. The model gives you the spectrum; the specific position has to be observed.
+Repetition helps sustain cooperation. When firms interact repeatedly rather than in a single game, the threat of future punishment makes defection less attractive. A tit-for-tat strategy — match whatever the other firm did last period — can support cooperation because defection today means punishment tomorrow. OPEC has maintained some coordination for decades partly because the members interact continuously and can observe each other's production levels.
 
-## Synthesis
+Transparency helps detect defection quickly, but it's double-edged from society's perspective. If prices are publicly observable, secret price-cutting is caught fast and punished — which supports cartel stability. But price transparency in an oligopoly is also suspicious: industries that post prices on shared industry websites may be facilitating coordination that antitrust authorities should scrutinize.
 
-Pull back. The four market structures sort like this:
+Concentration helps. Two firms find it easier to coordinate than ten — each member's share of the gain is larger, and defection is more visible.
 
-| Structure | Number of firms | Product | Pricing power | Long-run profit |
-| --- | --- | --- | --- | --- |
-| Perfect competition | Many | Identical | None | Zero |
-| Monopolistic competition | Many | Differentiated | Slight | Zero (with excess capacity) |
-| Oligopoly | Few | Identical or differentiated | Substantial | Variable; depends on coordination |
-| Monopoly | One | Unique | Full (limited by demand) | Positive (limited by elasticity) |
+None of these mechanisms eliminate instability. Demand shocks, new entrants, cost structure changes, leadership transitions — all can destabilize cooperation. OPEC has broken down multiple times. Airline pricing coordination has waxed and waned for decades. Long-running stable cartels are the exception; intermittent, fragile cooperation punctuated by price wars is the norm.
 
-Most real markets are not perfect competition or monopoly. They are monopolistic competition (most local services, most consumer brands) or oligopoly (most major manufacturing industries, most network industries, most platforms). Knowing which structure a market sits in tells you what to expect about prices, output, and the shape of competition.
+<!-- → [TABLE: Conditions that help or hurt cartel stability — two-column table. Column 1: Makes cartel MORE stable. Column 2: Makes cartel LESS stable. Rows: Few members / Many members; Similar cost structures / Asymmetric costs; Prices publicly observable / Secret or opaque pricing; Repeated interaction / One-shot or infrequent interaction; Slow-growing market / Rapidly growing market (entry tempting); High entry barriers / Easy entry by outsiders; No government enforcement / Active antitrust surveillance. Caption: "OPEC has many stabilizing features (few members, observable production quotas, repeated interaction) and several destabilizing ones (member cost asymmetries, temptation to sell above quota). The table predicts why OPEC is more stable than most cartels but still breaks down periodically."] -->
 
-Two recurring lessons. First, *competition takes work to maintain*. Free entry is the cleanest enforcement mechanism — it's what drives long-run profit to zero in monopolistic competition the same way it does in perfect competition. When entry is blocked (oligopoly with high barriers, monopoly), prices rise above competitive levels. Second, *strategic behavior matters more as the number of firms shrinks*. In a market with thousands of firms, no one's individual decision matters. In a market with three firms, each firm's optimal decision depends on a prediction of the other two. The economics of strategic interaction is its own large field; we've only touched it.
+---
 
-The Paris detergent meetings tell the whole story. Four firms, ninety percent of the market, all of them facing the prisoner's-dilemma logic. The cooperative equilibrium they were trying to maintain — high prices, profits split among them — was the monopoly outcome we analyzed in Chapter 9, achieved through coordination instead of through a single-firm structure. Catching them and fining them was the regulatory enforcement that the model says is necessary, in oligopoly markets, to prevent the cooperative-cartel outcome. The next chapter is about how that enforcement is supposed to work.
+## Why Oligopoly Is Hard to Model
+
+The prisoner's dilemma gives the intuition. The precise prediction is harder, because different assumptions about how firms form expectations of each other produce genuinely different models.
+
+The **Cournot model** assumes firms choose quantities and take each other's quantities as given. The equilibrium sits between perfect competition and monopoly: output is higher than monopoly, lower than competitive; prices are lower than monopoly, higher than competitive.
+
+The **Bertrand model** assumes firms choose prices and take each other's prices as given. If the product is homogeneous, firms undercut each other until price equals marginal cost — the same outcome as perfect competition. Even two firms can be "competitive" in the Bertrand sense.
+
+The **Stackelberg model** assumes one firm moves first (the *leader*) and the other responds optimally (the *follower*). The leader exploits its first-mover advantage to claim more market share.
+
+<!-- → [TABLE: Oligopoly models compared. Four-column table. Columns: Model / Key assumption / Predicted output relative to monopoly / Predicted price relative to perfect competition. Rows: Perfect competition (benchmark) / Cournot (firms choose quantities simultaneously) / Bertrand — homogeneous products (firms choose prices simultaneously) / Stackelberg (sequential quantity moves) / Monopoly (benchmark). Caption: "Same market structure, three different models, three different predictions. Which applies depends on whether firms compete on price or quantity, move simultaneously or sequentially. The choice is empirical, not theoretical — and sometimes multiple models describe the same industry at different points in time."] -->
+
+Real oligopolies sometimes look like one model, sometimes another. Airlines compete like Bertrand players on heavily contested routes; they behave more like Cournot players where one carrier dominates. The model gives a range — between competitive and monopoly outcomes — with the specific position depending on coordination success, entry barriers, and the nature of competition in that specific market.
+
+---
+
+## The Four Structures, Assembled
+
+Pull back and look at where this chapter sits in the full map.
+
+<!-- → [TABLE: Four market structures — rows: Perfect competition, Monopolistic competition, Oligopoly, Monopoly. Columns: Number of firms, Product type, Pricing power, Long-run economic profit, Efficiency outcome. Values: Perfect competition — many, identical, none, zero, productive + allocative efficiency; Monopolistic competition — many, differentiated, slight, zero (excess capacity), allocatively inefficient; Oligopoly — few, identical or differentiated, substantial, variable (depends on coordination), between competitive and monopoly; Monopoly — one, unique, full (limited by demand), positive, deadweight loss. Caption: "The four structures are a spectrum, not four isolated categories. Most real markets fall in the middle two rows. The extremes are textbook benchmarks."] -->
+
+Most real markets are not perfect competition or pure monopoly. They are monopolistic competition — most local services, most consumer brands, most retail — or oligopoly — most major manufacturing industries, most telecommunications, most platforms and networks. Knowing which structure a market sits in tells you what to expect about prices, output, and the shape of competition.
+
+<!-- → [TABLE: How to tell monopolistic competition from oligopoly — diagnostic checklist. Two-column table. Column 1: Looks like monopolistic competition. Column 2: Looks like oligopoly. Rows: Number of firms (many vs. few) / Market share of largest 4 firms (low vs. high) / Firm's awareness of rival decisions (indirect via market price vs. direct and named) / Strategic response to rival pricing (none — too small to matter vs. explicit — must model rival's reaction) / Advertising character (brand-building, variety-signaling vs. competitive arms race for share of fixed pie) / Real-world examples. Caption: "The distinction is not always sharp — a regional hospital market with 6 hospitals might be oligopoly; a city restaurant market with 600 restaurants is monopolistic competition. The test is whether any one firm's decisions visibly affect identifiable rivals."] -->
+
+Two lessons recur. First, competition takes work to maintain. Free entry is the cleanest enforcement mechanism — it drives long-run profit to zero in monopolistic competition the same way it does in perfect competition. When entry is blocked, prices rise above competitive levels and stay there. Second, strategic behavior matters more as the number of firms shrinks. In a market with thousands of farmers, no individual planting decision matters. In a market with three wireless carriers, every pricing decision is a move in a game the others are watching.
+
+The Paris café meetings tell the whole story in miniature. Four firms, 90 percent of the market, all of them facing the prisoner's dilemma. The cooperative equilibrium they tried to build was the monopoly outcome achieved through coordination rather than single-firm dominance. Catching them was the regulatory enforcement the model says is necessary: without it, oligopoly markets tend toward the profits-at-consumers'-expense outcome that antitrust law exists to prevent.
+
+---
 
 ## LLM Exercises
 
@@ -125,15 +144,6 @@ The Paris detergent meetings tell the whole story. Four firms, ninety percent of
 
 **Exercise 5 — Diagnose advertising.** Pick a heavily advertised product category (e.g., razors, beer, perfume, breakfast cereal, athletic shoes). Ask an LLM to argue both sides: that advertising in this category provides genuine information value to consumers, and that advertising in this category is mostly a wasteful arms race between firms. Evaluate which argument is stronger for that specific product and why.
 
-## What comes next
-
-Chapter 11 — Monopoly and Antitrust Policy looks at how governments respond to firms that grow too dominant or coordinate too closely. The Paris detergent fine is one example; the historical breakups of Standard Oil and AT&T are others; the ongoing debates about Big Tech antitrust are the modern frontier. Chapter 12 — Negative Externalities turns to a different kind of market failure: situations where markets work in their own narrow sense but produce outcomes society pays for in other ways (pollution, congestion, public health).
-
-**What would change my mind.** The case that monopolistic competition produces inefficient excess capacity is sometimes overstated. Variety has consumer value that the simple model doesn't measure. A world with one efficient pizza factory might be cheaper but worse — fewer choices, less responsiveness to local taste. The "excess capacity" is partly the cost of variety; whether it's "wasted" depends on whether the variety is worth more than the lost efficiency, which is an empirical question the model doesn't answer.
-
-**Still puzzling.** I do not have a clean way to predict when an oligopoly will tip toward stable cooperation versus aggressive competition. OPEC sustained coordination for years at a time (with breakdowns). Airline pricing coordination has waxed and waned over decades. The conditions that produce stable cartels — small number of firms, similar costs, observable prices, repeated interaction, market growth — are well-documented as *correlates*, but the predictive accuracy is weak.
-
-*Byline: Nik Bear Brown.*
 ---
 
 ## LLM Exercise — Chapter 10: Monopolistic Competition and Oligopoly (Policy Brief Project)
@@ -202,15 +212,17 @@ isn't obvious; the brief should name it.
 
 **Preview of next chapter:** Chapter 11 deepens the antitrust analysis — the legal toolkit, how concentration is measured, and the natural-monopoly regulation question. Critical if your policy IS antitrust; informative even if not.
 
-
 ---
 
-##  AI Wayback Machine
+## AI Wayback Machine
 
 **Run this:**
 
 ```
-Who is Edward Chamberlin, and how does their work connect to monopolistic competition we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about their career or ideas.
+Who is Edward Chamberlin, and how does their work connect to
+monopolistic competition we covered in this chapter? Keep it to
+three paragraphs. End with the single most surprising thing about
+their career or ideas.
 ```
 
 → Search **"Edward Chamberlin"** on Wikipedia.
@@ -221,3 +233,7 @@ Who is Edward Chamberlin, and how does their work connect to monopolistic compet
 - Add a constraint: "Answer including criticisms or limits of Edward Chamberlin's framework."
 
 What changes? What gets better? What gets worse?
+
+---
+
+*Byline: Nik Bear Brown.*
