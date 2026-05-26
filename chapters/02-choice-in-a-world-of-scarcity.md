@@ -1,109 +1,176 @@
 # Chapter 2 — Choice in a World of Scarcity
 
-
-## TL;DR
-
-- The shape of every decision — budget constraints, opportunity costs, and the curve that represents society itself.
-- The chapter moves through The shape of an individual choice, How people decide on the surface, Scale up: the surface of society's choice, Synthesis, and related ideas.
-- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
-
 *The shape of every decision — budget constraints, opportunity costs, and the curve that represents society itself.*
 
-In 2020, the Bureau of Labor Statistics released a number that should have ended the conversation about whether college is worth it.
+<!-- → [IMAGE: Opening visual — a single person standing at a crossroads with two visible paths, each labeled with a price tag. Conveys "every choice forecloses another." Simple, symbolic, works as chapter-opener splash.] -->
 
-Workers aged 25 and over with a master's degree earned a median of $1,545 per week. With a bachelor's, $1,305. With nothing past high school, $781. Run the math out across a working year and the difference is enormous: a bachelor's degree carries a 67 percent earnings premium over high school. A master's, nearly double.
+In 2020, the Bureau of Labor Statistics released a number that should have ended a debate. Workers aged 25 and over with a bachelor's degree earned a median of $1,305 per week. Workers with nothing past high school earned $781. That's a 67 percent earnings premium — an enormous gap, visible, documented, not controversial.
 
-So roughly everyone went to college, right?
+So roughly everyone went to college?
 
-No. In the same year, only 36 percent of adults aged 25 and over in the United States had a bachelor's degree. Only 13.5 percent had a master's. Most people, presented with hard numerical evidence of a substantial earnings gap, did not chase the gap.
+No. In the same year, only 36 percent of adults in the United States had a bachelor's degree.
 
-Why?
+I want to sit with that for a moment, because it's genuinely strange if you look at it the wrong way. Sixty-four percent of American adults looked at hard numerical evidence of a massive earnings gap and did not chase the gap. If you think about economics as the study of how people respond to incentives, this seems like a failure of the whole enterprise. But it isn't. The people who didn't go to college were responding to incentives just fine — they were responding to *all* of them, not just the one we printed in a table.
 
-The wrong answer is that they're irrational. The right answer requires a tool. They are facing constraints — money, time, family obligations, geography, fear, the four years of forgone wages, the prospect of debt — and they are making choices on the surface of those constraints. To understand the choice, you have to see the surface. That surface has a shape. Drawing that shape, and learning to read it, is what this chapter is about.
+They face a constraint. And to understand why they made the choice they made, you have to see the shape of that constraint.
 
-We're going to do three things. First, draw the shape of an individual's choice — the *budget constraint* — and use it to give *opportunity cost* a precise meaning. Second, look at how people actually decide on that surface — the move-by-move logic of *marginal analysis*, the pattern called *diminishing marginal utility*, and the rule about ignoring *sunk costs*. Third, scale up to society — the *production possibilities frontier* — and see why the same diagram with different labels carries us from a single shopper to a whole country.
+That is what this chapter is about. Not formulas. Not vocabulary words to memorize. The *shape* of a constrained choice — what it looks like, what its slope tells you, and why the same shape applies whether you're a student with $10, a country with 300 million workers, or a founder deciding whether to stay in her job.
 
-**Learning objectives.** By the end you should be able to: (1) draw a budget constraint from a budget and two prices, and explain what its slope represents; (2) define opportunity cost and distinguish it from accounting cost; (3) explain why most decisions are *marginal* rather than all-or-nothing, and what diminishing marginal utility predicts; (4) recognize a sunk cost and explain why it should not affect a current decision; (5) draw a production possibilities frontier, explain why it bows outward, and distinguish productive from allocative efficiency; (6) define comparative advantage in terms of opportunity cost.
+---
 
-**Prerequisites.** Chapter 1 (scarcity, specialization, models). Comfort with simple arithmetic and the equation of a line.
+## The Shape of a Choice
 
-## The shape of an individual choice
+Let me introduce you to Alphonso.
 
-Meet Alphonso. He has $10 a week to spend. Burgers cost $2. Bus tickets cost $0.50. He needs the bus to get to work. He likes burgers.
+Alphonso has $10 a week to spend on two things: burgers at $2 each and bus tickets at $0.50 each. He needs the bus to get to work. He likes burgers.
 
-If Alphonso spent everything on burgers, he could buy five — and he'd walk to work. If he spent everything on bus tickets, he could buy twenty — and he'd skip lunch. Connect the two extremes and you get a downward-sloping line that maps every combination of burgers and bus tickets he can afford. That line is the **budget constraint**. Inside it: feasible. On it: feasible and using every dollar. Outside it: not feasible, full stop.
+If Alphonso spent every dollar on burgers, he'd get five burgers and walk to work. If he spent every dollar on bus tickets, he'd get twenty bus tickets and skip lunch. Between those two extremes, there's a whole range of combinations he can afford. Connect those extremes with a line, and you have what economists call the **budget constraint** — the boundary between what's possible and what isn't.
 
-The slope of the line is doing real work. It represents the rate at which Alphonso has to give up burgers to get more bus tickets, given the prices. Burgers are $2, bus tickets are $0.50, so each burger costs four bus tickets. The slope is "minus four bus tickets per burger," and that minus sign is the trade-off made visible.
+<!-- → [CHART: Alphonso's budget constraint — horizontal axis: bus tickets (0–20), vertical axis: burgers (0–5). Straight downward-sloping line connecting (0,5) and (20,0). Shade the feasible region below the line. Label slope as −1/4 burger per bus ticket.] -->
 
-Now ask the question that turns Alphonso into an economist. *What is the cost of one more burger?*
+Inside the line: feasible, but wasteful — he could be doing more. On the line: feasible and using every dollar. Outside the line: not possible with $10.
 
-The bookkeeper says $2. The economist says four bus tickets. Same act, different framing — but the second framing is what tells Alphonso whether he should buy the burger. The dollars are an accounting convention; the bus tickets are the things he doesn't get. The cost of any choice, in economics, is what you have to give up to make it. We met this in Chapter 1 under the name **opportunity cost**. Now we can see it on a graph.
+Now comes the question that turns a picture into a concept. *What does it actually cost Alphonso to buy one more burger?*
 
-Opportunity cost is the rule that turns dollars into trade-offs. It also reveals costs that look invisible. A startup founder works on her own company instead of taking the $180,000 engineering job she could have. The dollars she didn't spend are zero. The opportunity cost is $180,000 a year. A factory uses a building it owns. Rent paid: zero. Opportunity cost: whatever the building could have been rented for, plus whatever the capital tied up in it could have earned elsewhere. Accountants miss these. Economists don't.
+A bookkeeper says: $2. That's not wrong. But it misses something.
 
-A small extension and the framework gets sharper. Imagine you spend $8 on lunch every workday. You know perfectly well that bringing lunch from home costs $3. The opportunity cost is $5 a day. Five dollars feels small. But: 250 working days a year × $5 = $1,250 a year — the price of a decent vacation. The number doesn't change; the framing does. People don't change their lunch habit because $5 is below their threshold of attention. Reframe the cost as "a vacation you didn't take," and many of them suddenly notice.
+To buy a burger for $2, Alphonso has to give up four bus tickets. The $2 is what flows from his pocket to the register. The four bus tickets are what he doesn't get. And here's the thing: the four bus tickets are *more real* than the $2. The $2 is a convention — an agreed unit of exchange. The bus tickets are the actual thing he wanted but didn't get.
 
-That's the budget constraint and the cost concept it makes precise. Now: how do people actually choose a point on it?
+The cost of any choice, as an economist sees it, is what you had to give up to make it. We call this the **opportunity cost**.
 
-## How people decide on the surface
+This is not just a definition to memorize. It's a different way of seeing. The opportunity cost dissolves the abstraction of money and reveals the actual trade. When you pay $2 for a burger, the money is just the mechanism. The real cost is what the $2 *could have done instead*. Four bus tickets. Or, if Alphonso could have saved those dollars: 1/100th of a tank of gas, or the beginning of a rainy-day fund. The opportunity cost changes with the options available — because it *is* the options available.
 
-Most decisions are not "do I buy a car or a house?" Most decisions are "do I buy this *one more* coffee, this *one more* hour of overtime, this *one more* unit of whatever?" Economists have a name for this kind of thinking: **marginal analysis**. Margins are the edges where you decide whether to take one more step or stop.
+Here's where this gets useful outside of economics class.
 
-This sounds technical, but you do it constantly. You don't decide each morning whether to eat *all the food in the world*. You decide whether to eat one more bite. You don't decide whether to study *for ever*. You decide whether to push through one more page tonight. Comparing the next-bite benefit to the next-bite cost — that's the move. The marginal benefit of one more bite of pizza is *the satisfaction from this bite*, not *the satisfaction of having eaten pizza in general*. The marginal cost of staying at work one more hour is *the next hour you don't get to spend doing something else*, not the cost of having a job.
+A startup founder walks away from a $180,000-a-year engineering job to build her company. Her accountants note that she's not paying herself a salary, so her labor cost is zero. But her opportunity cost is $180,000. That's what she's actually paying every year she works for equity instead of wages. The accounting books miss it completely. The economic analysis does not.
 
-The reason marginal thinking matters is that the benefit of "one more" usually shrinks as you have more. The first slice of pizza, when you're hungry, is bliss. The fourth, after you've already eaten three, is fine. The eighth is a punishment. Economists name this pattern: the **law of diminishing marginal utility**. *Utility* is the technical word for satisfaction or value. *Marginal* means the additional bit. *Diminishing* means it goes down. As you consume more of any one thing, the additional satisfaction from each next unit tends to fall.
+Or: a factory uses a building it owns. Rent paid: zero. But the building *could* be rented out for $4,000 a month — that's what similar buildings go for in the area. The economic cost of using that building is $4,000 a month whether or not anyone writes a check.
 
-This is why people don't go to corner solutions. You like ice cream, but you don't eat only ice cream. You like leisure, but you don't quit your job. You like fitness, but you don't spend nine hours a day at the gym. The first hour at the gym makes you feel great. The third hour makes you feel sore. The seventh makes you injured. At some point, the marginal benefit of one more falls below the marginal cost of one more, and the rational thing is to stop.
+<!-- → [TABLE: Accounting cost vs. opportunity cost — two columns, three rows of examples: (1) founder's labor: accounting cost $0, opportunity cost $180,000/yr; (2) owned factory building: accounting cost $0, opportunity cost $4,000/mo market rent; (3) student in school: accounting cost tuition, opportunity cost tuition + forgone wages. Caption: "What accountants see vs. what economists see — the gap is always the foregone alternative."] -->
 
-A rational consumer keeps buying more of something only as long as the marginal utility of the next unit exceeds the opportunity cost of paying for it. Once those two are equal, stop. That's the rule. It explains why Alphonso, even though he could afford 20 bus tickets if he gave up all his burgers, almost certainly won't. The 20th bus ticket is worth less to him than the burger he'd give up to get it.
+Opportunity cost is the thing that invisible costs are made of. It shows up every time a resource that could do one thing is used for another.
 
-Now a different rule, and one people consistently get wrong: **sunk costs**.
+The slope of Alphonso's budget constraint *is* the opportunity cost. It tells you exactly how many bus tickets trade for one burger at current prices. Change the price of bus tickets, and the slope changes — which means the trade-off changes, which means the opportunity cost changes. The geometry is the economics.
 
-A sunk cost is money or time or effort already spent that you cannot get back. The lesson is short: sunk costs should not affect any decision you're making *now*. The decision now is about what comes next — what you do with the next hour, the next dollar, the next opportunity. The past is the past.
+<!-- → [CHART: Budget constraint shift — two budget constraint lines on the same axes: original (bus tickets $0.50, intercept at 20) and new (bus tickets $1.00, intercept at 10). Both share the burger intercept at 5. Caption: "When the price of bus tickets doubles, the constraint pivots inward — each burger now costs only 2 bus tickets, not 4. The slope changed; the opportunity cost changed with it."] -->
 
-Selena pays $8 for a movie ticket. Thirty minutes in, she realizes the movie is unwatchable. Should she stay because she paid for it?
+---
 
-No. The $8 is gone whether she stays or leaves. The decision in front of her is what to do with the next 90 minutes — suffer through the rest of a bad movie, or go do anything else. The opportunity cost of staying is "anything else"; the opportunity cost of leaving is "the rest of the movie, which she has just told us is bad." Stay implies the rest of the movie is worth more than anything else she could be doing for the next 90 minutes. Leave implies it isn't. The $8 doesn't enter the calculation because no decision Selena makes now can change whether she paid it.
+## How Decisions Actually Get Made
 
-People — and firms, sometimes spectacularly — break this rule constantly. A company that has spent $300 million developing a product that's clearly going to fail will sometimes spend another $50 million pushing it to market because of the original $300 million. That's the sunk-cost fallacy in three sentences. The right question is whether the *next* $50 million produces value greater than its opportunity cost — which it might, or might not, but the original $300 million does not enter the answer. It is gone. Forget it.
+Now here's something I want you to notice. When Alphonso decides how to divide his $10, he doesn't sit down and optimize a function. He doesn't draw a graph. He probably just buys some burgers and some bus tickets in a way that feels roughly right. The question is: what is the *structure* of the decision he's making, even if he's not explicitly aware of it?
 
-## Scale up: the surface of society's choice
+The answer is that almost no decision is all-or-nothing. It's almost always: *one more, or not?*
 
-Now the scale shift. The same diagram that drew Alphonso's options can draw a society's options, and the move from one to the other is the heart of macroeconomic intuition.
+This matters. An economist would say Alphonso decides *at the margin* — at the edge of where he is, comparing the benefit of the next unit against its cost. Not "should I buy all the burgers or all the bus tickets?" but "given how many I already have, should I get one more burger, or one more bus ticket?"
 
-A society — pick the United States — has limited resources at any moment. Workers, factories, classrooms, hospitals, machines. Suppose, for simplicity, that society uses those resources to produce just two things: healthcare and education. If it dedicated everything to healthcare, it could produce some maximum quantity (call it point A). If it dedicated everything to education, it could produce some other maximum quantity (point F). All the productively feasible combinations in between trace out a curve called the **production possibilities frontier** (PPF).
+The reason this framing is right — not just economically, but psychologically — has to do with how value works.
 
-The PPF plays the same role for society that the budget constraint plays for Alphonso. Inside the curve: feasible but wasteful — society could be producing more of *both* goods and isn't. On the curve: producing as much as the resources allow. Outside the curve: not feasible, given current resources and technology.
+The first burger, when you're hungry, is worth a lot. You might be willing to give up six bus tickets for it. The second burger is still worth something, but probably not six bus tickets — maybe four. The third burger, when you're already full, is worth considerably less. By the fifth, if you've eaten nothing else, you might feel sick at the thought of it.
 
-But the PPF differs from the budget constraint in one important shape. Alphonso's constraint is a straight line. The PPF bows outward.
+This is **diminishing marginal utility** — the formal name for something you already know. *Marginal* means "the next unit." *Utility* is the economist's word for satisfaction or value. *Diminishing* means what it sounds like: it goes down. Each additional unit of the same thing tends to deliver less satisfaction than the one before.
 
-Why?
+<!-- → [CHART: Diminishing marginal utility — bar chart with x-axis: slice of pizza (1st through 7th), y-axis: marginal utility. Bars descend from high (first slice) to near-zero or negative (seventh slice). Annotate the bar where marginal utility crosses zero.] -->
 
-Because resources are not equally good at every job. The first nurses and hospitals you reassign from "extra healthcare" toward "education" are the ones least useful to healthcare and most useful in classrooms. As you reassign more, you start having to move the people who were essential to healthcare. The cost in healthcare per unit of new education *rises* the further you push.
+This is why, in a world of only two goods, a rational person almost never chooses a corner. You don't spend all $10 on burgers because by the time you've had three, a fourth is less valuable than a bus ticket you desperately need to get to work. You don't spend all $10 on bus tickets because at some point you'd give up several bus tickets for even one meal. Diminishing marginal utility is the mechanism that pushes you toward the middle.
 
-Economists call this the **law of increasing opportunity cost**. As you produce more of anything, the marginal opportunity cost of each additional unit goes up — because each additional unit is being made by resources that were better at the alternative. The PPF bows outward because the opportunity cost of education in terms of healthcare gets steeper as you produce more education, and vice versa.
+The rule — stated precisely — is this: keep getting more of something as long as the benefit of the next unit exceeds its opportunity cost. When the two are equal, stop. Past that point, you're giving up something worth more than what you're getting.
 
-Two kinds of efficiency live on this diagram, and they are different.
+This rule is mechanical enough to be useful and general enough to apply almost everywhere. A firm hires workers until the revenue from one more worker equals the wage. A student studies until the expected grade improvement from one more hour equals what that hour is worth in sleep, sanity, or other studying. The calculus changes with the numbers; the structure doesn't.
 
-**Productive efficiency** means society is producing on the frontier — there's no slack, no waste. You can't get more of one good without giving up some of another. Every point on the curve is productively efficient. Every point inside is not.
+<!-- → [TABLE: Marginal analysis across contexts — three columns: Context | "Keep going if..." | "Stop when..." — rows: (1) Alphonso buying burgers: marginal utility of next burger > opportunity cost in bus tickets / they equalize; (2) Firm hiring: marginal revenue product of next worker > wage / they equalize; (3) Student studying: expected grade gain per hour > value of next-best use of that hour / they equalize. Caption: "One rule, three contexts. The numbers differ; the structure doesn't."] -->
 
-**Allocative efficiency** is a separate question: of all the productively efficient points, which one matches what society actually wants? A country could be producing on the frontier and still be at the wrong point — producing lots of weapons when its people want hospitals. Productive efficiency is "we're not wasting resources." Allocative efficiency is "we're not wasting them on the wrong things." Productive efficiency is necessary for allocative efficiency, but not sufficient.
+---
 
-This is also where comparative advantage shows up at the country level. The slope of a country's PPF *is* its opportunity cost. Brazil's PPF for sugarcane vs. wheat is steep on the wheat side — it's expensive, in sugarcane terms, for Brazil to grow wheat. The U.S. PPF is flatter on the wheat side — wheat is cheap, in sugarcane terms, in Iowa. So Brazil has a **comparative advantage** in sugarcane (lower opportunity cost), the U.S. has a comparative advantage in wheat. Both gain by specializing and trading. We will run the formal numbers in Chapter 33. The point now: the curvature you see in the PPF *is* the math of comparative advantage in a graph.
+## The Costs That Shouldn't Count
 
-A small but important note on objections. Critics ask whether real people and real governments actually think this way — drawing budget constraints, calculating marginal utilities. They do not. Neither does a basketball player, when she throws a no-look pass to a teammate, calculate trajectory and spin. She has practiced into the answer. The economist's claim is not that people do calculus; it's that the *patterns of behavior* you observe — buying habits, voting outcomes, market prices — look like what you'd predict if people were doing the math. That's a testable claim, and like all testable claims, it sometimes fails. Behavioral economics, which we'll meet later, is built on the failures.
+I want to be honest with you about something that bothers people when they first encounter this framework. Economists say you should base every decision on future costs and benefits — and that one particular class of past costs should be completely ignored.
 
-## Synthesis
+These are **sunk costs**: money, time, or effort already spent and not recoverable.
 
-Pull back. The three concepts of this chapter are one diagram with different labels.
+Here is why they shouldn't count. A decision you make right now changes what happens from now on. It cannot change what has already happened. The $8 you spent on a movie ticket this morning is gone whether you sit through the movie or walk out after 20 minutes. What is *not* gone is the next 90 minutes of your life. The question is: what's the best use of those 90 minutes? The $8 is completely irrelevant to that question.
 
-The budget constraint is the surface of an individual's choice, set by income and prices. The PPF is the surface of society's choice, set by resources and technology. Both have the same job: show what's feasible, show what's not, and show the rate at which one thing must be given up for another. The slope is the opportunity cost. The curvature, where it exists, is the law of increasing opportunity cost in graphic form.
+And yet. People stay in terrible movies because they paid to see them. Companies throw good money after bad because of what they already spent. Students finish degrees they hate in fields they'll never work in because of the loans they've already taken out. The sunk-cost fallacy — letting past expenses influence future decisions — is one of the most consistent, most damaging, and most human of all economic errors.
 
-Marginal analysis is how a decision-maker actually moves on the surface. Diminishing marginal utility is why nobody chooses a corner solution. Sunk costs are the past, and the past doesn't get a vote.
+<!-- → [INFOGRAPHIC: The sunk-cost fallacy at three scales — individual (movie ticket: $8 sunk, 90 minutes at stake), firm (product development: $300M sunk, $50M next decision), government (infrastructure: $2B sunk, $800M completion decision). Each panel: grayed-out bar = sunk cost (labeled "irrelevant"), highlighted bar = actual decision. Caption: "The sunk cost is always grayed out. The decision is always about what happens next."] -->
 
-Bring it back to where we started. The 64 percent of American adults without a bachelor's degree — they are not making a mistake by failing to chase the BLS earnings premium. They are choosing on a budget constraint we don't see in the BLS table: time, family circumstance, financial cost, risk tolerance, the marginal value of a fourth year out of the labor force. Some are making the right choice for them. Some are making a choice they will later regret. The diagram doesn't tell you who is which. It tells you what surface they're standing on.
+Why is it so persistent? Loss aversion is the usual answer. Acknowledging that the $8 is gone feels like taking a loss, and people are wired to strongly dislike losses. But notice that staying in a bad movie doesn't give you the $8 back. It just prevents you from *admitting* the loss. You're not avoiding the loss; you're performing a ritual that lets you feel like you didn't lose.
 
-That is the economic way of seeing. Not "people optimize and reach the right answer." More like: "every choice has a shape, and the shape has consequences whether the chooser sees it or not."
+The clean version of the rule: when you're deciding what to do next, look forward. The past doesn't get a vote.
+
+---
+
+## One Diagram, Scaled Up
+
+We've been drawing the budget constraint for Alphonso. Now I want to do something that seems like a different exercise but is actually the same exercise with the labels changed.
+
+Forget Alphonso. Think about a country — any country — trying to decide how to use its workers, factories, land, and capital. Suppose, for simplicity, it produces two things: healthcare and education. If it dedicated everything to healthcare, it could produce some maximum quantity of healthcare and zero education. If it dedicated everything to education, it could produce the maximum of that and zero healthcare. All the combinations in between trace out a curve called the **production possibilities frontier** — the PPF.
+
+<!-- → [CHART: Production possibilities frontier — concave curve bowing outward from upper-left (maximum healthcare, zero education) to lower-right (zero healthcare, maximum education). Label three points: A (on curve, healthcare-heavy), B (on curve, balanced), C (inside curve, inefficient). Label outside curve as "not currently feasible."] -->
+
+The PPF does for a society what the budget constraint does for Alphonso: it shows what's possible, what's not, and what one thing costs in terms of another.
+
+But look at the shape. Alphonso's budget constraint is a straight line. The PPF bows outward — it's curved, concave from the origin. Why?
+
+Because resources are not interchangeable. Alphonso's $2 buys exactly $2 worth of either thing — money is perfectly fungible. But a cardiovascular surgeon is not equally useful in a classroom. The first workers you reallocate from healthcare to education are the ones least suited to healthcare and most suited to teaching — the marginal cost in healthcare of that first unit of education is low. As you push further, you start pulling people who *were* essential to healthcare into schools. The marginal cost in healthcare of each additional unit of education goes up.
+
+This is the **law of increasing opportunity cost**. The further you push production in any one direction, the more expensive — in terms of the other thing — each additional unit becomes. The curve bends outward because costs rise as you specialize.
+
+<!-- → [CHART: Budget constraint vs. PPF side by side — left panel: Alphonso's straight-line budget constraint, axes labeled "burgers" and "bus tickets." Right panel: society's bowed-out PPF, axes labeled "healthcare" and "education." Caption: "Same diagram, different labels, different shape. The straight line assumes a perfectly fungible resource (money). The bow assumes resources better suited to one use than another — which is almost always the real situation."] -->
+
+The outward bow of the PPF is the same phenomenon as diminishing marginal utility in a mirror. Both say: the further you go in one direction, the more it costs. One happens in your head; the other happens in the allocation of resources across an economy.
+
+Two kinds of efficiency live in this diagram, and I want to be careful here because they are genuinely different and the confusion between them causes a lot of bad arguments.
+
+**Productive efficiency** means you're on the frontier — no slack, no waste, not leaving anything on the table. Every point on the curve is productively efficient. Every point inside is not. An economy operating inside its frontier could be producing more of *both* goods without giving up anything.
+
+**Allocative efficiency** is a different question entirely. Of all the points on the frontier, which one do we actually want? A country could be productively efficient — fully utilizing its resources, nothing wasted — and still be producing an enormous amount of something its people don't want and too little of something they desperately need. Productive efficiency tells you you're not wasting anything. Allocative efficiency tells you you're not wasting anything *on the wrong things*. The first is technical. The second is a value judgment.
+
+<!-- → [TABLE: Productive efficiency vs. allocative efficiency — two-column comparison. Rows: What it means / The question it answers / What fixes a failure / Why it's not sufficient alone / Example of one without the other (e.g., Soviet-era manufacturing: productively near-frontier for military goods, allocatively misaligned with consumer preferences). Caption: "These get conflated constantly in policy debates. They call for different diagnoses and different fixes."] -->
+
+This matters enormously in real policy debates. When someone says "the economy is inefficient," they are almost always sliding between these two meanings, and the slide obscures what would actually need to change. Productive inefficiency calls for better management, less corruption, less friction. Allocative inefficiency calls for a different set of priorities — which is a question about values, not just mechanics.
+
+---
+
+## The PPF Contains the Theory of Trade
+
+One more thing the PPF tells us, and then we'll pull everything together.
+
+The slope of the PPF — at any point — *is* the opportunity cost of producing one more unit of one good in terms of the other. A country where the PPF is steep on the education side (meaning it costs a lot of healthcare to produce more education) has a high opportunity cost of education. A country where the PPF is flatter on that side has a lower opportunity cost.
+
+When one country has a lower opportunity cost of producing something than another country does, we say it has a **comparative advantage** in that good. And the core insight of trade theory — an insight that took economists a long time to state cleanly, and that still surprises people when they really understand it — is that both countries gain by specializing according to comparative advantage and trading.
+
+Not just the country that's better at everything. *Both* countries. Even if one country is more efficient at producing *every* good, both parties still gain by specialization. What matters is not absolute advantage but the ratio — who gives up less of what to produce more of what.
+
+We'll work through the formal arithmetic in Chapter 33. But the idea lives right here in the PPF diagram: the curvature tells you opportunity cost, and opportunity cost tells you who should produce what.
+
+<!-- → [CHART: Comparative advantage via PPF slopes — two panels. Left: Country A's PPF, steep on good X (high opportunity cost of X), flat on good Y. Right: Country B's PPF, flat on good X (low opportunity cost), steep on good Y. Annotate the slope at each axis. Caption: "The slope difference is the whole theory. Country A's steep slope on X means it gives up a lot of Y to produce X — that's high opportunity cost. Country B should produce X; Country A should produce Y. Both gain by trading."] -->
+
+---
+
+## Back to the 64 Percent
+
+Now we can answer the question we started with.
+
+The 64 percent of American adults without a bachelor's degree are not missing a trick. They are choosing on a budget constraint we cannot see in the BLS earnings table. That table shows the wage premium. It does not show: the four years of forgone wages, the cost of tuition, the debt load, the opportunity cost of time for someone with family obligations, the marginal value of a degree in a specific labor market, the risk tolerance required to take on substantial debt for a future payoff that is probabilistic, not guaranteed.
+
+<!-- → [INFOGRAPHIC: The hidden budget constraint behind the college decision — two panels. Left: what the BLS table shows (bachelor's $1,305/wk vs. high school $781/wk; the 67% premium). Right: the full budget constraint (axes for forgone wages, tuition + debt, time cost, geographic constraint, probability-weighted payoff). Caption: "The BLS table shows one dimension. The budget constraint shows all of them. Most people are optimizing on the right surface — we just printed the wrong diagram."] -->
+
+Some of those people are making the right choice for their situation. Some are making a choice they will later regret. Some are being constrained by things — geography, family, access to credit — that have nothing to do with their own preferences. The diagram doesn't tell you which is which. What it tells you is that every one of them is standing on a surface with a shape, and the shape has consequences whether the person standing on it sees it or not.
+
+That is the economic way of seeing. Not "people optimize and reach the right answer." More like: *every choice has a shape, and the shape is real whether or not you can draw it.*
+
+---
+
+## Summary
+
+The budget constraint is the surface of an individual choice, set by income and prices. Its slope is the opportunity cost — the rate at which one thing must be given up for another. The PPF is the same diagram for a society: a curve set by resources and technology, whose slope is also an opportunity cost, and whose outward bow reflects the law of increasing opportunity cost.
+
+Marginal analysis is how decisions actually get made on that surface: compare the benefit of one more unit against its cost, and stop when they're equal. Diminishing marginal utility is why we don't go to corners. Sunk costs are the past, and the past has no vote.
+
+The PPF adds two distinctions that will matter throughout this course: productive efficiency (are we on the frontier?) versus allocative efficiency (are we at the right point on it?). And the slope of the PPF is the origin of the theory of comparative advantage — the idea that even a less productive country has something to offer in trade, because opportunity cost, not absolute ability, determines what you should specialize in.
+
+---
 
 ## LLM Exercises
 
@@ -117,15 +184,6 @@ That is the economic way of seeing. Not "people optimize and reach the right ans
 
 **Exercise 5 — Productive vs. allocative efficiency.** Ask an LLM to give you a real-world example of an economy that is productively efficient but allocatively inefficient — using its full resources but producing the wrong mix of goods. Evaluate the example. Is it actually a case of misallocation, or is it a case of disagreement about what "the right mix" is? This exercise is testing whether the LLM understands that allocative efficiency depends on a value judgment about what society wants.
 
-## What comes next
-
-Chapter 3 — Demand and Supply introduces the workhorse model of economics: how prices get set and quantities get traded in markets. Chapter 4 applies the demand-and-supply model to the labor market and the financial market specifically. The PPF and budget constraint we built here will return in many forms — a curve labeled "consumption vs. saving," a curve labeled "private vs. public goods," a curve labeled "exports vs. imports." Same diagram. Different labels.
-
-**What would change my mind.** The claim that ignoring sunk costs is the right rule depends on the assumption that admitting a past mistake doesn't carry costly information for *future* decisions. If, in some real situation, sticking with a sunk decision generates information or relationships that are worth more than the savings from cutting losses, the simple rule needs an adjustment. I have seen this argued more than I have seen it demonstrated.
-
-**Still puzzling.** I do not have a clean answer to why people violate the sunk-cost rule so consistently. The textbook answer is "loss aversion" — that losing $100 hurts more than gaining $100 feels good — and that the sunk cost feels like a loss being locked in. But this raises rather than settles the question. Why is the loss-aversion ratio what it is? Why is it so resistant to learning? Cognitive psychology has stories. Economics still mostly waves at the phenomenon without explaining it.
-
-*Byline: Nik Bear Brown.*
 ---
 
 ## LLM Exercise — Chapter 2: Choice in a World of Scarcity (Policy Brief Project)
@@ -195,11 +253,11 @@ discipline this chapter trains.
 
 **Preview of next chapter:** Chapter 3 puts your policy in a demand-and-supply diagram — the workhorse model. You'll show the curves, the equilibrium, and what the policy does to each.
 
-
 ---
 
-##  AI Wayback Machine
-**Lionel Robbins** was defined economics in 1932 as "the study of the allocation of scarce means among competing ends" — the definition still used today.
+## AI Wayback Machine
+
+**Lionel Robbins** defined economics in 1932 as "the study of the allocation of scarce means among competing ends" — the definition still used today.
 
 **Run this:**
 
@@ -215,3 +273,7 @@ Who is Lionel Robbins, and how does their work connect to choice and scarcity we
 - Add a constraint: "Answer including criticisms or limits of Lionel Robbins's framework."
 
 What changes? What gets better? What gets worse?
+
+---
+
+*Byline: Nik Bear Brown.*
