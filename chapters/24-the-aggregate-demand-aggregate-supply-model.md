@@ -1,122 +1,133 @@
 # Chapter 24 — The Aggregate Demand–Aggregate Supply Model
 
-
-## TL;DR
-
-- The macroeconomy as one big market — the supply-and-demand framework, scaled up to the whole economy.
-- The chapter moves through Two visions of the macroeconomy, Aggregate Demand, Short-run Aggregate Supply, Equilibrium and shifts, and related ideas.
-- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
-
 *The macroeconomy as one big market — the supply-and-demand framework, scaled up to the whole economy.*
 
-In 2006, the U.S. housing market was building 1.6 million new homes a year. By 2009, that number had collapsed to 550,000 — barely more than a third of the peak. Construction employment fell by about 1.7 million workers in those three years. Furniture stores, appliance makers, mortgage brokers, real estate agents — all the industries that depend on housing — shrank in parallel.
+In 2006, the U.S. housing market was building 1.6 million new homes a year. By 2009, that number had collapsed to 550,000 — barely more than a third of the peak. Construction employment fell by about 1.7 million workers in three years. Furniture stores, appliance makers, mortgage brokers, real estate agents — every industry upstream and downstream from housing contracted in parallel.
 
-The collapse in one specific market — housing — produced effects that rippled through the entire macroeconomy. GDP fell. Unemployment rose. Inflation slowed. Bond yields fell. Business investment dropped. Consumer spending tightened. The Federal Reserve cut its benchmark rate to near zero. The federal government enacted the largest fiscal stimulus since World War II. None of this was about the housing market specifically; it was about the macroeconomy as a whole responding to a shock that started in one sector.
+And then, because of the housing collapse, GDP fell. Unemployment rose. Inflation slowed. Bond yields fell. Business investment dropped. Consumer spending tightened. The Federal Reserve cut its benchmark rate to near zero. The federal government enacted the largest fiscal stimulus since World War II.
 
-To analyze how the macroeconomy moves, we need a tool that aggregates all the markets in the economy into one framework. That tool is the **Aggregate Demand–Aggregate Supply (AD-AS) model**, the workhorse of introductory macroeconomic analysis. It's the supply-and-demand diagram from Chapter 3, but scaled up: now the price on the vertical axis is the *general price level*, and the quantity on the horizontal axis is *real GDP*.
+None of those later effects were about housing. They were about the macroeconomy as a whole responding to a shock that started in one sector and propagated everywhere.
 
-By the end of this chapter you should be able to draw an AD-AS diagram, explain why each curve slopes the way it does, predict how a macroeconomic shock (a recession, a fiscal stimulus, an oil price shock, a productivity boom) shifts the equilibrium, and identify which "zone" of the AS curve the economy is operating in.
+To analyze this — to understand how a shock in one market becomes a contraction in everything — you need a framework that aggregates all the markets in the economy into one diagram. That framework is the **Aggregate Demand–Aggregate Supply model**, the AD-AS model. It is the supply-and-demand diagram from Chapter 3 scaled up until the price on the vertical axis is the *general price level* and the quantity on the horizontal axis is *real GDP*.
 
-**Learning objectives.** By the end you should be able to: (1) define aggregate demand and explain why it slopes downward; (2) define aggregate supply and explain its short-run shape (three zones); (3) draw the AD-AS equilibrium and identify the equilibrium price level and real GDP; (4) predict how shifts in AD or AS affect the equilibrium; (5) distinguish the Keynesian zone, intermediate zone, and neoclassical zone of the SRAS curve and identify the policy implications of each.
+---
 
-**Prerequisites.** Chapter 3 (supply and demand). Chapter 19 (GDP). Chapter 21 (unemployment). Chapter 22 (inflation).
+## Two Visions Before We Start
 
-## Two visions of the macroeconomy
+Before the model, two competing intuitions about how the macroeconomy works.
 
-Before the model, two ideas about how the macroeconomy works.
+The first is **Say's Law**, from Jean-Baptiste Say writing in the early 1800s: "Supply creates its own demand." When firms produce goods, they pay workers and suppliers, who spend their income, which becomes demand for goods. In aggregate, production creates its own market. So the long-run constraint on the economy is supply — productive capacity, technology, available labor. Recessions might exist but they're temporary and self-correcting.
 
-**Say's Law** (Jean-Baptiste Say, early 1800s): "Supply creates its own demand." The act of producing creates the income that buys the products. If everything that's produced is matched by income that can buy it, there can't be a sustained shortfall in demand. Long-run growth is therefore determined by the supply side — productive capacity, technology, labor.
+The second is **Keynes's Law**, from John Maynard Keynes in the 1930s: "Demand creates its own supply." If households and firms collectively decide to spend less — in fear, in debt, in uncertainty — output falls and workers are laid off regardless of how productive the economy *could* be. In the short run, what constrains the economy is demand, not capacity.
 
-**Keynes's Law** (John Maynard Keynes, 1930s): "Demand creates its own supply." If households and firms collectively decide to spend less, output will fall and workers will be laid off, regardless of how productive the economy could potentially be. In the short run, the economy is constrained by demand, not by supply. Recessions are demand-side phenomena.
+Both ideas capture something real.
 
-Both ideas have grains of truth. Most modern macroeconomists accept that:
-- **In the long run** (multiple years), the economy's output is determined by supply-side factors — productive capacity, technology, labor, capital stock. Say's Law applies.
-- **In the short run** (months to a year or two), the economy's output can fluctuate substantially due to changes in demand. Keynes's Law applies.
+Most modern economists accept that: in the long run, output is supply-determined — technology, capital, labor, institutions. Say is right in the long run. But in the short run, output can fall well below capacity because demand collapsed. Keynes is right in the short run.
 
-The AD-AS model captures both. The aggregate supply curve is the supply side; the aggregate demand curve is the demand side. The shape of AS distinguishes the long-run from the short-run constraint.
+The AD-AS model holds both of these simultaneously. The aggregate supply curve captures the supply side; the aggregate demand curve captures the demand side. The *shape* of the aggregate supply curve is what distinguishes the short run from the long run — and that shape is the model's most important insight.
 
-## Aggregate Demand
+<!-- → [TABLE: Say's Law vs. Keynes's Law — when each applies. Two-column table. Column 1: Say's Law (supply creates demand). Column 2: Keynes's Law (demand creates supply). Rows: Time horizon (long run — years to decades / short run — months to years); What constrains output (productive capacity, technology, labor / aggregate spending, confidence, credit); What causes recessions (temporary mismatch, self-correcting / persistent demand shortfall, not self-correcting quickly); Policy implication (improve supply side — education, R&D, institutions / stimulate demand — fiscal and monetary policy); Empirical support (strong for long-run growth patterns / strong for short-run fluctuations and recessions). Caption: "Both laws are right in their own domain. The AD-AS model's job is to hold both simultaneously — the shape of the SRAS curve is what makes the time horizon matter."] -->
 
-The aggregate demand curve plots the relationship between the price level and the total real GDP demanded in the economy.
+---
 
-It slopes downward. Why? Three mechanisms.
+## Aggregate Demand: What It Is and Why It Slopes Down
 
-**The wealth effect.** Higher price levels reduce the real value of households' financial assets (cash, bonds). With less real wealth, households consume less. Real GDP demanded falls.
+The aggregate demand curve plots the relationship between the general price level and the total real GDP demanded across the entire economy.
 
-**The interest rate effect.** Higher price levels mean households need more money for transactions. Money demand rises. If the money supply is fixed, interest rates rise. Higher interest rates reduce investment and interest-sensitive consumption. Real GDP demanded falls.
+It slopes downward. To understand why, you need to know that the demand for real GDP — unlike the demand for a single good — slopes down for reasons that have nothing to do with simple substitution.
 
-**The net export effect.** Higher domestic price levels make domestic goods more expensive relative to foreign ones. Exports fall, imports rise, net exports decline. Real GDP demanded falls.
+Three mechanisms:
 
-All three mechanisms produce a downward-sloping aggregate demand curve.
+**The wealth effect.** When the price level rises, the real purchasing power of households' financial assets falls. A savings account nominally worth $50,000 buys fewer goods and services when the price level is higher. With less real wealth, households consume less. Lower consumption means lower GDP demanded.
 
-The aggregate demand curve shifts when one of its non-price-level components changes. The components are the same C + I + G + NX from Chapter 19. Shifters:
+**The interest rate effect.** Higher price levels require households and businesses to hold more money to carry out their usual transactions — groceries cost more, payroll costs more, inventory costs more. Money demand rises. If the money supply doesn't change, interest rates rise to equate money supply and demand. Higher interest rates discourage investment spending and some consumer spending. GDP demanded falls.
 
-- **Consumption (C).** Income, wealth, expectations, taxes affecting consumers.
-- **Investment (I).** Business expectations, interest rates, technology, taxes on investment.
-- **Government purchases (G).** Direct fiscal policy decisions.
-- **Net exports (NX).** Foreign income, exchange rates, foreign tariffs, domestic competitiveness.
+**The net export effect.** When domestic prices rise relative to foreign prices, U.S. goods become more expensive for foreign buyers and foreign goods become cheaper for domestic buyers. Exports fall; imports rise; net exports decline. GDP demanded falls.
 
-Anything that increases C, I, G, or NX shifts AD right. Anything that decreases them shifts AD left. The four-step analysis from Chapter 3 applies directly.
+All three mechanisms push aggregate demand downward when the price level rises, and all three push it upward when the price level falls.
 
-## Short-run Aggregate Supply
+<!-- → [CHART: Aggregate demand curve — downward-sloping AD curve with general price level on vertical axis and real GDP on horizontal axis. Annotate three mechanisms: (1) Wealth effect — arrow showing "price level rises → real wealth falls → consumption falls"; (2) Interest rate effect — "price level rises → money demand rises → interest rates rise → investment falls"; (3) Net export effect — "price level rises → domestic goods pricier → net exports fall." Caption: "Three separate mechanisms each produce the same directional result. The AD curve slopes down not because consumers substitute other goods for GDP (there's no substitute for the whole economy) but because higher prices reduce real wealth, raise interest rates, and hurt net exports."] -->
 
-The aggregate supply curve plots the relationship between the price level and the total real GDP that producers are willing to supply.
+The AD curve shifts whenever one of the components of GDP — consumption ($C$), investment ($I$), government purchases ($G$), or net exports ($NX$) — changes for reasons *other than* the price level. A tax cut that puts money in consumers' pockets shifts AD right. A fall in business confidence that reduces investment shifts AD left. A foreign recession that reduces demand for U.S. exports shifts AD left. A federal infrastructure bill shifts AD right.
 
-The short-run AS curve has three zones, with very different shapes.
+<!-- → [TABLE: AD curve shifters — four sections, one per component. Columns: Component / Shifts AD Right (increases) / Shifts AD Left (decreases). Rows: Consumption (C) — income rises, consumer confidence improves, wealth rises, tax cut / income falls, consumer confidence drops, wealth falls, tax increase; Investment (I) — business optimism, lower interest rates, new technology / business pessimism, higher interest rates, uncertainty about future demand; Government purchases (G) — fiscal stimulus, infrastructure spending / fiscal austerity, spending cuts; Net exports (NX) — foreign incomes rise, domestic currency weakens, foreign tariffs fall / foreign recession, domestic currency strengthens, foreign tariffs rise. Caption: "Every AD shift can be traced to one of these four components. The four-step analysis from Chapter 3 applies: what changed, which curve, which direction, new equilibrium."] -->
 
-**The Keynesian zone (left side, flat).** When real GDP is well below potential, the economy has substantial slack — unemployed workers, idle capacity. Firms can produce more output without raising prices much. The SRAS curve is nearly horizontal in this zone. Demand-side increases generate real output gains with little inflation.
+---
 
-**The intermediate zone (middle, upward-sloping).** As output approaches potential GDP, slack diminishes. Adding production starts requiring more bidding for scarce labor and capital, pushing input costs and output prices up. The SRAS curve slopes upward. Demand-side changes generate both output and price effects.
+## Short-Run Aggregate Supply: The Three Zones
 
-**The neoclassical zone (right side, vertical).** When real GDP is at or near potential, the economy is at full capacity. Pushing demand higher can't generate more output (no spare workers, no spare factories). It can only push prices up. The SRAS curve is nearly vertical. Demand-side stimulus generates only inflation, no real output.
+The short-run aggregate supply curve plots the relationship between the general price level and the real GDP that producers are willing to supply.
 
-The three-zone shape captures the key insight that the same demand-side shift produces very different effects depending on where the economy is. A demand stimulus during a deep recession (Keynesian zone) produces lots of real GDP gain and little inflation. The same stimulus at full employment (neoclassical zone) produces lots of inflation and little real gain.
+Here is where the model gets its real character. Unlike a single-market supply curve — which has one consistent slope — the short-run aggregate supply curve has three zones with fundamentally different shapes.
+
+**The Keynesian zone (left side, nearly flat).** When real GDP is well below potential, the economy has enormous slack. There are unemployed workers ready to be hired, idle factories ready to be opened, empty office buildings. In this situation, firms can increase production without bidding up wages or input prices much. Output can rise substantially with little pressure on the price level. The SRAS curve in this zone is nearly horizontal: big real output gains, minimal inflation.
+
+**The intermediate zone (middle, upward-sloping).** As real GDP approaches potential, slack diminishes. Each new unit of output requires more aggressive bidding for increasingly scarce labor and capital. Wages and input costs start to rise. The price level rises with production. The SRAS curve slopes upward: increases in demand produce both more output and more inflation.
+
+**The neoclassical zone (right side, nearly vertical).** When the economy is at or near its productive potential — full employment, maximum capacity utilization — the economy literally cannot produce more in the short run regardless of demand. There are no more workers to hire, no more capacity to deploy. At this point, an increase in demand bids up prices without generating more output. The SRAS curve is nearly vertical: demand increases generate inflation but no real gain.
+
+<!-- → [CHART: Short-run aggregate supply curve with three zones — upward-sloping SRAS curve transitioning from nearly flat on the left to steep on the right. Mark three regions: Keynesian zone (flat, labeled "large output gains, minimal inflation"), Intermediate zone (upward-sloping, labeled "both output and price level rise"), Neoclassical zone (steep/vertical, labeled "mostly price increases, minimal output gain"). Mark potential GDP (Y*) as a vertical dotted line at the transition to neoclassical zone. Caption: "The same demand shift produces radically different outcomes depending on which zone the economy is in. At 20% unemployment, fiscal stimulus grows the economy. At full employment, the same stimulus is mostly inflationary."] -->
+
+The three-zone shape captures the single most important insight about macroeconomic stabilization: the effectiveness of demand-side policy depends entirely on where the economy is. A demand stimulus in the Keynesian zone is powerful and relatively non-inflationary. The same stimulus in the neoclassical zone is mostly wasted on inflation. This is not a left-right political judgment; it's a geometric fact about where the economy is sitting on the curve.
 
 The SRAS curve shifts when:
-- **Input prices change.** Oil price shocks (1970s OPEC), wage shocks, raw material costs.
-- **Productivity changes.** Technology improvements shift SRAS right; productivity declines shift it left.
-- **Tax policy on production.** Taxes on businesses can shift SRAS left.
-- **Other supply-side regulations.** Burdens on production shift SRAS left; deregulation shifts it right.
+- **Input prices change.** An oil price spike raises production costs throughout the economy, shifting SRAS left. A fall in commodity prices shifts it right.
+- **Productivity changes.** A technology-driven productivity improvement allows firms to produce more at any given price level, shifting SRAS right. A reversal (productivity slowdown, environmental damage) shifts it left.
+- **Supply-side tax or regulatory changes.** Business taxes or costly regulations raise input costs and shift SRAS left.
 
-## Equilibrium and shifts
+---
 
-The AD-AS equilibrium is where the curves cross. The price level and real GDP at the crossing are the macroeconomic equilibrium.
+## Equilibrium and the Mechanics of Shifts
 
-Walk through some examples.
+The macroeconomic equilibrium is where AD and SRAS cross. At the crossing, the general price level and real GDP are simultaneously determined.
 
-**Recession (demand shock).** Households lose confidence and cut spending. AD shifts left. New equilibrium has lower price level and lower real GDP. If the economy was at potential before, it's now operating in or below the intermediate zone — recession with declining inflation.
+Now let's use the model.
 
-**Stimulus (positive demand shock).** Government increases spending or cuts taxes. AD shifts right. New equilibrium has higher price level and higher real GDP — assuming the economy was operating in the Keynesian or intermediate zone. If at full employment, the shift is only inflationary.
+**A recession (negative demand shock).** Households lose confidence and cut spending; firms pull back investment; banks tighten lending. AD shifts left. If the economy was operating in the intermediate zone near potential, the new equilibrium has lower real GDP and a lower (or slower-rising) price level. That's the basic story of 2008–2009. The housing collapse was a massive leftward shift in AD.
 
-**Oil shock (negative supply shock).** Oil prices spike. SRAS shifts left. New equilibrium has higher price level and lower real GDP. This is the unfortunate "stagflation" combination — both rising inflation and falling output, like the U.S. in the 1970s.
+<!-- → [CHART: Negative demand shock — AD-AS diagram with original equilibrium (Y0, P0). AD curve shifts left to AD'. New equilibrium at lower Y1 < Y0 and lower price level P1 < P0. Label gap between Y1 and Y* as "recessionary gap." Caption: "A leftward AD shift reduces both real GDP and the price level. If Y1 is below potential output Y*, the gap is the recessionary gap — the output the economy is losing relative to its capacity."] -->
 
-**Productivity boom (positive supply shock).** New technology raises productivity. SRAS shifts right. New equilibrium has lower price level (or slower inflation) and higher real GDP. The U.S. late-1990s tech boom approximated this.
+**A fiscal stimulus (positive demand shock).** Government increases spending or cuts taxes. AD shifts right. If the economy was in the Keynesian or intermediate zone, the new equilibrium has higher real GDP and somewhat higher price level. This was the logic of the 2009 American Recovery and Reinvestment Act — a $800 billion rightward AD push in an economy well into the Keynesian zone.
 
-The diagrams give you a tool for reasoning about each scenario. The four-step analysis from Chapter 3 applies: draw the baseline, identify what changed, shift the relevant curve, find the new equilibrium.
+**An oil shock (negative supply shock).** OPEC cuts production; oil prices spike. Production costs rise across the economy. SRAS shifts left. The new equilibrium has higher price level *and* lower real GDP — a simultaneous rise in inflation and fall in output. This is **stagflation**: the nightmare combination that plagued the U.S. in 1973–1975 and again in 1979–1981, and that the simple demand-side policy of the era couldn't fix (raising AD would reduce unemployment but worsen inflation; lowering AD would reduce inflation but worsen unemployment).
 
-## Long-run Aggregate Supply
+<!-- → [CHART: Stagflation — negative supply shock. AD-AS diagram with original equilibrium (Y0, P0) at the intersection of AD and SRAS0. SRAS shifts left to SRAS1 (higher input costs). New equilibrium at lower Y1 < Y0 and higher price level P1 > P0. Label: "SRAS shifts left → stagflation (output falls, prices rise simultaneously)." Annotate the policy dilemma: "Raise AD to recover Y1 → P rises further. Lower AD to fight P1 → Y falls further." Caption: "Stagflation is what happens when the AS curve shifts left. Demand-side policy faces a dilemma because any move of AD along a steeper SRAS trades off more inflation against more output. Supply-side fixes (raising productivity, reducing input costs) are the correct medicine."] -->
 
-In the long run, output is determined entirely by the supply side — productive capacity, technology, labor force. The long-run aggregate supply curve (LRAS) is therefore vertical at potential GDP, regardless of the price level.
+**A productivity boom (positive supply shock).** New technologies raise productivity throughout the economy. SRAS shifts right. The new equilibrium has higher real GDP and lower price level — good for everyone. The U.S. in the late 1990s, driven by IT investment and the internet, approximated this.
 
-The long-run framework says that the economy, given enough time, returns to potential GDP after any shock. Demand shocks cause temporary fluctuations (the Keynesian short-run story) but eventually die out as wages and prices adjust to restore full employment.
+---
 
-How fast is "the long run"? Reasonable people disagree, and the answer matters for policy. If the long run is months, demand-side stabilization policy is unnecessary; the economy fixes itself fast. If the long run is years (or, in some cases, decades), then short-run stabilization is essential because the cost of cyclical unemployment in the meantime is enormous. The Keynesian framework treats the long run as long enough that intervention is justified. The neoclassical framework treats it as short enough that intervention often does more harm than good.
+## The Long-Run Aggregate Supply Curve
 
-We'll explore both perspectives in detail in Chapters 25 and 26.
+There's one more piece.
 
-## Synthesis
+In the long run, output is determined entirely by supply-side factors — the economy's productive capacity, technology, labor force, capital stock. In the long run, wages and prices are fully flexible; they adjust until the labor market and other markets clear. The long-run aggregate supply curve is therefore **vertical** at potential GDP, regardless of the price level.
 
-Pull back. The AD-AS model is the supply-and-demand framework scaled up to the whole economy. Price on the vertical axis becomes the general price level. Quantity on the horizontal axis becomes real GDP. The crossing point is the macroeconomic equilibrium.
+$$LRAS \text{ is vertical at } Y = Y^*$$
 
-The aggregate demand curve slopes down because higher prices reduce wealth, raise interest rates, and hurt net exports. It shifts when any of C, I, G, or NX changes for non-price reasons.
+The long-run model says that demand-side shocks are temporary. After a negative demand shock, wages and prices gradually fall, SRAS shifts right, and the economy returns to potential. How long this takes is the central dispute between Keynesian and neoclassical economists.
 
-The short-run aggregate supply curve has three zones. Flat in the Keynesian zone (lots of slack), upward in the intermediate zone (tight but not full), vertical in the neoclassical zone (at potential). The same demand shift produces very different effects in each zone.
+If the adjustment is fast — months to a year or two — then short-run demand stabilization policy is mostly unnecessary. The economy heals itself before policy can act. This is broadly the neoclassical view.
 
-The long-run aggregate supply curve is vertical at potential GDP. In the long run, output is supply-determined. Demand-side shocks affect short-run output but not long-run output.
+If the adjustment is slow — years to a decade or more, or if the adjustment process involves persistent unemployment that scars workers' long-run productivity — then waiting for the long run is costly. Demand-side intervention is justified to speed the return to potential. This is broadly the Keynesian view.
 
-This framework will carry the rest of the macro half of the book. Chapter 25 develops the Keynesian application — what to do about recessions through demand-side policy. Chapter 26 develops the neoclassical application — why the long-run supply side is what really matters and short-run intervention often makes things worse. Chapters 27 through 32 cover the specific monetary and fiscal tools that operate within this framework.
+Both views have evidence behind them. The honest answer is that the adjustment speed varies substantially depending on the specific shock and the specific economy. We'll examine both perspectives more carefully in Chapters 25 and 26.
 
-The 2008–2009 recession that opened the chapter is the test case the framework was designed for. A negative demand shock (collapse in housing investment) shifted AD left. Real GDP fell. Inflation slowed. Unemployment rose. The Federal Reserve responded by trying to shift AD back right (lowering interest rates, expanding the money supply). Congress added fiscal stimulus (the 2009 Recovery Act). Whether the policy response was adequate or insufficient is debated, but the basic AD-AS framework was the lens through which the policy decisions were made.
+<!-- → [CHART: Long-run AD-AS equilibrium — AD-AS diagram with three elements: downward-sloping AD, upward-sloping SRAS, and vertical LRAS at Y*. Equilibrium at crossing of all three. Show a leftward AD shift creating a short-run recession at (Y1, P1), then a rightward SRAS shift (as wages fall and cost adjust) that returns output to Y* at a lower price level P2. Label: "Short-run recessionary gap" and "Long-run self-correction." Caption: "The long-run self-correction mechanism: after a negative demand shock, the economy operates below potential; eventually wages and input prices fall, shifting SRAS right, restoring output to Y* at a lower price level. How long this takes is the central empirical dispute in macroeconomics."] -->
+
+---
+
+## The 2008–2009 Recession, Reassembled
+
+Now we can reassemble the opening story with the tools we have.
+
+The housing collapse was a large negative shock to investment spending — one of the components of aggregate demand. AD shifted substantially left. The economy moved from the intermediate zone to the Keynesian zone. Real GDP fell. Inflation slowed toward zero. Unemployment rose sharply.
+
+The Federal Reserve responded by cutting interest rates to near zero, attempting to stimulate investment and shift AD back right. The federal government enacted the 2009 Recovery Act, a large increase in government spending, also intended to shift AD right. Whether those responses were adequate, perfectly sized, or too large or small is debated. But the basic framing — the diagnosis as a leftward AD shock in the intermediate zone, the treatment as rightward AD pushes — is the standard AD-AS framework applied to a specific episode.
+
+The case illustrates the model's purpose: not to tell you exactly what will happen, but to give you a coherent language for thinking about what happened and what policies do what.
+
+---
 
 ## LLM Exercises
 
@@ -130,15 +141,6 @@ The 2008–2009 recession that opened the chapter is the test case the framework
 
 **Exercise 5 — Predict policy effects.** Tell an LLM the U.S. is currently operating in the intermediate zone with unemployment at the natural rate and inflation at the Fed's 2% target. The government enacts a major fiscal stimulus. Ask: what does the AD-AS framework predict will happen? Push: which curves shift, in which direction, and what is the resulting price level and real GDP path? Notice that at full employment, demand stimulus is mostly inflationary.
 
-## What comes next
-
-Chapter 25 — The Keynesian Perspective develops the demand-side application of the AD-AS framework — recessions, fiscal multipliers, the case for active stabilization policy. Chapter 26 — The Neoclassical Perspective develops the supply-side application — the long-run is what matters, prices and wages adjust to clear markets, demand-side intervention is often counterproductive. Chapters 27 and 28 cover money and banking and monetary policy. Chapter 30 covers fiscal policy.
-
-**What would change my mind.** The three-zone shape of the SRAS curve is a stylization of an empirical relationship that's smoother and more uncertain than the textbook diagram suggests. If new evidence showed that the Phillips curve (the underlying relationship between unemployment and inflation) had become much flatter or much steeper than recent estimates, the policy implications would change substantially. The empirical estimates have been notoriously unstable over the past several decades.
-
-**Still puzzling.** I do not have a clean account of how long the "long run" actually is. Different empirical studies give different answers — sometimes a few quarters, sometimes a decade or more. The implication for the right policy mix between supply-side and demand-side intervention is therefore underdetermined by the model. Reasonable economists disagree on the policy weight to give to short-run stabilization vs. long-run supply enhancement.
-
-*Byline: Nik Bear Brown.*
 ---
 
 ## LLM Exercise — Chapter 24: The Aggregate Demand–Aggregate Supply Model (Policy Brief Project)
@@ -211,16 +213,19 @@ brief should be precise.
 
 **Preview of next chapter:** Chapter 25 covers the Keynesian perspective — sticky prices, the multiplier, fiscal stabilization. If your policy's macro effects depend on Keynesian assumptions (most demand-side policies do), this chapter sharpens the analysis.
 
-
 ---
 
-##  AI Wayback Machine
-**Paul Samuelson** was integrated Keynesian and neoclassical economics in his 1948 textbook — Nobel 1970.
+## AI Wayback Machine
+
+**Paul Samuelson** integrated Keynesian and neoclassical economics in his 1948 textbook — Nobel 1970.
 
 **Run this:**
 
 ```
-Who is Paul Samuelson, and how does their work connect to AD-AS model we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about their career or ideas.
+Who is Paul Samuelson, and how does their work connect to the
+AD-AS model we covered in this chapter? Keep it to three
+paragraphs. End with the single most surprising thing about
+their career or ideas.
 ```
 
 → Search **"Paul Samuelson"** on Wikipedia.
@@ -231,3 +236,7 @@ Who is Paul Samuelson, and how does their work connect to AD-AS model we covered
 - Add a constraint: "Answer including criticisms or limits of Paul Samuelson's framework."
 
 What changes? What gets better? What gets worse?
+
+---
+
+*Byline: Nik Bear Brown.*
