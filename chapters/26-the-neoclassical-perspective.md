@@ -1,129 +1,122 @@
 # Chapter 26 — The Neoclassical Perspective
 
-
-## TL;DR
-
-- The case that the long run is what matters, that markets clear, and that demand-side intervention often does more harm than good.
-- The chapter moves through The neoclassical claim, Rational expectations, Supply-side policy, Where the neoclassical view fits, and related ideas.
-- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
-
 *The case that the long run is what matters, that markets clear, and that demand-side intervention often does more harm than good.*
 
-In 1979, Paul Volcker became chair of the Federal Reserve. U.S. inflation was 11 percent and rising. Unemployment was 6 percent. The Keynesian framework that had guided U.S. macroeconomic policy through the postwar decades had been struggling to explain the simultaneous high inflation and high unemployment of the 1970s.
+In 1979, Paul Volcker became chair of the Federal Reserve. U.S. inflation was 11 percent and rising. Unemployment was 6 percent. The Keynesian framework that had guided postwar macroeconomic policy was struggling to explain why the two were rising simultaneously — a combination the textbook said shouldn't happen.
 
-Volcker's response was to raise interest rates dramatically — the federal funds rate hit nearly 20 percent in 1981. The result: a sharp recession in 1981–82, with unemployment peaking at 10.8 percent. By the mid-1980s, inflation was down to 4 percent and falling. The economy then entered a long expansion.
+Volcker raised interest rates. The federal funds rate hit nearly 20 percent in 1981. The result was a sharp recession: unemployment peaked at 10.8 percent in late 1982. It was the highest unemployment rate since the Great Depression. Volcker took enormous political heat. Critics said he was deliberately engineering suffering.
 
-The Volcker disinflation succeeded by accepting short-run pain (the recession) to break inflation expectations and restore long-run price stability. The framework that justified this approach — that monetary policy works by anchoring expectations rather than by exploiting an unemployment-inflation trade-off — was the **neoclassical** view that had been gaining academic ground through the 1970s. The Keynesian alternative would have advised against deliberately causing a recession, even to fight inflation.
+By the mid-1980s, inflation was down to 4 percent and falling. The economy entered a long expansion. Unemployment came back down and stayed down. The Volcker disinflation succeeded — but it succeeded by accepting short-run pain to break the inflation expectations that had become self-fulfilling in the 1970s. The framework behind that strategy is what this chapter is about.
 
-This chapter develops the neoclassical view as a corrective and complement to the Keynesian view of Chapter 25. By the end you should understand why neoclassicals emphasize the long run, why they're skeptical of demand-side intervention, what rational-expectations theory implies for policy, and where modern macro has settled in the synthesis between the two views.
+The Keynesian view we developed in Chapter 25 says: in the short run, demand-side intervention can raise output and employment with limited inflation cost. The neoclassical view says: the mechanisms the Keynesians rely on are ultimately self-defeating, because people anticipate policy and adjust, because markets clear faster than the Keynesian model assumes, and because the long run — in which supply-side factors dominate — is what economic policy should actually be trying to improve.
 
-**Learning objectives.** By the end you should be able to: (1) state the neoclassical view of how the macroeconomy works; (2) explain rational expectations and its policy implications; (3) describe supply-side policy interventions and evaluate their evidence; (4) identify the conditions under which the neoclassical view holds and where it breaks; (5) describe the modern macroeconomic synthesis between Keynesian and neoclassical perspectives.
+Both views are in the modern mainstream. This chapter develops the neoclassical side of that synthesis.
 
-**Prerequisites.** Chapter 24 (AD-AS, LRAS). Chapter 25 (Keynesian framework, Phillips curve).
+---
 
-## The neoclassical claim
+## What the Neoclassical View Claims
 
-The core neoclassical proposition: in the long run, the economy is constrained by its productive capacity (potential GDP), not by demand. Demand-side fluctuations are short-run noise that average out. The right focus for macroeconomic policy is the supply side — the factors that grow potential GDP over decades.
+Start with the core proposition: in the long run, the economy returns to potential GDP regardless of what the government does with fiscal and monetary policy. The supply side — productive capacity, technology, labor force, institutions — determines long-run output. Demand-side fluctuations are short-run noise.
 
-The corollaries are several:
+The corollaries follow from this.
 
-**Wages and prices clear markets in the long run.** Sticky-price effects exist in the short run but eventually dissipate. The economy returns to full employment without policy intervention. The Keynesian claim that unemployment can persist for years is contested.
+**Wages and prices clear markets in the long run.** Sticky-price effects exist in the short run but eventually dissipate. Workers whose wages were below market rates eventually renegotiate; firms whose prices were sticky eventually update them. The economy finds its way back to full employment.
 
-**Demand-side stimulus is mostly inflationary in the long run.** A government that pushes AD higher gets some short-run real output gain at the cost of higher inflation. In the long run, the inflation persists; the output gain doesn't.
+**Demand stimulus is mostly inflationary in the long run.** Push AD higher and you get some real output in the short run, at the cost of higher inflation. In the long run, the inflation persists; the output gain doesn't. The only thing that stays higher is the price level.
 
-**Inflation expectations matter centrally.** What people expect inflation to be becomes a self-fulfilling part of what inflation actually is. Once high-inflation expectations are anchored, they're hard to dislodge — Volcker had to break expectations by inducing a recession, which forced firms and workers to expect lower inflation going forward.
+**Inflation expectations are central — and dangerous.** What people expect inflation to be becomes embedded in wage contracts, pricing decisions, and investment returns. Once high-inflation expectations are anchored, you can't reduce actual inflation without reducing expected inflation first. The 1970s were an object lesson: the Fed repeatedly tried to lower unemployment with monetary stimulus, firms and workers anticipated the resulting inflation, and the inflation accelerated each round.
 
-**Long-run supply-side reforms produce more durable benefits than short-run demand-side stimulus.** Taxes on capital, regulatory burdens, education investment, openness to trade — these reshape the long-run AS curve. Stimulus packages reshape the short-run AD position and not much else.
+**Long-run supply-side reforms produce more durable gains than short-run demand stimulus.** Improving education, reducing tax distortions, investing in infrastructure, opening trade — these shift the long-run AS curve rightward and stay shifted. A stimulus package shifts the short-run AD position and not much else.
 
-The neoclassical view is not a denial that recessions happen or that they hurt. It's a claim that the proper response is monetary stability and supply-side reform, not aggressive fiscal stimulus.
+<!-- → [TABLE: Neoclassical vs. Keynesian claims — direct comparison. Rows: Time horizon of focus / How quickly markets clear / Policy that produces durable gains / What demand stimulus achieves / What monetary policy should aim for / How the economy recovers from recessions. Columns: Keynesian view / Neoclassical view. Values: Short run / Long run; Slowly (sticky wages/prices) / Relatively quickly (flexible adjustment); Demand-side fiscal and monetary / Supply-side structural reform; Real output in the short run, inflation eventually / Mostly inflation in both short and long run; Stabilize output and employment / Maintain price stability and credibility; Needs government demand stimulus / Self-corrects through wage/price adjustment. Caption: "The disagreement is not about facts but about timing and mechanisms. Modern economists accept elements of both — the dispute is which dominates in which circumstances."] -->
 
-## Rational expectations
+---
 
-A central neoclassical innovation, due primarily to Robert Lucas (Nobel 1995), is **rational expectations** — the assumption that people form their expectations using all the available information about the economy and policy.
+## Rational Expectations: The Mechanism That Makes the View Work
 
-The implication for monetary policy is striking. If the central bank announces it will accept higher inflation to lower unemployment, rational firms and workers will anticipate the inflation and build it into wage and price contracts immediately. The central bank's policy will produce inflation but no unemployment reduction.
+The neoclassical perspective would be unconvincing without a model of why demand stimulus fails in the long run. That model is **rational expectations**, developed primarily by Robert Lucas (Nobel 1995).
 
-The Lucas critique applied this to fiscal policy too: any policy that depends on people not anticipating it will fail when they do. Predictable countercyclical policy is anticipated, doesn't produce surprise, and therefore produces no real effect.
+The premise: people form expectations about the future using all available information, including their understanding of how the government and the central bank are likely to behave. They don't make systematic mistakes.
 
-Rational expectations is a strong assumption. In its full form (people use the model perfectly), it's clearly wrong — the data show systematic deviations from full rationality. In its weaker form (people use available information sensibly), it's roughly right and has been incorporated into modern macroeconomic models.
+The policy implication is striking. Suppose the central bank announces it will accept higher inflation to lower unemployment — the 1970s Fed policy by another name. Rational firms, anticipating the coming inflation, immediately raise their prices. Rational workers, anticipating higher prices, immediately demand higher wages. By the time the monetary expansion arrives, prices and wages have already adjusted upward. Real wages haven't changed. The unemployment-inflation trade-off the Fed was trying to exploit doesn't materialize.
 
-The policy implications:
+This is **the Lucas critique**: any policy rule that depends on people *not* anticipating it will fail when they learn to anticipate it. Systematic, predictable policy gets incorporated into expectations and neutralized.
 
-- **Credible commitments matter.** A central bank that has earned credibility for fighting inflation can change inflation expectations through statements and small actions. A central bank without credibility has to use much larger actions to achieve the same effect.
-- **Time-inconsistency is a problem.** A government that says "we won't bail out failing firms" but then bails them out anyway loses credibility for future commitments. People learn to expect bailouts.
-- **Rules vs. discretion.** Some neoclassical economists argue for rules-based monetary policy (a fixed rule that the Fed must follow) over discretion (Fed making decisions case-by-case), because rules provide credible commitments while discretion invites time-inconsistency.
+The implication for Volcker: when he announced a tight money policy in 1979, he wasn't believed immediately — the Fed had broken its own promises too many times in the 1970s. It took an actual recession to demonstrate the commitment. But once credibility was established, inflation expectations shifted downward, which made actual disinflation cheaper and faster than the Keynesian model would have predicted.
 
-## Supply-side policy
+This is what **credibility** means in the neoclassical framework: a track record that makes your commitments believable. A central bank that has earned credibility can lower inflation with less output cost than one that hasn't. A government that consistently follows through on its threats and promises creates fewer market distortions than one that doesn't.
 
-Neoclassical macroeconomics emphasizes long-run supply-side determinants of output: physical capital, human capital, labor force, technology, productivity. Policy that shifts the long-run AS curve right increases potential GDP.
+The flip side is **time-inconsistency**: a government that says "we won't bail out failing firms" but then bails them out anyway loses credibility. People learn to expect bailouts; firms take more risk knowing the government will rescue them. The Savings and Loan crisis of the 1980s, the financial crisis of 2008, and the repeated sovereign debt crises in Europe all show time-inconsistency dynamics in action.
 
-Major supply-side levers:
+The rational-expectations insight led to a strong neoclassical argument for rules over discretion in monetary policy. If the Fed commits to a clear rule — target 2 percent inflation, or target a specific growth path for nominal GDP — it limits its own discretion but gains credibility. Markets anchor their expectations on the rule, and the self-fulfilling dynamics work for price stability instead of against it.
 
-**Investment in human capital.** Education and training raise long-run productivity. The empirical evidence on the social return to education is consistent with substantial gains from expanding good schooling.
+---
 
-**Investment in infrastructure.** Roads, ports, airports, broadband. The return varies enormously by project; the best-designed infrastructure has high social returns.
+## Supply-Side Policy: What the Neoclassical View Recommends
 
-**R&D incentives.** Patents (with the trade-offs we covered in Chapter 13), R&D tax credits, public funding of basic research. The case for these rests on the rate-of-return gap from Chapter 13.
+If demand-side stimulus is mostly inflationary in the long run, and if long-run supply-side factors are what actually determine living standards, what should policy do?
 
-**Regulatory environment.** Reducing unnecessary regulatory burden raises productivity. The challenge is identifying the "unnecessary" portion — much regulation has real public-good or externality justifications.
+The neoclassical answer is: shift the long-run AS curve right. Increase potential GDP. Do this through:
 
-**Tax policy on capital and labor.** Lower taxes on saving and investment raise the after-tax return and encourage capital accumulation. Lower taxes on labor raise after-tax wages and encourage work. The trade-off is fewer revenues for public goods, transfers, and infrastructure investment.
+**Investment in human capital.** Education and training raise long-run productivity. A more skilled workforce adopts new technologies faster, organizes production more flexibly, and generates more TFP growth. The social return to education investment is well-documented and, in much of the world, high.
 
-**Open trade.** Trade allows specialization and division of labor on a global scale. Long-run productivity gains from openness are well-documented (with concentrated short-run losses for affected workers, as we'll cover in Chapters 33–34).
+**Investment in infrastructure.** Roads, ports, airports, energy grids, broadband. The return varies by project and context — infrastructure can be high-return or wasteful depending on whether the bottlenecks it addresses are real. Best-designed infrastructure has substantial social returns.
 
-**Immigration.** Adds workers and entrepreneurs. Changes the human capital mix.
+**R&D incentives.** Patents, R&D tax credits, public funding for basic research. The market underinvests in basic research because the returns are too diffuse and too uncertain to attract private capital. Public support addresses that externality (Chapter 13 covered why).
 
-The supply-side argument is that these durable policies do more for long-run living standards than short-run demand stabilization. The counterargument from Keynesians is that supply-side reforms are slow to act; in the meantime, recessions can do tremendous damage that fiscal stimulus could have prevented.
+**Regulatory reform.** Reducing unnecessary regulatory burden raises productivity. The challenge is identifying "unnecessary" — most regulation has real public-good or externality justifications. Reform works best when it removes inefficient duplication, outdated rules, or barriers that protect incumbents more than they protect the public.
 
-## Where the neoclassical view fits
+**Tax policy.** Lower taxes on saving and investment raise after-tax returns and encourage capital accumulation. Lower taxes on labor raise after-tax wages and encourage work. The trade-off is reduced public revenues — which means fewer public goods, less infrastructure, less human capital investment. Supply-side tax arguments work best when marginal tax rates are distortively high; they work less well when rates are already moderate.
 
-The neoclassical view is not a wholesale rejection of demand-side analysis; it's a claim about the long run. In the long run, virtually all economists agree that supply-side factors determine GDP per capita.
+**Open trade.** Trade allows specialization on a global scale, raising productivity through comparative advantage. Long-run gains from openness are well-documented and large. Short-run concentrated losses in import-competing industries are also well-documented and politically significant; we'll return to them in Chapters 33–34.
 
-The disagreement is about the short run. The Keynesian view says short-run unemployment can persist for years and the cost is enormous. The neoclassical view says wages and prices adjust faster than that, and demand-side intervention often makes things worse by destabilizing expectations.
+<!-- → [TABLE: Supply-side policy levers — summary. Columns: Policy / Mechanism / Evidence strength / Political challenge. Rows: Education investment (raises human capital, long-run productivity, strong evidence from returns to schooling, requires sustained public commitment); Infrastructure (reduces bottlenecks, raises productivity of all capital, varies by project quality, hard to distinguish good from pork-barrel); R&D incentives (addresses underinvestment in basic research, strong for basic research, weaker for applied, IP debates limit consensus); Regulatory reform (removes inefficient barriers, strong for worst cases, contested for most specific rules); Tax rates on capital/labor (raises after-tax return to productive activity, contested — effective only when rates are distortively high, revenue trade-off politically costly); Trade openness (gains from comparative advantage, strong aggregate evidence, concentrated worker losses generate political opposition). Caption: "Every supply-side lever has a mechanism, an evidence base, and a political constraint. The evidence on education and trade is strongest; the evidence on tax cuts is most contested."] -->
 
-The empirical record is mixed. The Great Depression of the 1930s and the slow recovery from the 2008–09 Great Recession both look like Keynesian episodes — sustained unemployment, sluggish self-correction, beneficial demand-side intervention. The 1970s stagflation and the post-Volcker disinflation look more neoclassical — expectations matter, demand stimulus is mostly inflationary at full employment, supply-side restructuring eventually produces durable gains.
+The supply-side argument is that durable policy in these areas does more for long-run living standards than short-run demand stabilization. The Keynesian counterargument: supply-side reforms are slow — a better-educated workforce takes 15 years to produce; a new bridge takes 7 years to build; in the meantime, recessions cause damage that well-designed demand stimulus could prevent.
 
-Both kinds of episodes happen. Modern macro tries to draw lessons from both.
+Both sides are right about their domain. The genuine disagreement is over the relative importance of short-run recessions versus long-run growth — and over whether demand-side intervention actually shortens recessions or merely adds debt with no net benefit.
 
-## The modern synthesis
+---
 
-Most professional macroeconomists today work with a framework that draws from both Keynesian and neoclassical perspectives. The standard textbook version, sometimes called **New Keynesian** macroeconomics, accepts:
+## Where the Neoclassical View Fits the Data
 
-- **Short-run sticky prices/wages produce real demand effects** (Keynesian).
-- **Long-run supply-side factors determine potential GDP** (neoclassical).
-- **Rational expectations matter for the dynamics** (neoclassical).
-- **Monetary policy is the primary stabilization tool** (some Keynesian, some neoclassical).
-- **Fiscal policy is useful at the zero lower bound and for automatic stabilization** (Keynesian).
-- **Inflation targeting and central bank independence are important** (neoclassical).
+The neoclassical view is not a wholesale rejection of Keynesian economics. It's a claim about timing, mechanisms, and policy priorities.
 
-The synthesis is not a clean compromise — different economists weight Keynesian and neoclassical pieces differently. There are genuine professional disagreements about the size of multipliers, the speed of self-correction, the value of fiscal stimulus, and the right monetary-policy framework.
+The empirical record is mixed, and honestly so.
 
-What's largely agreed:
-- Long-run supply matters most.
-- Sticky prices produce short-run demand effects.
-- Inflation expectations are central.
-- Monetary policy is the workhorse stabilization tool.
-- Both demand-side and supply-side policies have a role.
+Episodes that favor the neoclassical reading: the 1970s stagflation, which showed that demand stimulus mostly produces inflation when the economy is near potential; the Volcker disinflation, which showed that credibility-building works and that expectations matter; the U.S. recovery in the 1980s and 1990s, which was broadly consistent with the neoclassical prediction that once monetary stability was restored, the long-run supply side would produce sustained growth without continued demand management.
 
-What's contested:
-- The size of fiscal multipliers.
-- The speed of self-correction in deep recessions.
-- The right inflation target (2%? 4%? Variable?).
-- The conditions under which monetary policy is ineffective (zero lower bound, financial crisis).
+Episodes that favor the Keynesian reading: the Great Depression, which showed that demand-side collapse can be deep, sustained, and not self-correcting on any relevant time horizon; the 2008–09 Great Recession and its aftermath, where economies with larger fiscal responses recovered faster; Japan's "lost decade" (actually two), where deflation and demand weakness persisted despite absence of obvious supply-side problems.
 
-## Synthesis
+The deep issue is this: both supply-side and demand-side forces are operating simultaneously in every macroeconomic episode. The question is which force dominates and on which time horizon. Modern empirical macroeconomics is genuinely trying to answer this, and the honest answer is that the decomposition is hard and the answer varies.
 
-Pull back. The neoclassical perspective starts from the long run and works back. In the long run, GDP is determined by supply-side factors — capital, labor, human capital, technology, institutions. Markets clear. Demand-side intervention is mostly inflationary. The right macroeconomic policy is monetary stability plus supply-side reforms.
+---
 
-Rational expectations is the analytical innovation that makes the framework work. People form expectations using available information; predictable policy is anticipated; surprise is short-lived. Credible commitments to inflation control are more powerful than discretionary tinkering.
+## The Modern Synthesis
 
-Supply-side policy — investment in human and physical capital, R&D incentives, regulatory and tax reform, openness to trade and immigration — produces durable long-run gains in potential GDP. The trade-off with Keynesian demand-side stabilization is real and partly empirical: how long is the long run? how big are the multipliers? how harmful is sustained unemployment?
+Most working macroeconomists today operate with a framework called **New Keynesian economics**, which accepts core elements from both perspectives:
 
-The Volcker disinflation that opened the chapter is the neoclassical case study. By accepting recession to break inflation expectations, the Fed restored long-run price stability and set up two decades of low inflation and substantial growth. The cost was real (10.8 percent unemployment in 1982). The benefit, in retrospect, appears to have been larger.
+**From the Keynesian side:** sticky prices and wages produce real demand effects in the short run; recessions impose genuine output and employment costs; fiscal stimulus has some positive effect at the zero lower bound; automatic stabilizers (unemployment insurance, progressive taxes) smooth business cycles.
 
-The modern synthesis combines both perspectives. Sticky prices produce short-run demand effects (Keynesian). Long-run is supply-determined (neoclassical). Expectations matter (neoclassical). Monetary policy is the primary tool (mixed). Fiscal policy at the zero lower bound (Keynesian).
+**From the neoclassical side:** the long run is supply-determined; rational expectations matter for policy dynamics; monetary credibility is central; supply-side reforms raise potential GDP; the fiscal multiplier is smaller than simple Keynesian models predict because of Ricardian equivalence and expectation effects.
 
-The next several chapters develop the institutional machinery: money and banking (Ch 27), monetary policy (Ch 28), exchange rates (Ch 29), fiscal policy (Ch 30), government debt (Ch 31), international policy comparisons (Ch 32). Then we close with international trade (Ch 33–34).
+**Where there's genuine ongoing disagreement:** the size of fiscal multipliers (1.0? 1.5? 0.5?); the speed of self-correction in deep recessions (months? years? a decade?); the right inflation target (2 percent? 4 percent? nominal GDP level targeting?); the conditions under which monetary policy loses effectiveness; the long-run effects of debt accumulation.
+
+The synthesis is a work in progress. The Keynesian and neoclassical perspectives are not just theoretical positions — they generate different predictions, different policy prescriptions, and different empirical hypotheses. The field is better for having both.
+
+---
+
+## The Volcker Lesson
+
+Pull back to where the chapter started.
+
+Volcker's decision to induce a recession to break inflation expectations is the neoclassical case study. The Keynesian view would have counseled against it: the cost in unemployment was enormous, and the Keynesian model of the time offered alternative tools. The neoclassical view said: the inflation has become self-fulfilling; the only way to break it is to break the expectations; breaking the expectations requires demonstrating that the Fed will accept short-run pain for long-run stability; that demonstration requires the recession.
+
+The outcome was a 10.8 percent unemployment peak and decades of low inflation afterward. Whether the cost-benefit calculation came out right — whether the decades of price stability were worth the 1982 recession — is ultimately a values question as much as an economic one. But the mechanism worked as the neoclassical framework predicted.
+
+That's the honest account of where the neoclassical view is most powerful: when expectations are embedded, when credibility matters, when the long-run consequences of short-run choices are large, and when supply-side reforms are the right medicine for the disease being treated. It's most limited when the economy is in a deep demand-shortfall recession, when prices are already at the lower bound, and when the self-correction mechanism is moving too slowly for its timing to matter for real human lives.
+
+---
 
 ## LLM Exercises
 
@@ -137,15 +130,6 @@ The next several chapters develop the institutional machinery: money and banking
 
 **Exercise 5 — Stress-test both frameworks.** Ask an LLM to identify a real economic episode that the Keynesian framework explains well but the neoclassical doesn't, and one where the reverse is true. The answer should engage with specific historical episodes, not abstract claims.
 
-## What comes next
-
-Chapter 27 — Money and Banking introduces the institutional framework for understanding monetary policy. Chapter 28 — Monetary Policy and Bank Regulation covers the Federal Reserve's tools and decisions. Chapter 30 — Fiscal Policy covers government spending and taxes. The synthesis between Keynesian and neoclassical perspectives runs through all of these — both schools have contributed to how modern macro policy actually operates.
-
-**What would change my mind.** The case that supply-side reforms produce durable gains rests on cross-country and long-run evidence that's correlational. If new evidence showed that supply-side reforms produce smaller or shorter-lived effects than is commonly assumed, the case for neoclassical priority over Keynesian intervention would weaken.
-
-**Still puzzling.** I do not have a clean account of why some recessions produce sustained output losses (the U.S. and Europe after 2008) while others don't (the U.S. after the early 1980s recessions). The supply-side story would predict full recovery in both cases; the demand-side story can explain persistent losses but doesn't predict why they happen sometimes and not others.
-
-*Byline: Nik Bear Brown.*
 ---
 
 ## LLM Exercise — Chapter 26: The Neoclassical Perspective (Policy Brief Project)
@@ -214,16 +198,19 @@ long run. Most defensible briefs end up here.
 
 **Preview of next chapter:** Chapter 27 covers money and banking — what money does, how banks create it, the money-supply measures. If your policy interacts with the monetary system (most macro-scale policies do), the next two chapters set up the monetary-policy response.
 
-
 ---
 
-##  AI Wayback Machine
-**Milton Friedman** was developed monetarism and championed market-oriented policy — Nobel 1976.
+## AI Wayback Machine
+
+**Milton Friedman** developed monetarism and championed market-oriented policy — Nobel 1976.
 
 **Run this:**
 
 ```
-Who is Milton Friedman, and how does their work connect to neoclassical perspective we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about their career or ideas.
+Who is Milton Friedman, and how does their work connect to
+the neoclassical perspective we covered in this chapter?
+Keep it to three paragraphs. End with the single most
+surprising thing about their career or ideas.
 ```
 
 → Search **"Milton Friedman"** on Wikipedia.
@@ -234,3 +221,7 @@ Who is Milton Friedman, and how does their work connect to neoclassical perspect
 - Add a constraint: "Answer including criticisms or limits of Milton Friedman's framework."
 
 What changes? What gets better? What gets worse?
+
+---
+
+*Byline: Nik Bear Brown.*
