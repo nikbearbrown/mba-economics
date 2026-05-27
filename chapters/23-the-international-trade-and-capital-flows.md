@@ -1,122 +1,179 @@
 # Chapter 23 — International Trade and Capital Flows
 
-
-## TL;DR
-
-- Why a country's trade balance is a financial story, not just a goods story.
-- The chapter moves through What gets counted in the trade accounts, The savings-investment identity, Why trade deficits aren't always bad, Trade balance vs. level of trade, and related ideas.
-- Read it for the main argument, the vocabulary it introduces, and the practical judgment it asks you to develop.
-
 *Why a country's trade balance is a financial story, not just a goods story.*
 
-In 2023, the United States imported $773 billion more in goods and services than it exported. China ran a surplus of about $880 billion the other way. Germany's surplus was $250 billion. Japan's was $20 billion.
+---
 
-Most political commentary treats trade deficits as bad — the country is "losing" something, foreign goods are "displacing" American workers, the imbalance must be "fixed." Most political commentary on trade surpluses treats them as good — the country is "winning," exports are creating jobs.
+In 2023, the United States imported $773 billion more in goods and services than it exported. China ran a surplus of about $880 billion the other way. Germany's surplus was $250 billion.
 
-The economics behind these flows is more interesting. A country's trade balance is, by accounting identity, exactly equal to the difference between its national savings and its national investment. If a country invests more than it saves, the difference must come from abroad — which means the country imports more than it exports. The trade deficit is the visible counterpart of a financial inflow that's funding domestic investment that domestic savings can't cover.
+Most political commentary treats trade deficits as bad — the country is "losing" something, foreign goods are "displacing" domestic workers, the imbalance must be "fixed." Most political commentary on surpluses treats them as good — the country is "winning," exports are creating jobs.
 
-This isn't a controversial claim. It's an accounting identity — true by construction. Once you see it, the political debate about trade looks different. The U.S. trade deficit is, in part, the consequence of the U.S. being a net importer of capital — foreigners buying U.S. Treasury bonds, U.S. corporate bonds, U.S. stocks, U.S. real estate, U.S. firms. Whether the deficit is "good" or "bad" depends on what the imported capital is being used for, not on whether the trade balance is positive or negative.
+The economics behind these flows is more interesting than either story.
 
-This chapter develops the framework. By the end you should be able to read a current-account report, see how it connects to capital flows, identify when a trade deficit is healthy versus when it's a warning sign, and distinguish the *level* of trade from the *balance* of trade.
+A country's trade balance is, by accounting identity, exactly equal to the difference between its national savings and its national investment. If a country invests more than it saves, the gap must come from abroad — which means it imports more capital than it exports, which means it imports more goods and services than it exports. The trade deficit is the visible counterpart of a financial inflow that's funding domestic investment domestic savings can't cover.
 
-**Learning objectives.** By the end you should be able to: (1) define the merchandise trade balance and the current account balance and identify their components; (2) explain the savings-investment identity (S − I = NX) and use it to explain trade-balance dynamics; (3) explain why a trade deficit must be matched by a capital inflow; (4) identify circumstances under which a trade deficit is healthy and circumstances under which it's unhealthy; (5) distinguish the level of trade (exports + imports as share of GDP) from the balance of trade (exports minus imports).
+This is not a controversial claim. It is an accounting identity — true by construction. Once you see it, the political debate about trade looks different. The U.S. trade deficit is, in part, the consequence of the U.S. being a net importer of capital: foreigners buying U.S. Treasury bonds, U.S. corporate bonds, U.S. stocks, U.S. real estate, U.S. firms. Whether the deficit is good or bad depends on what the imported capital is being used for, not on whether the trade balance is positive or negative.
 
-**Prerequisites.** Chapter 4 (financial capital market). Chapter 17 (savings and investment). Chapter 19 (GDP, NX as a component).
+---
 
-## What gets counted in the trade accounts
+## What gets counted
 
-A country's transactions with the rest of the world are tracked in the **balance of payments**. Two main pieces.
+A country's transactions with the rest of the world are tracked in the **balance of payments**, which has two main components.
 
-The **current account** records the flow of goods, services, income, and transfers across borders.
+The **current account** records flows of goods, services, income, and transfers across borders.
 
-- **Merchandise trade balance** — physical goods exported minus imported. This is what most people mean by "the trade deficit."
-- **Services balance** — services exported minus imported. The U.S. typically runs a surplus here (financial services, software licensing, royalties, education for foreign students).
-- **Income balance** — investment income earned abroad by U.S. residents minus income paid to foreign owners of U.S. assets.
-- **Unilateral transfers** — gifts, foreign aid, remittances sent home by immigrants.
+The *merchandise trade balance* — physical goods exported minus imported — is what most people mean when they say "the trade deficit." It's the number that generates most of the political commentary.
 
-The **capital and financial account** records flows of financial assets — foreign direct investment, portfolio investment in stocks and bonds, official reserve holdings, central bank transactions.
+The *services balance* — services exported minus imported. The U.S. typically runs a surplus here: financial services, software licensing, royalties, tourism, university tuition paid by foreign students.
 
-By accounting identity, the current account and the capital account must sum to zero (with a small statistical discrepancy). Every dollar that crosses the border for goods, services, or transfers is matched by a dollar moving in financial assets the other way. **Trade deficits must be matched by capital inflows; trade surpluses must be matched by capital outflows.**
+The *income balance* — investment income earned abroad by U.S. residents minus income paid to foreign owners of U.S. assets.
 
-This identity is the heart of the chapter. Take it seriously and a lot of confused commentary about trade dissolves.
+*Unilateral transfers* — remittances, foreign aid, gifts.
+
+The **capital and financial account** records flows of financial assets — foreign direct investment in real businesses, portfolio investment in stocks and bonds, official reserve holdings, central bank transactions. When a German pension fund buys U.S. Treasury bonds, that's a capital account entry.
+
+Now the identity: the current account and the capital account must sum to zero. Every dollar that crosses the border for goods and services is matched by a dollar moving the other way in financial assets. **Trade deficits must be matched by capital inflows. Trade surpluses must be matched by capital outflows.**
+
+This is not a tendency or a policy goal. It is an accounting identity — it holds exactly, by construction, the same way a balance sheet must balance. Understanding it changes how you read trade news.
+
+<!-- → [TABLE: Balance of payments structure — columns: Account | Components | U.S. balance (approximate, 2023) | Sign convention; rows: Current account / Merchandise trade / −$1.1 trillion / Negative = deficit in goods; — / Services / +$270 billion / Positive = U.S. surplus in services; — / Income balance / +$200 billion / Investment income earned abroad vs. paid out; — / Unilateral transfers / −$150 billion / Remittances, foreign aid; Current account total / Sum of above / −$800 billion / The "trade deficit" broadly defined; Capital and financial account / FDI, portfolio flows, reserve changes / +$800 billion (approx.) / Must offset current account; caption: "The current account and capital account always sum to zero — every dollar leaving for goods comes back as a financial claim. The U.S. services surplus and income surplus offset some of the large goods deficit."] -->
+
+---
 
 ## The savings-investment identity
 
-The macroeconomic version of the identity is what we'll work with most.
+The macroeconomic version of the same identity is the one we'll use most.
 
-In any economy, GDP equals the sum of consumption, investment, government purchases, and net exports:
+Start from the GDP identity from Chapter 19:
 
-> **Y = C + I + G + (X − M)**
+$$Y = C + I + G + (X - M)$$
 
-Where Y is GDP, C is consumption, I is investment, G is government purchases, X is exports, M is imports.
+**National saving** is what's left after consumption and government spending — the resources the country generates but doesn't currently consume:
 
-**National saving** (S) is what's left after consumption and government spending: S = Y − C − G. This includes private saving (households and firms) and public saving (government surplus, if any).
+$$S = Y - C - G$$
 
 Substitute and rearrange:
 
-> **S − I = X − M = NX**
+$$S - I = X - M = NX$$
 
-National saving minus national investment equals net exports. If S > I, the country has more saved than it can invest at home, and the excess flows out — visible as a trade surplus (exports > imports). If S < I, the country invests more than it saves, the gap is filled by foreign capital inflows, and it imports more than it exports.
+National saving minus national investment equals net exports. This is not an approximation or a simplified model. It's arithmetic.
 
-This explains a lot. The U.S. has a chronic trade deficit because U.S. national savings are persistently below U.S. national investment. The combined savings of households (often low), the federal government (typically running a deficit), and U.S. firms aren't enough to fund all the investment opportunities that yield acceptable returns. The shortfall is filled by foreign investors who want to hold U.S. assets — Treasury bonds, corporate bonds, stocks, real estate, businesses.
+Two implications follow directly.
 
-China runs a trade surplus because it saves more than it invests. The surplus flows abroad in the form of Chinese accumulation of foreign assets (especially U.S. Treasuries, which is why China holds about $800 billion of U.S. government debt as of 2024).
+If $S > I$: the country saves more than it can productively invest at home. The excess must go somewhere — it flows abroad as capital outflows, which appear on the other side as a trade surplus.
 
-Germany's surplus is similar — high national savings, channeled into the rest of Europe and the U.S. through capital outflows.
+If $S < I$: the country invests more than it saves. The gap must come from somewhere — it arrives from abroad as capital inflows, which appear on the other side as a trade deficit.
 
-The trade balance, in this framework, is not primarily about exporters' competitiveness or trade policy. It's about the savings-investment gap. Trade policies (tariffs, subsidies, quotas) can affect *which* goods get traded but they can't fundamentally change the trade *balance* without changing the underlying savings-investment relationship.
+The U.S. has a chronic trade deficit because U.S. national savings have been persistently below U.S. national investment. The combined savings of households (often low by international standards), the federal government (typically running fiscal deficits), and U.S. firms are not enough to fund all the investment in the U.S. economy. The shortfall is filled by foreign investors who want U.S. assets — Treasury bonds, corporate bonds, equities, real estate. China holds approximately $800 billion of U.S. government debt as of 2024. Japan holds roughly $1.1 trillion. This is not altruism; it's saving being exported from countries with excess savings to a country with excess investment demand.
+
+China runs a trade surplus because it saves substantially more than it invests domestically. The surplus flows abroad as Chinese accumulation of foreign assets. Germany's surplus has the same structure — high national savings rate, capital flowing out to the rest of Europe and beyond.
+
+The policy implication: trade policies (tariffs, subsidies, quotas) can affect *which* specific goods get traded and in what volumes. They cannot fundamentally change the trade *balance* without changing the underlying savings-investment gap. A tariff on Chinese imports that reduces merchandise imports will tend to appreciate the U.S. dollar (because capital inflows continue while trade flows adjust), reduce other exports, and restore the deficit through different goods. The identity holds.
+
+<!-- → [DIAGRAM: Savings-investment identity for three countries — three horizontal bars showing S vs. I for each country; Country 1 (U.S.): I bar longer than S bar, gap labeled "Capital inflow needed = Trade deficit"; Country 2 (Germany): S bar longer than I bar, gap labeled "Capital outflow = Trade surplus"; Country 3 (South Korea 1980s): I bar much longer than S bar, gap labeled "Large capital inflow funding fast growth"; caption: "The trade balance is the right side of S − I = NX. Change either S or I and the trade balance must follow — tariffs don't touch this relationship"] -->
+
+---
 
 ## Why trade deficits aren't always bad
 
-Pull this through to specific cases. A trade deficit is a capital inflow. What is the inflow funding?
+A trade deficit is a capital inflow. The right question is not "is the deficit bad?" but "what is the inflow funding?"
 
-**Productive investment.** A country borrows from abroad to build factories, infrastructure, R&D capacity. Future income from these investments will be larger than the borrowing cost. The country gets richer. This is the typical pattern for developing countries that grow fast — Korea, Taiwan, China in earlier decades — and ran trade deficits during their high-growth phases.
+**Productive investment in a growing economy.** A country borrows from abroad to build factories, infrastructure, education, research capacity. Future income from these investments will exceed the borrowing cost. The country gets richer; the debt is serviceable. This is the historical pattern for most successful developing countries during their high-growth phases. South Korea and Taiwan ran substantial trade deficits during the decades when they were industrializing. The deficits reflected more investment opportunity than domestic savings could fund — and the investments paid off.
 
-**Productive investment with poor returns.** A country borrows to invest in things that don't pay off. The country ends up with debt and underused assets. Many Latin American countries in the 1970s and Asian countries in 1996–97 fit this pattern.
+**Investment with poor returns.** A country borrows to build airports no one uses, highways to nowhere, industrial capacity that can't compete. The debt accumulates without generating the income to service it. Many Latin American countries in the 1970s fit this pattern; several Asian economies in 1996–97 were closer to this than the success story above.
 
-**Consumption-financed deficit.** A country borrows from abroad to fund current consumption — households living above their means, government deficits funding social spending. Future income won't be larger; the borrowing has to be repaid with reduced future consumption. Historically problematic.
+**Consumption-financed deficit.** A country borrows from abroad to fund current consumption — households living above their incomes, governments running persistent deficits to fund transfers. Future income won't be larger. The borrowing eventually has to be repaid through reduced future consumption. This is where trade deficits become genuinely problematic.
 
-**Government deficit financed by foreign capital.** Same as above but with the public sector as the borrower. The U.S. fits this pattern partially since the early 1980s.
+**Government deficit financed by foreign capital.** Same as above, but with the public sector as the borrower. The U.S. fits this partly since the early 1980s — the fiscal deficit is larger than U.S. private saving offsets, so the gap is financed by foreigners' continued willingness to hold dollar-denominated assets.
 
-The same trade deficit number can represent any of these scenarios. Looking at *what* the imported capital is being used for tells you whether the deficit is sustainable and healthy.
+Looking at the same deficit number, these scenarios are structurally different. The first is benign; the third and fourth are warning signs. The trade balance number alone doesn't tell you which case you're in. You have to look at what the imported capital is actually doing.
+
+<!-- → [TABLE: Four deficit scenarios — columns: Scenario | What the capital inflow funds | Future income | Sustainability | Historical examples; rows: Productive investment / Factories, infrastructure, R&D / Rises above borrowing cost / Sustainable / South Korea and Taiwan in high-growth decades; Poor-return investment / Overbuilt airports, uncompetitive capacity / Doesn't rise sufficiently / Unsustainable / Latin America 1970s, some Asian countries 1996–97; Consumption-financed / Household spending above income / Unchanged / Unsustainable — requires future spending cuts / Several developing countries before crises; Government deficit / Transfers, public wages, debt service / Unchanged / Depends on reserve-currency status / U.S. since 1980s (partly); caption: "The deficit number doesn't tell you which row you're in. That requires looking at what the capital is actually doing in the domestic economy."] -->
+
+---
 
 ## Trade balance vs. level of trade
 
 A separate question: not whether trade is balanced, but how much trade is happening at all.
 
-Some countries have very high levels of trade — exports plus imports as a percentage of GDP — without big imbalances. Singapore's exports plus imports exceed 300 percent of GDP. The Netherlands and Belgium are over 150 percent. South Korea and Germany are over 80 percent. The U.S. is about 25 percent.
+The **level of trade** is exports plus imports expressed as a share of GDP. This measures how integrated the country is with the world economy.
 
-High trade levels reflect:
-- **Small country size.** Smaller economies necessarily trade more across borders to access the variety and scale of larger markets.
-- **Comparative advantage.** Countries that specialize heavily in exporting some goods and importing others have high levels of trade.
-- **Open trade policy.** Low tariffs, few non-tariff barriers, integration into trading blocs (the EU, NAFTA/USMCA) all raise trade levels.
-- **Geographic location.** Being a hub (Singapore, the Netherlands) raises trade.
+Singapore's exports plus imports exceed 300 percent of GDP. The Netherlands and Belgium are over 150 percent. South Korea and Germany are over 80 percent. The U.S. is about 25 percent.
 
-The level of trade affects the country's exposure to international shocks and its access to foreign markets. The balance of trade is a separate question about savings, investment, and capital flows. A country can have high-level trade and balanced trade (Germany), high-level trade with surplus (Switzerland, Singapore), high-level trade with deficit (some smaller emerging markets), low-level trade with deficit (the U.S.).
+The level of trade and the balance of trade are different things. A country can have:
+- High trade, balanced (Japan in some periods)
+- High trade, surplus (Germany, Switzerland, Singapore)
+- High trade, deficit (some smaller open economies)
+- Low trade, balanced (a relatively closed large economy)
+- Low trade, deficit (the U.S., which is surprisingly closed for its income level)
+
+What determines the level of trade? Primarily country size — smaller economies necessarily trade more across borders to access the variety and scale that larger domestic markets provide. Also comparative advantage (countries that specialize heavily in a few exports trade more), trade openness (low tariffs, participation in trading blocs), and geography (hub locations like Singapore or the Netherlands amplify trade).
+
+The level of trade affects the country's exposure to international shocks and its access to foreign markets. The balance of trade is a separate question about savings, investment, and capital flows. Conflating them produces bad analysis: treating a high-level country as "more successful" because it trades more, or treating a deficit country as "less successful" because its balance is negative.
+
+<!-- → [TABLE: Level vs. balance of trade — 2×3 matrix; rows: High trade level / Low trade level; columns: Surplus / Balanced / Deficit; cells: High+Surplus = Germany, Switzerland, Singapore; High+Balanced = Japan in some periods, Netherlands; High+Deficit = some smaller open emerging markets; Low+Surplus = China 2000s (relatively closed despite large absolute flows); Low+Balanced = India historically; Low+Deficit = United States (large economy, surprisingly closed at 25% of GDP); caption: "Level and balance are independent dimensions. A country's position on one tells you almost nothing about its position on the other."] -->
+
+---
 
 ## When trade deficits become problems
 
-Trade deficits aren't bad by themselves. They become problems when:
+The savings-investment identity explains when trade deficits signal trouble.
 
-**The capital inflow is funding consumption rather than investment.** The country's future income won't be larger to repay the debt.
+**The capital inflow is funding consumption rather than investment.** Future income won't grow to service the debt. The borrowing has to be repaid through reduced future consumption. This is the dangerous case.
 
-**The capital inflow can reverse suddenly.** Foreign investors deciding to pull out can produce currency collapse, banking crises, recession. The 1997 Asian Financial Crisis followed this pattern.
+**The capital inflow is short-term and reversible.** Portfolio capital — especially in stocks and bonds — can reverse direction quickly when investor sentiment shifts. Foreign direct investment is stickier; it involves actual physical assets. Countries that fund their deficits with short-term portfolio flows are vulnerable to sudden stops — episodes when capital leaves faster than the trade account can adjust. The 1997 Asian Financial Crisis followed this pattern: countries with large deficits funded by short-term capital saw investors pull out rapidly, currencies collapsed, and recessions followed.
 
-**The deficit is large and persistent.** Eventually, foreign holdings of domestic assets reach levels that begin to constrain monetary policy or generate political backlash.
+**The surplus is artificially maintained through currency intervention.** Some countries run large surpluses partly by keeping their exchange rates weak — central banks buy foreign currency to suppress the domestic currency's value, making exports cheaper and imports more expensive. The reciprocal effect on trading partners is concentrated deficits in specific industries. China maintained this practice through much of the 2000s and 2010s, though its surplus has since declined for other reasons. The practice hurts workers in import-competing industries in the deficit countries even as it helps consumers.
 
-**The surplus side is intentionally artificial.** Some countries (China for many years) ran large trade surpluses partly through currency intervention — keeping the exchange rate weak to favor exports. The reciprocal effect on trading partners is concentrated trade deficits in specific industries that can hurt local workers and create political pressure.
+**The deficit is large, persistent, and funded by foreign governments.** The U.S. trade deficit since the 1980s is funded substantially by foreign government and central-bank holdings of U.S. Treasury bonds. So far this has been sustainable because the U.S. dollar is the world's primary reserve currency — there is persistent global demand for dollar-denominated assets. Whether this remains true as China and other countries develop alternative reserve currencies and payment systems is one of the larger open questions in international economics.
 
-The U.S. trade deficit since the 1980s has been large and persistent, and is funded substantially by foreign government holdings of U.S. Treasury bonds. So far, it has been sustainable because the U.S. dollar's role as the global reserve currency creates strong demand for U.S. assets. Whether this will continue is one of the larger open questions in international economics. If foreign demand for U.S. assets ever weakens substantially, the trade deficit would have to fall — through some combination of higher U.S. savings, lower U.S. investment, currency depreciation, and adjustment in trading partners.
+---
 
 ## Synthesis
 
-Pull back. The trade balance is the visible side of a financial story. By accounting identity, a trade deficit equals a capital inflow, and a trade surplus equals a capital outflow. The deeper driver is the savings-investment gap. Countries that save more than they invest run surpluses. Countries that invest more than they save run deficits. Trade policy affects which goods get traded but not the balance.
+Pull back. The trade balance is the visible side of a financial story. By accounting identity, a trade deficit equals a capital inflow, and a trade surplus equals a capital outflow. The deficit and surplus don't exist in isolation — they are the mirror image of decisions made by savers and investors around the world about where to put their money.
 
-Whether a deficit is healthy depends on what the imported capital is doing. Funding productive investment in a growing economy is fine. Funding consumption or unsustainable government spending is not. The U.S. case is mixed and contested — the deficit funds some productive investment, some consumption, and some government dis-saving.
+The deeper driver is the savings-investment gap: $S - I = NX$. Countries that save more than they invest run surpluses. Countries that invest more than they save run deficits. Trade policy can shift the composition of what gets traded and at what prices; it cannot change the aggregate trade balance without changing the savings-investment relationship that underlies it.
 
-The level of trade is a separate question from the balance of trade. Small economies trade more (as a share of GDP) than large ones; open economies trade more than closed ones. Both small and large economies can have any of the four combinations of trade-level (high or low) and balance (surplus, balanced, deficit).
+Whether a deficit is healthy depends entirely on what the imported capital is being used for. Funding productive investment in a growing economy: fine, probably good. Funding consumption or unsustainable government borrowing: eventually problematic. The U.S. case is mixed — the deficit funds some productive investment, some consumption, and some government dis-saving. The answer to "is the U.S. trade deficit bad?" is genuinely complicated.
 
-The next chapter assembles the macroeconomic framework — the AD-AS model — that brings together everything from Chapters 19 through 23 into a unified picture of how the macroeconomy responds to shocks and policies. Chapter 25 then takes the Keynesian perspective on that framework; Chapter 26 takes the neoclassical perspective.
+The level of trade is a separate question from the balance of trade. Small, open economies trade more (as a share of GDP) than large, less-open ones. Both can have surpluses, deficits, or balanced trade. The question of whether trade levels are appropriate is about comparative advantage, specialization, and market access. The question of whether the balance is appropriate is about savings, investment, and capital flows. They're related but not the same.
+
+The next chapter assembles the macroeconomic framework — the AD-AS model — that brings together everything from Chapters 19 through 23 into a unified picture of how the economy responds to shocks and policies.
+
+---
+
+## Exercises
+
+**Warm-up**
+
+*1. The accounting identity.* Country X has GDP of $2 trillion, consumption of $1.3 trillion, investment of $400 billion, government purchases of $450 billion, and exports of $350 billion. (a) Using the GDP identity, calculate imports. (b) Calculate national saving (S = Y − C − G). (c) Calculate the savings-investment gap (S − I). (d) Verify that it equals net exports. (e) Is Country X running a trade surplus or deficit? What is the capital flow counterpart? *(Tests: deriving imports from the identity; computing national saving; verifying S − I = NX directly.)*
+
+*2. Classify the capital flow.* For each of the following, identify whether it's a current account or capital/financial account transaction — and whether it widens or narrows the U.S. trade deficit: (a) A Japanese automaker builds a factory in Alabama; (b) A U.S. consumer buys a Japanese TV; (c) A Chinese state-owned fund buys U.S. Treasury bonds; (d) A U.S. software company licenses its code to a German firm for annual royalties; (e) A Saudi sovereign wealth fund buys shares in a U.S. tech company; (f) The U.S. government sends foreign aid to Ukraine. *(Tests: mapping transactions to the two accounts; direction-of-impact reasoning.)*
+
+*3. Why tariffs don't close the deficit.* The U.S. imposes a 25% tariff on all goods imported from China. Walk through what happens to: (a) merchandise imports from China; (b) the U.S. trade deficit (hint: use the identity S − I = NX); (c) the U.S. dollar's exchange rate; (d) U.S. exports to other countries. Is the overall trade deficit likely to shrink? Why or why not? *(Tests: the policy implication of the savings-investment identity — the mechanism that restores the deficit through other goods and currencies.)*
+
+**Application**
+
+*4. Diagnose the U.S. trade deficit.* The U.S. trade deficit in 2023 was roughly $800 billion. (a) Using the savings-investment framework, identify what must be true about U.S. national saving relative to U.S. national investment to produce this deficit. (b) The U.S. federal government ran a fiscal deficit of approximately $1.7 trillion in 2023. If the government's deficit is a key driver, what does the identity predict about the private-sector savings-investment balance? (c) China and Japan together hold roughly $1.9 trillion of U.S. Treasury bonds. What does this tell you about the capital-account counterpart to the U.S. current account deficit? *(Tests: applying the identity to a real country with real numbers; connecting the fiscal deficit to the trade deficit.)*
+
+*5. Korea vs. Argentina: same deficit, different story.* South Korea ran trade deficits averaging 3–5% of GDP during the 1970s and 1980s while growing rapidly. Argentina ran similar-sized trade deficits in the same era and eventually defaulted on its external debt. (a) Using the four-scenario framework from the chapter, classify each country's deficit. (b) What specific evidence would you look for to distinguish a "good" from a "bad" deficit in real time — before the outcomes are known? (c) What does this tell you about the usefulness of trade-balance numbers as economic indicators? *(Tests: applying the scenario framework to distinguish structurally different deficits; thinking about leading indicators.)*
+
+*6. The Asian Financial Crisis, 1997.* Before the crisis, Thailand, Indonesia, South Korea, and Malaysia all ran current account deficits funded primarily by short-term portfolio capital flows — not foreign direct investment. In 1997, foreign investors rapidly withdrew. (a) What happened to the current account balance after capital outflows began? Use the accounting identity. (b) What happened to the exchange rates of these countries? (c) What happened to GDP and employment? (d) What feature of the capital inflows made the crisis so severe, compared to a country whose deficits are funded by long-term FDI? *(Tests: the sudden-stop crisis dynamic; connecting capital-flow composition to crisis severity.)*
+
+**Synthesis**
+
+*7. Tariffs and the identity.* A politician argues: "Our trade deficit is $800 billion. If we impose tariffs on all imports, we'll reduce the deficit to zero." (a) Using the savings-investment identity, explain why this prediction is almost certainly wrong — trace the mechanism through exchange rates and the broader current account. (b) What would the U.S. need to change about its domestic saving and investment to reduce the trade deficit to zero? (c) Is zero trade deficit actually a desirable policy goal for the U.S.? What would a policy analyst need to weigh? *(Tests: the identity applied as a policy check; distinguishing goods-trade from current account; questioning the policy goal itself.)*
+
+*8. Germany's surplus puzzle.* Germany has run a persistent current account surplus of 5–8% of GDP for most of the 2000s and 2010s. Standard economic theory predicts that a surplus country's currency should appreciate until the surplus is eliminated. (a) Why hasn't this happened for Germany? (b) Germany shares the euro with deficit countries like Italy and Spain. How does this affect the adjustment mechanism? (c) From the perspective of Germany's EU trading partners, is Germany's surplus a problem? Use the identity to trace the effect on their accounts. *(Tests: the limits of the automatic adjustment mechanism; the euro as a constraint on exchange-rate adjustment; the distributional politics of surpluses.)*
+
+**Challenge**
+
+*9. The U.S. dollar's exorbitant privilege.* The chapter notes that the U.S. trade deficit is sustainable partly because the dollar is the world's reserve currency — there is persistent demand for dollar-denominated assets. (a) What specifically creates demand for U.S. Treasury bonds from foreign central banks and sovereign wealth funds? (b) If another currency (euro, yuan, digital currency) were to displace the dollar as the primary reserve currency, what would happen to the U.S. trade deficit and what adjustment mechanism would close it? (c) Is the ability to run persistent deficits by selling safe assets to the world a genuine benefit for U.S. households, or primarily a benefit to the U.S. government and financial sector? *(Tests: the reserve-currency privilege in terms of the identity; the adjustment dynamics if it ends; the distributional dimension.)*
+
+*10. Level vs. balance as policy targets.* Some economists argue the U.S. should pursue policies to raise the *level* of trade (more exports and more imports as share of GDP), while others argue it should focus on reducing the *imbalance* (smaller deficit). (a) Name one specific policy that would increase the level of trade without affecting the balance. (b) Name one specific policy that would reduce the deficit without affecting the level. (c) Are these two goals in tension, or can both be pursued simultaneously? (d) Which goal would do more for U.S. workers in import-competing industries? Which would do more for U.S. consumers? *(Tests: treating level and balance as genuinely separate policy targets; connecting each to different constituency interests.)*
+
+---
 
 ## LLM Exercises
 
@@ -130,21 +187,12 @@ The next chapter assembles the macroeconomic framework — the AD-AS model — t
 
 **Exercise 5 — Identify the level vs. balance distinction.** Give an LLM the trade-as-share-of-GDP and trade-balance numbers for three countries and ask which combinations of high/low level and surplus/deficit/balanced each represents. Then ask: which combination signals what about the country's economic structure?
 
-## What comes next
-
-Chapter 24 — The Aggregate Demand–Aggregate Supply Model brings together everything from Chapters 19 through 23 into a single framework. Chapter 25 — The Keynesian Perspective and Chapter 26 — The Neoclassical Perspective then explore the two main schools of thought about how the macroeconomy actually behaves and how policy should respond.
-
-**What would change my mind.** The savings-investment identity is mathematically true. The interesting policy claim is that trade policy can't fundamentally change the trade balance. This depends on the assumption that trade policy doesn't substantially affect domestic savings or investment — which is approximately true for tariffs but not for some other policies (consumption taxes, savings incentives, capital controls). If a major economy shifted its savings-investment balance through fiscal policy in a sustained way, the trade balance would change with it, and the rebalancing would happen through trade flows.
-
-**Still puzzling.** I do not have a clean account of why some countries (Germany) run sustained current account surpluses for decades without their currencies appreciating enough to eliminate the surplus. Standard adjustment mechanisms predict that surplus economies' currencies should rise until the surplus disappears. The persistence of "structural surpluses" suggests that the adjustment is much slower or weaker than the simple model implies, and the underlying reasons are contested.
-
-*Byline: Nik Bear Brown.*
 ---
 
 ## LLM Exercise — Chapter 23: International Trade and Capital Flows (Policy Brief Project)
 
-**Project:** Policy Brief.
-**What you're building this chapter:** the trade-and-capital-flow analysis — how the policy interacts with the trade balance, the savings-investment identity, and capital flows.
+**Project:** Policy Brief.  
+**What you're building this chapter:** the trade-and-capital-flow analysis — how the policy interacts with the trade balance, the savings-investment identity, and capital flows.  
 **Tool:** **Claude Project** "Policy Brief" — appends a section.
 
 ---
@@ -213,16 +261,18 @@ brief should be honest about that.
 
 **Preview of next chapter:** Chapter 24 introduces the AD/AS model — the workhorse of macroeconomic analysis. Your policy's macro effects can be diagrammed in AD/AS space, and the diagram makes visible whether the effect is on aggregate demand, aggregate supply, or both.
 
-
 ---
 
-##  AI Wayback Machine
-**David Ricardo** was introduced comparative advantage in 1817 — the most counter-intuitive proposition in economics.
+## AI Wayback Machine
+
+**David Ricardo** was an English economist whose *Principles of Political Economy and Taxation* (1817) introduced comparative advantage — the demonstration that even a country that is less efficient than its trading partner at producing every good can benefit from trade by specializing in the goods where its relative disadvantage is smallest.
 
 **Run this:**
 
 ```
-Who is David Ricardo, and how does their work connect to international trade we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about their career or ideas.
+Who is David Ricardo, and how does their work connect to international
+trade we covered in this chapter? Keep it to three paragraphs. End with
+the single most surprising thing about their career or ideas.
 ```
 
 → Search **"David Ricardo"** on Wikipedia.
@@ -233,3 +283,7 @@ Who is David Ricardo, and how does their work connect to international trade we 
 - Add a constraint: "Answer including criticisms or limits of David Ricardo's framework."
 
 What changes? What gets better? What gets worse?
+
+---
+
+*Byline: Nik Bear Brown.*
