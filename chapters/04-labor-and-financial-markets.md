@@ -215,6 +215,10 @@ the advocates haven't named.
 
 ## AI Wayback Machine
 
+![Anna Schwartz](../images/anna-schwartz-ibm.png)
+
+*Puppet Art by [Nik Bear Brown](https://www.nikbearbrown.com/).*
+
 **Run this:**
 
 ```

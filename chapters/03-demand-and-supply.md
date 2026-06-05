@@ -297,6 +297,10 @@ the diagram from your description.
 
 **Alfred Marshall** was the Cambridge economist whose *Principles of Economics* (1890) gave the demand-and-supply diagram the form we use today.
 
+![Alfred Marshall](../images/alfred-marshall-5ga.png)
+
+*Puppet Art by [Nik Bear Brown](https://www.nikbearbrown.com/).*
+
 **Run this:**
 
 ```

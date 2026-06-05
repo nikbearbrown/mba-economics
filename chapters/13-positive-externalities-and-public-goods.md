@@ -241,6 +241,10 @@ critics will raise against the policy.
 
 **Elinor Ostrom** was a Nobel Prize–winning political economist whose empirical work on common-pool resources overturned the standard prediction that shared resources always collapse — showing that communities often develop effective governance institutions without requiring government intervention or private property rights.
 
+![Elinor Ostrom](../images/elinor-ostrom-5bi.png)
+
+*Puppet Art by [Nik Bear Brown](https://www.nikbearbrown.com/).*
+
 **Run this:**
 
 ```

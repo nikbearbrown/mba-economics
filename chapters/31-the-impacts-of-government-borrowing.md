@@ -260,6 +260,10 @@ policies, it's central.
 
 **Carmen Reinhart** is a Harvard economist whose book *This Time Is Different: Eight Centuries of Financial Folly* (co-authored with Kenneth Rogoff, 2009) documented historical patterns of sovereign debt crises across countries and centuries — reshaping how economists and policymakers think about the risks of sustained government borrowing.
 
+![Carmen Reinhart](../images/carmen-reinhart-55o.png)
+
+*Puppet Art by [Nik Bear Brown](https://www.nikbearbrown.com/).*
+
 **Run this:**
 
 ```

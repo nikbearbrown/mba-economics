@@ -242,6 +242,10 @@ policy, and why.
 
 **Amartya Sen** is an Indian economist and philosopher who won the Nobel Prize in Economics in 1998 for his work on welfare economics and social choice — and who developed the *capability approach* to poverty, arguing that poverty should be understood not as lack of income but as lack of the real freedoms to live a life one has reason to value.
 
+![Amartya Sen](../images/amartya-sen-1n9.png)
+
+*Puppet Art by [Nik Bear Brown](https://www.nikbearbrown.com/).*
+
 **Run this:**
 
 ```

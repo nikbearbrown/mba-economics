@@ -231,6 +231,10 @@ domestic policy debate; the brief should not paper over this.
 
 **Esther Duflo** is a Nobel-winning development economist whose randomized controlled trials in poor countries reshaped policy evaluation.
 
+![Esther Duflo](../images/esther-duflo-ot5.png)
+
+*Puppet Art by [Nik Bear Brown](https://www.nikbearbrown.com/).*
+
 **Run this:**
 
 ```

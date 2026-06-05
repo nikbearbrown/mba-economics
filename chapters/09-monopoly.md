@@ -246,6 +246,10 @@ loses?
 
 **Joseph Schumpeter** was an Austrian-American economist whose theory of "creative destruction" reframed monopoly as a temporary phase in capitalism's continuous self-renewal through innovation — arguing that today's monopolist is always vulnerable to tomorrow's disruptive entrant.
 
+![Joseph Schumpeter](../images/joseph-schumpeter-5ru.png)
+
+*Puppet Art by [Nik Bear Brown](https://www.nikbearbrown.com/).*
+
 **Run this:**
 
 ```

@@ -245,6 +245,10 @@ shifted, what didn't, and why.
 
 ## AI Wayback Machine
 
+![Dani Rodrik](../images/dani-rodrik-0c4.png)
+
+*Puppet Art by [Nik Bear Brown](https://www.nikbearbrown.com/).*
+
 **Run this:**
 
 ```

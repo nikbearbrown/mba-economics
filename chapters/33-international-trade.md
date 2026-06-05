@@ -264,6 +264,10 @@ short-run-distributional test.
 
 **Eli Heckscher** was a Swedish economic historian who, with Bertil Ohlin, developed the Heckscher-Ohlin model of international trade — extending Ricardo by showing that comparative advantage arises from differences in countries' factor endowments (labor, capital, land), with each country exporting goods that use its abundant factor intensively.
 
+![Eli Heckscher](../images/eli-heckscher-36h.png)
+
+*Puppet Art by [Nik Bear Brown](https://www.nikbearbrown.com/).*
+
 **Run this:**
 
 ```

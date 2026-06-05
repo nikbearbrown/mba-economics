@@ -204,6 +204,10 @@ long run. Most defensible briefs end up here.
 
 **Milton Friedman** developed monetarism and championed market-oriented policy — Nobel 1976.
 
+![Milton Friedman](../images/milton-friedman-1px.png)
+
+*Puppet Art by [Nik Bear Brown](https://www.nikbearbrown.com/).*
+
 **Run this:**
 
 ```

@@ -225,6 +225,10 @@ best; the brief should name the gap and what creates it.
 
 **Arthur Pigou** developed the framework for "Pigouvian taxes" on negative externalities in 1920.
 
+![Arthur Pigou](../images/arthur-pigou-2z4.png)
+
+*Puppet Art by [Nik Bear Brown](https://www.nikbearbrown.com/).*
+
 **Run this:**
 
 ```

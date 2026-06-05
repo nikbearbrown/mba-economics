@@ -216,6 +216,10 @@ isn't obvious; the brief should name it.
 
 ## AI Wayback Machine
 
+![Edward Chamberlin](../images/edward-chamberlin-d62.png)
+
+*Puppet Art by [Nik Bear Brown](https://www.nikbearbrown.com/).*
+
 **Run this:**
 
 ```

@@ -267,6 +267,10 @@ different, this is the most important finding of the chapter.
 
 **Antoine Augustin Cournot** was the French mathematician and economist whose *Researches into the Mathematical Principles of the Theory of Wealth* (1838) was among the first works to use calculus to analyze economic behavior — decades before Marshall made the diagram familiar.
 
+![Antoine Augustin Cournot](../images/antoine-augustin-cournot-fa4.png)
+
+*Puppet Art by [Nik Bear Brown](https://www.nikbearbrown.com/).*
+
 **Run this:**
 
 ```

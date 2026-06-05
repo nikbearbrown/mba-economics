@@ -233,6 +233,10 @@ the dominant effect.
 
 **Léon Walras** developed general equilibrium theory in the 1870s — the mathematical foundation of perfect competition.
 
+![Léon Walras](../images/leon-walras-7t3.png)
+
+*Puppet Art by [Nik Bear Brown](https://www.nikbearbrown.com/).*
+
 **Run this:**
 
 ```

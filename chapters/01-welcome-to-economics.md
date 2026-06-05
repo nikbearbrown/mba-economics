@@ -324,6 +324,10 @@ Every later chapter's prompt assumes this foundation exists.
 
 **Joan Robinson** was a Cambridge economist whose *Imperfect Competition* (1933) reshaped microeconomics and challenged the marginalist consensus.
 
+![Joan Robinson](../images/joan-robinson-l7i.png)
+
+*Puppet Art by [Nik Bear Brown](https://www.nikbearbrown.com/).*
+
 **Run this:**
 
 ```

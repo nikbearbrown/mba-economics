@@ -254,6 +254,10 @@ be honest about this.
 
 **John Maynard Keynes** was a British economist whose *The General Theory of Employment, Interest, and Money* (1936) established the theoretical foundations for modern macroeconomics — arguing that insufficient aggregate demand could produce persistent unemployment and that government fiscal policy was the appropriate corrective instrument.
 
+![John Maynard Keynes](../images/john-maynard-keynes-cv9.png)
+
+*Puppet Art by [Nik Bear Brown](https://www.nikbearbrown.com/).*
+
 **Run this:**
 
 ```

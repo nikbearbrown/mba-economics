@@ -251,6 +251,10 @@ in its own right.
 
 **Irving Fisher** developed modern theory of interest rates and the quantity theory of money — and famously declared stocks at a "permanently high plateau" days before the 1929 crash.
 
+![Irving Fisher](../images/irving-fisher-cz3.png)
+
+*Puppet Art by [Nik Bear Brown](https://www.nikbearbrown.com/).*
+
 **Run this:**
 
 ```

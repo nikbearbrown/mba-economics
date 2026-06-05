@@ -269,6 +269,10 @@ not overclaim.
 
 **Walter Bagehot** was a 19th-century British journalist and economist whose *Lombard Street* (1873) defined the central bank's role as lender of last resort — arguing that in a crisis a central bank should lend freely to solvent institutions against good collateral at a penalty rate, a doctrine that still guides modern crisis response.
 
+![Walter Bagehot](../images/walter-bagehot-u97.png)
+
+*Puppet Art by [Nik Bear Brown](https://www.nikbearbrown.com/).*
+
 **Run this:**
 
 ```

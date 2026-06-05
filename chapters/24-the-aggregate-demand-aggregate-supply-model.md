@@ -219,6 +219,10 @@ brief should be precise.
 
 **Paul Samuelson** integrated Keynesian and neoclassical economics in his 1948 textbook — Nobel 1970.
 
+![Paul Samuelson](../images/paul-samuelson-6v9.png)
+
+*Puppet Art by [Nik Bear Brown](https://www.nikbearbrown.com/).*
+
 **Run this:**
 
 ```
